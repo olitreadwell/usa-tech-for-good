@@ -12,7 +12,7 @@ describe('buildEntryFeedbackUrl', () => {
     expect(url).toMatch(/^https:\/\/github\.com\/olitreadwell\/usa-tech-for-good\/issues\/new\?/);
     expect(url).toContain(`title=${encodeURIComponent('Entry update: Test Organisation')}`);
     expect(url).toContain(
-      encodeURIComponent('https://usa-tech-for-good.vercel.app/entry/test-org')
+      encodeURIComponent('https://olitreadwell.github.io/usa-tech-for-good/entry/test-org')
     );
     expect(url).toContain(encodeURIComponent('data/entries/test-org.yaml'));
     expect(url).toContain(encodeURIComponent('Spotted a mistake'));

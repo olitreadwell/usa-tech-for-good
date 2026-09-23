@@ -1,12 +1,15 @@
 import { getAllEntries } from '@/lib/data';
 
+// Resolved at build time so the route can be exported to a static file.
+export const dynamic = 'force-static';
+
 export async function GET() {
   const entries = getAllEntries();
   const newest = [...entries]
     .filter((e) => e.last_verified)
     .sort((a, b) => b.last_verified.localeCompare(a.last_verified))
     .slice(0, 20);
-  const base = 'https://usa-tech-for-good.vercel.app';
+  const base = 'https://olitreadwell.github.io/usa-tech-for-good';
 
   const items = newest
     .map(

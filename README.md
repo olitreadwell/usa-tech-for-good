@@ -49,11 +49,13 @@ The tooling and site come from
 the New Zealand data removed and the NZ-specific parts of the taxonomy
 replaced with US ones (see [Regions](#regions)).
 
-The website is not deployed yet. The Next.js app builds cleanly and passes
-its tests, but the Vercel build fails at the upload step, which is the same
-failure the NZ repos have been hitting. Until that is sorted, the directory
-is the YAML in `data/entries/`, [GUIDE.md](GUIDE.md), and the exports under
-`data/exports/`.
+**[Browse the live site](https://olitreadwell.github.io/usa-tech-for-good/)**:
+searchable, filter by domain, region, or tag, with a page for every entry.
+
+The site is a static export served from GitHub Pages, deployed by
+[`.github/workflows/pages.yml`](.github/workflows/pages.yml) on every push to
+`main`. See [docs/deploy.md](docs/deploy.md) for why it is Pages and not
+Vercel.
 
 ### Domains
 
@@ -214,9 +216,11 @@ entry, and commit the regenerated `GUIDE.md`. CI fails a PR if it's out of
 date. Full contribution steps, including commit message style, are in
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The site is a Next.js app in `apps/web`. Deploys are manual: `cd apps/web &&
-vercel --prod` (see [docs/deploy.md](docs/deploy.md)). Pushes never deploy on
-their own.
+The site is a Next.js app in `apps/web`, built as a static export
+(`next.config.ts` sets `output: 'export'`). A push to `main` builds and
+publishes it to GitHub Pages; you can reproduce the published files locally
+with `npm run build` and then look in `apps/web/out`. See
+[docs/deploy.md](docs/deploy.md).
 
 ## How it started
 
