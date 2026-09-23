@@ -15,6 +15,7 @@ technology for public good.
 - [Add an organisation and contribute](#add-an-organisation-and-contribute)
 - [Use the data](#use-the-data)
 - [How it's maintained](#how-its-maintained)
+- [Get involved](#get-involved)
 - [Related directories and further reading](#related-directories-and-further-reading)
 - [For developers](#for-developers)
 
@@ -144,6 +145,26 @@ region is missing.
 - This directory lists **public professional information only**. It does not
   list named people yet: see [docs/known-gaps.md](docs/known-gaps.md) for why,
   and how to help close that gap.
+
+## Get involved
+
+This directory answers what exists. These routes answer what to do next,
+each one checked on 2026-09-23:
+
+- **[Chi Hack Night](https://chihacknight.org)**: a weekly civic hack night
+  in Chicago, in person and online, open to anyone who turns up.
+- **[BetaNYC](https://beta.nyc)**: a civic technology community in New York
+  running meetups, events, and public-interest data projects.
+- **[Civic Tech Field Guide](https://civictech.guide)**: projects,
+  organisations, and community channels worldwide, including a directory of
+  Slacks, Discords, and Teams with open join links.
+- **[Catchafire](https://www.catchafire.org)**: a skilled volunteering
+  marketplace where nonprofits post short projects and professionals pick
+  one up.
+
+[`docs/research-get-involved.md`](docs/research-get-involved.md) has the
+full comparison of how these sites onboard newcomers, and the backlog for
+bringing the same routes into this directory.
 
 ## Related directories and further reading
 
