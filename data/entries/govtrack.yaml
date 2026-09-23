@@ -1,0 +1,22 @@
+name: GovTrack
+domain: civic-tech
+what: GovTrack tracks legislation and votes in the United States Congress and actions by the White House, and
+  publishes the record where anyone can follow it.
+region: national
+website: https://www.govtrack.us
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- congress
+- legislation
+- transparency
+- open data
+related_to: []
+source: govtrack.us homepage (verified 2026-09-23)
+founding_year: null
+takes_contributors: null
+careers_url: ''
+last_verified: '2026-09-23'

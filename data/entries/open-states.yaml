@@ -1,0 +1,22 @@
+name: Open States
+domain: open-data
+what: Open States publishes data on state legislatures across the United States. It covers who the legislators are, what
+  they sponsor, and how they vote.
+region: national
+website: https://openstates.org
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- state legislatures
+- open data
+- legislation
+- api
+related_to: []
+source: openstates.org homepage (verified 2026-09-23)
+founding_year: null
+takes_contributors: null
+careers_url: ''
+last_verified: '2026-09-23'
