@@ -5,7 +5,7 @@
 # Example: "Code for America" -> data/entries/code-for-america.yaml
 #
 # Fill in every field marked required. Leave optional fields as null,
-# empty string, or empty list if you don't have a verified value —
+# empty string, or empty list if you don't have a verified value.
 # never guess or invent a value.
 #
 # Once filled in, run `python3 scripts/validate.py` to check it against
@@ -16,7 +16,7 @@
 name: ""
 
 # Required. One of the domains listed in schema/entry.schema.json.
-# Reuse an existing domain where it fits — only add a new one if none fit.
+# Reuse an existing domain where it fits: only add a new one if none fit.
 domain: ""
 
 # Required. One or two plain-language sentences: what it does, why it
@@ -47,7 +47,7 @@ community_url: ""
 events_url: ""
 
 # Publicly known people connected to this entry, if verified. Usually
-# leave this as an empty list — this is a known gap in the directory.
+# leave this as an empty list: this is a known gap in the directory.
 linkedin_people: []
 # linkedin_people:
 #   - name: "Jane Doe"
@@ -58,16 +58,16 @@ linkedin_people: []
 tags: []
 
 # Other entries' exact `name` values this one is meaningfully connected
-# to — for example, it runs on another entry's data, or grew out of the
+# to: for example, it runs on another entry's data, or grew out of the
 # same network. Only include real, verifiable connections.
 related_to: []
 
-# Required. How you verified this entry — which page you checked, and
+# Required. How you verified this entry: which page you checked, and
 # how (e.g. "orgname.org homepage, verified 2026-09-23").
 source: ""
 
 # Optional. The year the organisation or project was founded, if you
-# have verified it. Leave as null if unverified — do not guess.
+# have verified it. Leave as null if unverified: do not guess.
 founding_year: null
 
 # Optional. Whether the organisation is known to take outside
