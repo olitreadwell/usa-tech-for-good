@@ -8,7 +8,8 @@ by real examples, not guesses.
 
 Written 2026-08-06 as part of the improvement loop, at the user's request,
 after a newcomer asked "how do I get involved" and found no clear answer on
-this site.
+this site. Ported to the US directory on 2026-09-23; the US sections are
+marked in the network notes below.
 
 ## Comparable sites studied
 
@@ -40,40 +41,23 @@ What it does that this repo doesn't:
 - **An interactive map**, so "what's near me" is a first-class way to
   browse, not just domain/region dropdowns.
 
-### Tech for Good Organisers Network (techforgoodorganisers.uk)
+### Chi Hack Night (chihacknight.org)
 
-A UK/Ireland network connecting ten local "tech for good" meetup
-communities (Tech For Good London, TechSoup Connect, Digital for Good
-Scotland, and others). Relevant because it shows a concrete, low-friction
-onboarding path:
+Chicago's weekly event for people who build, share, and learn about civic
+technology. Relevant because it is a working example of the low-friction
+path: turn up to a free weekly meetup, join a project, or pitch one. No
+membership, no application.
 
-1. Email the coordinator saying you're interested.
-2. Get added to the Slack workspace.
-3. Get a calendar invite to the next monthly meetup.
-4. Contribute at whatever level suits you. No minimum commitment.
+**This is a candidate directory entry in its own right** (it is not
+currently in `data/entries/`), and it is the most direct answer to "where do
+I find the next US event".
 
-That's the whole flow. Three steps, no application form, no interview.
+### BetaNYC (beta.nyc)
 
-### Digital Aotearoa Collective (digitalaotearoa.github.io/chat)
-
-A real, currently-active NZ community, not a hypothetical. "A civil society
-initiative to connect and welcome all people across Aotearoa New Zealand to
-dream and build better futures, together." Runs a Slack workspace with a
-direct join link, no gatekeeping. Also runs a GitHub org
-(github.com/digitalaotearoa), so it's an open-source-friendly community
-this directory could plausibly link to or even collaborate with.
-
-**This is a candidate directory entry in its own right** (it isn't
-currently in `data/entries/`).
-
-### Tech for Good New Zealand (meetup.com/tech-for-good-new-zealand)
-
-A real, currently-active Auckland-based meetup group, part of the global
-NetSquared network (70+ cities). Free events, open to charities, community
-groups, social enterprises, tech professionals, and digital marketers.
-
-**Also a candidate directory entry** (also not currently in
-`data/entries/`). Directly answers "where do I find the next event."
+A civic organisation working on civic design, technology, and data in New
+York, with the stated aim of an informed public that can hold government to
+account. It is a place-based example of the "join a community" path rather
+than a national directory.
 
 ### Catchafire (catchafire.org)
 

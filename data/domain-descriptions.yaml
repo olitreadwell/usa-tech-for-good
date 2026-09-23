@@ -8,11 +8,6 @@
 # Keep these short and concrete. No em dashes, no banned words (see
 # docs/STYLE.md) ; scripts/stylecheck.py checks this file too.
 
-"Māori data sovereignty / indigenous data": >-
-  Making sure Māori data, about Māori people, land, and taonga, stays
-  under Māori control and governance, instead of being held or used by
-  others without consent.
-
 "civic-tech": >-
   Tools that help people take part in how their communities and
   government work: petitions, submissions, participatory budgeting, and
@@ -59,10 +54,6 @@
   Tools that measure, reduce, or help people respond to climate change and
   its effects, from carbon tracking to clean-energy platforms.
 
-"health tech for good / hauora Māori": >-
-  Digital health tools built for public benefit, including Māori-led and
-  Māori-owned tech supporting hauora (holistic wellbeing).
-
 "housing / homelessness tech": >-
   Tools and data systems that help people find housing, coordinate
   homelessness services, or understand their rights as tenants.
@@ -70,10 +61,6 @@
 "human-rights tech": >-
   Digital campaigning, advocacy, and organising tools used to defend and
   advance human rights.
-
-"iwi / Māori tech initiatives": >-
-  Technology initiatives run by or for iwi and Māori communities: digital
-  infrastructure, connectivity, and community-led tech projects.
 
 "journalism / media-tech": >-
   Public-interest journalism and the platforms or funding that support

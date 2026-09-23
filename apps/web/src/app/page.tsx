@@ -15,11 +15,11 @@ export default function HomePage() {
   return (
     <main className="mx-auto max-w-5xl px-4 py-8">
       <section className="text-center">
-        <h1 className="text-4xl font-extrabold tracking-tight">Aotearoa tech for public good</h1>
+        <h1 className="text-4xl font-extrabold tracking-tight">US tech for public good</h1>
         <p className="mx-auto mt-4 max-w-xl text-lg text-text-muted">
           A living directory of {entries.length} organisations, projects, and networks using
-          technology for public benefit: open data, civic tech, climate, accessibility, Māori data
-          sovereignty, and more.
+          technology for public benefit: open data, civic tech, climate, accessibility, digital
+          inclusion, and more.
         </p>
         <div className="mt-6 flex justify-center gap-3">
           <Link

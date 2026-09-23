@@ -46,7 +46,7 @@ export function Header() {
           className="text-lg font-extrabold tracking-tight"
           onClick={() => setOpen(false)}
         >
-          NZ Tech-for-Good
+          US Tech-for-Good
         </Link>
 
         <div className="ml-auto flex items-center gap-1">

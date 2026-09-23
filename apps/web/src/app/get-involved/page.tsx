@@ -23,7 +23,7 @@ export default function GetInvolvedPage() {
         items={communities}
         linkKey="community_url"
         linkLabel="Join"
-        empty="No communities listed yet. Know an active NZ tech-for-good Slack or Discord? Suggest it on GitHub."
+        empty="No communities listed yet. Know an active US tech-for-good Slack or Discord? Suggest it on GitHub."
       />
 
       <Section
@@ -66,7 +66,7 @@ export default function GetInvolvedPage() {
         </p>
         <div className="mt-3 flex gap-3">
           <a
-            href="https://github.com/olitreadwell/nz-tech-for-good/issues/new?template=add-entry.yml"
+            href="https://github.com/olitreadwell/usa-tech-for-good/issues/new?template=add-entry.yml"
             target="_blank"
             rel="noopener noreferrer"
             className="rounded-lg bg-brand px-5 py-2 font-semibold text-white"
@@ -74,7 +74,7 @@ export default function GetInvolvedPage() {
             Suggest an entry
           </a>
           <a
-            href="https://github.com/olitreadwell/nz-tech-for-good/blob/main/CONTRIBUTING.md"
+            href="https://github.com/olitreadwell/usa-tech-for-good/blob/main/CONTRIBUTING.md"
             target="_blank"
             rel="noopener noreferrer"
             className="rounded-lg border border-border px-5 py-2 font-semibold hover:bg-surface-alt"

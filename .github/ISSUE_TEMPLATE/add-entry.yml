@@ -1,5 +1,5 @@
 name: Suggest a directory entry
-description: Suggest a New Zealand tech-for-good organisation, project, or network to add to the directory.
+description: Suggest a US tech-for-good organisation, project, or network to add to the directory.
 title: "[Entry] "
 labels: ["new entry"]
 body:
@@ -16,7 +16,7 @@ body:
     attributes:
       label: Name
       description: The organisation, project, or network's name.
-      placeholder: "e.g. Te Hiku Media"
+      placeholder: "e.g. Code for America"
     validations:
       required: true
 
@@ -26,7 +26,6 @@ body:
       label: Domain
       description: The area of public good this works in. Pick the closest fit — if none fit, choose "Other / not sure" and explain in the description.
       options:
-        - Māori data sovereignty / indigenous data
         - civic-tech
         - crisis / humanitarian-tech
         - digital-inclusion
@@ -38,10 +37,8 @@ body:
         - food-rescue / food-security tech
         - govtech
         - green / climate-tech
-        - health tech for good / hauora Māori
         - housing / homelessness tech
         - human-rights tech
-        - iwi / Māori tech initiatives
         - journalism / media-tech
         - legal-aid / justice tech
         - makerspaces / hackerspaces
@@ -69,8 +66,8 @@ body:
     id: region
     attributes:
       label: Region
-      description: The NZ region it's based in, or "national".
-      placeholder: "e.g. Wellington, or national"
+      description: The US region it's based in, or "national" (new-england, mid-atlantic, southeast, midwest, south-central, mountain-west, pacific-northwest, california, alaska, hawaii).
+      placeholder: "e.g. california, or national"
     validations:
       required: true
 
@@ -78,7 +75,7 @@ body:
     id: website
     attributes:
       label: Website URL
-      placeholder: "https://example.nz"
+      placeholder: "https://example.org"
     validations:
       required: false
 
@@ -112,7 +109,7 @@ body:
     attributes:
       label: Related entries
       description: Names of other entries in the directory this one is meaningfully connected to, if any.
-      placeholder: "e.g. Figure.NZ, data.govt.nz"
+      placeholder: "e.g. GovTrack, Vote.org"
     validations:
       required: false
 
@@ -121,7 +118,7 @@ body:
     attributes:
       label: Source
       description: How you verified this — which page you checked, and when.
-      placeholder: "example.nz homepage, checked 2026-08-05"
+      placeholder: "example.org homepage, checked 2026-09-23"
     validations:
       required: true
 

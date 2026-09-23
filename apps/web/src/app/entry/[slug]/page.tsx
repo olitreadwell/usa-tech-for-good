@@ -64,7 +64,7 @@ export default async function EntryPage({ params }: { params: Promise<{ slug: st
             location:
               entry.region !== 'national'
                 ? { '@type': 'Place', name: entry.region }
-                : { '@type': 'Country', name: 'New Zealand' },
+                : { '@type': 'Country', name: 'United States' },
           }),
         }}
       />

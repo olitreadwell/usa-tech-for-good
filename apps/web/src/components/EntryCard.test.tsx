@@ -7,7 +7,7 @@ const baseEntry = {
   name: 'Test Organisation',
   domain: 'civic-tech',
   domainLabel: 'Civic Tech',
-  what: 'Test Organisation does important civic tech work in Aotearoa.',
+  what: 'Test Organisation does important civic tech work in the United States.',
   region: 'wellington',
   tags: ['civic-tech', 'open-source'],
   founding_year: 2020,

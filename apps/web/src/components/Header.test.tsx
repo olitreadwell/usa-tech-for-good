@@ -18,7 +18,7 @@ describe('Header', () => {
   });
   it('renders the site name', () => {
     render(<Header />);
-    expect(screen.getByText('NZ Tech-for-Good')).toBeInTheDocument();
+    expect(screen.getByText('US Tech-for-Good')).toBeInTheDocument();
   });
 
   it('has mobile menu button', () => {

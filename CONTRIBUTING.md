@@ -39,7 +39,7 @@ website, its GitHub page, or its LinkedIn page. Put what you checked and how
 in the `source` field, e.g.:
 
 ```yaml
-source: "orgname.nz homepage, verified 2026-08-05"
+source: "orgname.org homepage, verified 2026-09-23"
 ```
 
 If you don't know something (a founding year, whether they take
@@ -131,10 +131,10 @@ Use [Conventional Commits](https://www.conventionalcommits.org/) style,
 plain language, one idea per line:
 
 ```
-feat: add Te Hiku Media entry
+feat: add GovTrack entry
 
-- Added a new entry for Te Hiku Media in the iwi / Māori tech
-  initiatives domain, verified against tehiku.nz.
+- Added a new entry for GovTrack in the civic tech domain, verified
+  against govtrack.us.
 ```
 
 Don't add a `Co-Authored-By` trailer for AI tools: the tool is a

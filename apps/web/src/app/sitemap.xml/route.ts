@@ -4,7 +4,7 @@ export async function GET() {
   const entries = getAllEntries();
   const domains = getDomains();
   const regions = getRegions();
-  const base = 'https://nz-tech-for-good.vercel.app';
+  const base = 'https://usa-tech-for-good.vercel.app';
 
   const urls = [
     `<url><loc>${base}/</loc><priority>1.0</priority></url>`,

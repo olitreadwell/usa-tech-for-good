@@ -16,13 +16,16 @@ class _FakePath:
 
 class TestSlugify:
     def test_lowercases_and_hyphenates(self):
-        assert dataquality.slugify("Te Hiku Media") == "te-hiku-media"
+        assert dataquality.slugify("Open States") == "open-states"
+
+    def test_multi_word_region_name(self):
+        assert dataquality.slugify("Pacific Northwest") == "pacific-northwest"
 
     def test_drops_macrons(self):
-        assert dataquality.slugify("Māori Data Sovereignty") == "maori-data-sovereignty"
+        assert dataquality.slugify("Kōwhai Institute") == "kowhai-institute"
 
     def test_collapses_punctuation_to_single_hyphen(self):
-        assert dataquality.slugify("Access Matters Aotearoa (Access Alliance)") == "access-matters-aotearoa-access-alliance"
+        assert dataquality.slugify("Code for America (CfA)") == "code-for-america-cfa"
 
     def test_strips_leading_and_trailing_hyphens(self):
         assert dataquality.slugify("--Weird Name--") == "weird-name"

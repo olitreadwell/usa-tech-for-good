@@ -34,7 +34,7 @@ def valid_entry(**overrides):
 
 class TestLoadSchema:
     def test_returns_dict_with_expected_top_level_keys(self, schema):
-        assert schema["title"] == "NZ Tech-for-Good directory entry"
+        assert schema["title"] == "US Tech-for-Good directory entry"
         assert "domain" in schema["properties"]
         assert set(schema["required"]) == {"name", "domain", "what", "region", "source"}
 

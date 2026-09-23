@@ -10,218 +10,142 @@ item stops making sense, strike it out with a one-line note.
 Legend: `[ ]` not started · `[x]` done · items marked **(needs Oli)** are
 account-level settings only the repo owner can change.
 
+## Where this repo came from
+
+The tooling, scripts, site, and CI were derived from
+[nz-tech-for-good](https://github.com/olitreadwell/nz-tech-for-good). The New
+Zealand data and the NZ-specific parts of the taxonomy were removed on
+2026-09-17, and the first US entries were added on 2026-09-23. Anything in
+this file that is not ticked is work on top of that starting point.
+
 ---
 
-## Automation
+## Content
 
-- [x] Add a scheduled weekly link-check workflow that runs
-  `scripts/linkcheck.py` and opens/updates a single tracking issue on genuine
-  dead links, closing it when they recover. (`.github/workflows/linkcheck.yml`)
-- [x] Add Dependabot for the `github-actions`, `pip`, and `npm` (workspaces)
-  ecosystems. (`.github/dependabot.yml`)
-- [x] Auto-merge low-risk Dependabot updates via `pull_request_target` workflow
-  + daily release-age sweep: development non-major, production patch,
-  github-actions non-major, and security advisory PRs auto-merge once CI is
-  green AND every bumped release is at least 3 days old; production minor and
-  any major version wait for a human review. GitHub Actions tokens cannot
-  approve PRs, so no approval step. (`scripts/dependabot-auto-merge.mjs`,
-  `.github/workflows/dependabot-auto-merge.yml` + `.github/workflows/
-  dependabot-release-age-sweep.yml`)
-- [x] Auto-close stale link-check issues if left open with no new failures for
-  N weeks (belt-and-braces on top of the recover-close logic). (Restored with
-  the weekly `linkcheck.yml` workflow 2026-08-25; the file had gone missing
-  while the roadmap claimed it existed.)
-- [x] Add a `stale` workflow (actions/stale) to nudge and close abandoned
-  issues/PRs politely, with generous timeouts (this is a low-traffic repo).
-  (`.github/workflows/stale.yml`, done 2026-08-07)
-- [x] Add a labeler workflow that auto-labels PRs touching `data/entries/`
-  vs `scripts/` vs `docs/` so triage is faster. (`.github/workflows/labeler.yml`
-  + `.github/labeler.yml`, done 2026-08-07)
-- [x] Disable git-triggered Vercel deploys entirely; deploy only via
-  `vercel --prod` CLI (`docs/deploy.md`, `vercel.json` `git.deploymentEnabled:
-  false`, 2026-08-24). Kills per-PR Vercel checks and preview builds.
-- [ ] Add an "entry count" badge or shield to the README, generated from a
-  small step in CI (keeps the headline number honest as the directory grows).
-- [x] Wayback Machine archiving of entry websites (`scripts/archive_wayback.py` +
-  weekly `wayback.yml` workflow, done 2026-08-25).
-- [x] Weekly data-quality freshness sweep (`dataquality.yml`, opens/closes a
-  tracking issue on stale entries, done 2026-08-25).
-
-## CI & quality gates
-
-- [x] Pin all GitHub Actions to commit SHAs (not just major tags) for supply-
-  chain safety; let Dependabot bump them. (Done 2026-08-07, all 7 workflows
-  pinned ; Dependabot already configured to bump github-actions ecosystem.)
-- [x] Add a lint step for the YAML entries (e.g. `yamllint`) so formatting
-  stays consistent, not just schema-valid. (`.yamllint.yml` + CI step, done
-  2026-08-07, non-blocking.)
-- [x] Add a spell/style check for `GUIDE.md` and docs (e.g. a lightweight
-  vale or codespell pass, non-blocking at first). (`codespell` CI step, done
-  2026-08-07, non-blocking.)
-- [x] Cache pip dependencies in CI to speed up runs (`actions/setup-python`
-  cache key on `requirements.txt`). (`.github/workflows/ci.yml`, `.github/workflows/linkcheck.yml`, done 2026-08-06)
-- [x] Run the link check inside the main CI as advisory only (already
-  non-blocking) but surface a summary in the job step summary
-  (`$GITHUB_STEP_SUMMARY`) so it is visible without opening logs.
-  (Done 2026-08-07)
-- [x] Auto-close stale link-check issues if left open with no new failures for
-  N weeks (belt-and-braces on top of the recover-close logic). (Added nag
-  comment after 4 weeks of unresolved dead links, done 2026-08-07)
-
-## Content & knowledge
-
-- [x] Add a "Related directories & further reading" section to the README
-  linking verified NZ open-data, tech-for-good, and accessibility resources.
+- [x] Seed the directory with its first entries, each verified against a
+  live homepage. (30 entries across 14 domains, 2026-09-23)
+- [ ] Fill the empty domains listed in [docs/known-gaps.md](known-gaps.md).
+  Crisis and humanitarian tech, disability employment tech, environmental
+  citizen science, and makerspaces and hackerspaces have no entries.
+- [ ] Decide whether to add a domain for indigenous and tribal data
+  sovereignty, and populate it with verified entries. See
+  [docs/known-gaps.md](known-gaps.md) for why this needs a real decision
+  rather than a rename.
 - [ ] Close the people/LinkedIn enrichment gap described in
   [docs/known-gaps.md](known-gaps.md): add `linkedin_people` to entries, one
-  verified person at a time, following the people-and-privacy rules.
-- [x] Add a short "How entries are chosen" doc explaining the scope boundary
-  (what counts as tech-for-good, what is out of scope) so contributors self-
-  select before opening an issue. (`docs/how-entries-are-chosen.md`, done
-  2026-08-07)
-- [x] Add a `CHANGELOG.md` or a dated "recent additions" section so returning
-  visitors can see what is new without diffing. (`CHANGELOG.md` added 2026-08-05)
-- [ ] Cross-link related entries in the data (an optional `related` field) and
-  render those links in `GUIDE.md`, deepening the existing connection diagrams.
+  verified person at a time, following the people-and-privacy rules in
+  [CONTRIBUTING.md](../CONTRIBUTING.md#people-and-privacy).
+- [ ] Backfill `github` and `linkedin_org` where the organisation has a real
+  public one. All 30 seeded entries have both fields empty.
+- [ ] Backfill `founding_year` where it can be read off an about page or
+  another official source. 29 of 30 entries currently have it null.
+- [ ] Backfill `takes_contributors` where the organisation publishes a
+  volunteering or open-source contribution page. All 30 entries are null.
+- [ ] Backfill `careers_url` where the organisation has a careers, jobs, or
+  volunteering page. All 30 entries are empty.
+- [ ] Cross-link entries via `related_to` where real, verifiable connections
+  exist (same network, data dependency, shared founder). Two entries have
+  links today.
+- [ ] Add US community channels and event series as entries once each is
+  confirmed active. Chi Hack Night and BetaNYC are candidates. See
+  [docs/research-get-involved.md](research-get-involved.md).
 
 ## Data quality
 
-- [x] Add a `last_verified` freshness check: a script that flags entries whose
-  `last_verified` date is older than, say, 12 months, for re-checking.
-  (`scripts/dataquality.py`, done 2026-08-05)
-- [x] Add duplicate-URL detection to `validate.py` (two entries pointing at the
-  same website often means an accidental duplicate). (done 2026-08-05)
-- [x] Add a coverage report: count entries per domain and per region, and flag
-  thin domains that need more entries. Surface it in the job summary.
-  (`scripts/coverage.py`, done 2026-08-06)
-- [x] Normalise region values against a fixed list (schema `enum`) so filtering
-  and mapping stay reliable. (93 entries normalised, schema enum with 16
-  canonical NZ regions, done 2026-08-07)
-- [x] Backfill `github` and `linkedin_org` fields where missing but publicly
-  available, one verified source at a time. (2026-08-07 audit: 162/176 entries
-  missing `github`, 126/176 missing `linkedin_org`; campaign orgs backfilled
-  2026-08-25.)
-- [ ] Backfill `founding_year` where discoverable from about pages or official
-  sources ; 141/176 entries currently missing it.
-- [x] Backfill `takes_contributors` where the org has a public volunteering or
-  open-source contribution page ; 164/176 entries currently null. (Campaign
-  orgs backfilled 2026-08-25.)
-- [x] Backfill `careers_url` where the org has a careers, jobs, or volunteering
-  page ; 169/176 entries currently empty. (Campaign orgs backfilled 2026-08-25.)
-- [ ] Cross-link entries via `related_to` where real, verifiable connections
-  exist (e.g. same network, data dependency, shared founder) ; 77/176 entries
-  currently have empty `related_to`.
+- [x] Validate every entry against the schema, and flag duplicate names and
+  duplicate website URLs. (`scripts/validate.py`)
+- [x] Add a `last_verified` freshness check. (`scripts/dataquality.py`)
+- [x] Add a coverage report counting entries per domain and per region, and
+  flagging thin domains. (`scripts/coverage.py`)
+- [x] Normalise region values against a fixed list in the schema `enum` so
+  filtering and mapping stay reliable. (10 US regions plus `national`,
+  2026-09-23)
+- [ ] Re-check every seeded entry when its `last_verified` date passes six
+  months. The weekly data-quality workflow opens a tracking issue when that
+  happens.
 
-## Community & discoverability
+## Automation
 
-- [x] Set repo topics for discoverability
-  (`new-zealand`, `aotearoa`, `civic-tech`, `open-data`, `accessibility`,
-  `tech-for-good`, `directory`).
-- [x] Add a contact / get in touch page on the site (`apps/web/src/app/contact`,
-  done 2026-08-25).
+- [x] Weekly link check that opens and updates a single tracking issue on
+  genuine dead links, closing it when they recover.
+  (`.github/workflows/linkcheck.yml`)
+- [x] Wayback Machine archiving of entry websites
+  (`scripts/archive_wayback.py` plus the weekly `wayback.yml` workflow).
+- [x] Weekly data-quality freshness sweep (`dataquality.yml`).
+- [x] Dependabot for the `github-actions`, `pip`, and `npm` ecosystems
+  (`.github/dependabot.yml`).
+- [x] Auto-merge low-risk Dependabot updates via `pull_request_target` plus a
+  daily release-age sweep (`scripts/dependabot-auto-merge.mjs`).
+- [x] Disable git-triggered Vercel deploys; deploy only with `vercel --prod`
+  (`docs/deploy.md`, `apps/web/vercel.json`).
+
+## CI and quality gates
+
+- [x] Pin all GitHub Actions to commit SHAs, and let Dependabot bump them.
+- [x] Add a `yamllint` pass for the YAML entries (non-blocking).
+- [x] Add a `codespell` pass for docs and prose (non-blocking).
+- [x] Cache pip dependencies in CI (`actions/setup-python` keyed on
+  `requirements.txt`).
+- [x] Run the link check inside the main CI as advisory only, with a summary
+  in the job step summary.
+- [ ] Get the Vercel production build working. The build and tests pass, and
+  the upload step then fails with "Cannot patch preview comments when
+  immutable static file upload is enabled". The NZ repos fail the same way,
+  so this is a shared problem with the Next.js monorepo setup rather than
+  anything specific to this repo.
+- [ ] Wire `scripts/stylecheck.py` into CI. It runs locally today and fails
+  on `docs/STYLE.md` violations, but no workflow calls it.
+- [ ] Fix the em dashes in the template-managed docs (`docs/a11y.md`,
+  `docs/api.md`, `docs/audits.md`, `docs/ci-optimization.md`,
+  `docs/contact.md`, `docs/template-sync.md`). The fix belongs in
+  [olitreadwell/template](https://github.com/olitreadwell/template), because
+  `template-sync.yml` overwrites those files here.
+
+## Community and discoverability
+
+- [x] Set repo topics for discoverability.
+- [x] Add a contact page on the site (`apps/web/src/app/contact`).
 - [x] Add a "spot a mistake / update this entry" feedback link on entry pages
-  that opens a pre-filled GitHub issue (done 2026-08-25).
+  that opens a pre-filled GitHub issue.
+- [x] Add a `CODEOWNERS` file so review requests route automatically.
+- [x] Add an all-contributors setup to credit everyone who adds or verifies
+  entries (`.all-contributorsrc` plus the README section).
+- [x] Add an "entry count" badge to the README, generated from the data.
 - [ ] **(needs Oli)** Enable GitHub Discussions for questions and suggestions
   that are not yet concrete issues.
 - [ ] **(needs Oli)** Turn on branch protection for `main` (require the CI
   check to pass, require a PR) once there is more than one maintainer.
 - [ ] **(needs Oli)** Add a social-preview image so shared links look good.
-- [x] Publish `GUIDE.md` as a browsable GitHub Pages site. Non-trivial: needs
-  a static-site build step (the guide is a single 70KB+ page) with in-page
-  search and per-domain navigation. (Astro site at olitreadwell.github.io/
-  nz-tech-for-good with 227 pages, search, per-domain nav, 19+ features,
-  done 2026-08-07)
-- [x] Add a `CODEOWNERS` file so review requests route automatically.
-  (`.github/CODEOWNERS`, done 2026-08-07)
-- [x] Add a `.github/FUNDING.yml` if/when there is a funding channel to point
-  at (skip until there is a real one, do not invent). (Created as placeholder,
-  done 2026-08-07)
-- [x] Add an all-contributors setup to credit everyone who adds or verifies
-  entries. (`.all-contributorsrc` + README section, done 2026-08-07)
-- [x] Add a short "good first issue" set (e.g. verify N entries, add one
-  resource) to lower the barrier for new contributors. (Issues #23, #24,
-  #25 created, done 2026-08-07)
-- [x] Backfill `github` and `linkedin_org` fields where missing but publicly
-  available, one verified source at a time. (9 GitHub orgs backfilled:
-  InternetNZ, Enspiral, ActionStation, GeoNet, GovHackNZ, Figure.NZ,
-  Summer of Tech, Catalyst IT, Tinkd Makerspace, done 2026-08-07)
-- [x] Cross-link entries via `related_to` where real, verifiable connections
-  exist (e.g. same network, data dependency, shared founder). (9 new
-  cross-links added: ActionStation↔Amnesty, Choices NZ↔Workbridge,
-  BenefitMe↔DAC, Headstrong↔SPARX, Figure.NZ↔data.govt.nz,
-  Newsroom↔Spinoff, Public Interest↔Newsroom+Spinoff, Hackland↔Tinkd,
-  NZDEN↔Workbridge, done 2026-08-07)
+- [ ] **(needs Oli)** Decide whether this project should have its own social
+  presence. That means creating and owning an account, so it is not something
+  to invent here.
+- [ ] Add a "good first issue" set (verify N entries, add one resource) to
+  lower the barrier for new contributors.
 
-## Get involved (research-backed, added 2026-08-06)
+## Get involved
 
-This directory currently answers "what exists" well and "what do I do next"
-poorly. See `docs/research-get-involved.md` for the comparative research
-behind this section (Civic Tech Field Guide, Tech for Good Organisers
-Network, Digital Aotearoa Collective, Tech for Good New Zealand, Catchafire)
-and why these items exist.
+This directory answers "what exists" and answers "what do I do next" less
+well. See [docs/research-get-involved.md](research-get-involved.md) for the
+comparative research behind this section, drawn from Civic Tech Field Guide,
+the Tech for Good Organisers Network, and Catchafire.
 
-**Data-only, safe for a loop iteration to just do:**
-
-- [x] Add **Tech for Good New Zealand** (meetup.com/tech-for-good-new-zealand,
-  Auckland-based, part of the global NetSquared network) as a directory
-  entry. Directly answers "where do I find the next event."
-- [x] Add **Digital Aotearoa Collective** (digitalaotearoa.github.io/chat,
-  active NZ Slack community, own GitHub org) as a directory entry.
-- [ ] Research and add any other currently-active NZ tech-for-good meetups,
-  Slack/Discord communities, or event series not yet in the directory
-  (verify each is genuinely active, not a dead group, before adding).
-
-**Needs a design/product decision before building (do not silently build
-these in a loop iteration, bring to Oli first):**
-
-- [x] A "Get involved" page on the site with a small number of clear, low-
-  commitment next actions (join a community, find an event, add an entry,
-  read the guide for a domain), modeled on Civic Tech Field Guide's four-
-  entry-point homepage pattern, not a wall of links. (`site/src/pages/
-  get-involved.astro`, done 2026-08-07)
-- [x] Short "what is this and why does it matter" explainer text for each
-  domain (e.g. what "food-rescue / food-security tech" covers and why it's
-  its own category), shown on each domain page. (
-  `data/domain-descriptions.yaml` ; all 27 domains have descriptions,
-  done 2026-08-07)
-- [x] Consider new optional schema fields for a `community_url` (Slack/
-  Discord invite) and `events_url` (meetup/events page), separate from
-  `website`. (Already added to `schema/entry.schema.json`,
-  `data/entry.template.yaml`, and all scripts/pages ; fields exist and
-  are rendered on entry detail pages, done 2026-08-07)
-- [x] A prominent "Add an entry" call to action on the directory/homepage
-  (not just a CONTRIBUTING.md link), pointing at the existing
-  add-entry issue form. (Present on index.astro, directory.astro, and
-  get-involved.astro, done 2026-08-07)
-- [ ] Consider whether this project should have its own social presence
-  (a place to follow for new entries). **(needs Oli)** this means
-  creating and owning an account, not something to invent.
+- [x] Add a "Get involved" page to the site with a small number of clear,
+  low-commitment next actions (`apps/web/src/app/get-involved`).
+- [x] Write a short explainer for each domain, shown on the domain pages
+  (`data/domain-descriptions.yaml`, all 24 domains covered).
+- [ ] Research US tech-for-good meetups, Slack or Discord communities, and
+  event series that are genuinely active, and add them as entries.
 
 ---
 
 ## Recently shipped
 
-- Weekly link-check workflow (`.github/workflows/linkcheck.yml`).
-- Dependabot config + `requirements.txt` (CI now installs from it).
-- README "Related directories & further reading" section (8 verified links).
-- Repo topics set for discoverability.
-- Sitemap, RSS feed, tags page, robots.txt, print styles, freshness
-  indicators, copy-link button, OpenSearch, keyboard shortcuts, breadcrumb
-  nav, mobile hamburger menu, Schema.org structured data, no-results
-  suggestions, OG/Twitter Card meta tags, recently-added section, stats
-  page, URL-based filter sync, JSON API endpoint. (2026-08-07)
-- 20 new entries across 6 domains: financial inclusion (+3), disability
-  employment (+3), housing (+4), health tech (+3), mental health (+4),
-  journalism (+2), plus IndigiShare in iwi/Māori tech (+1). Total: 117→170
-  entries, 27 domains. (2026-08-07)
-- 6 more entries across civic-tech and digital-inclusion: Lobby for Good,
-  FYI.org.nz, Trust Democracy, Digital Equity Coalition Aotearoa, Community IT,
-  Tu Mai Digital. Total: 170→176 entries. (2026-08-07)
-- Optional-field audit added to Data quality roadmap: 162 entries missing
-  `github`, 126 missing `linkedin_org`, 141 missing `founding_year`, 164
-  missing `takes_contributors`, 169 missing `careers_url`, 77 missing
-  `related_to`. (2026-08-07)
-- All GitHub Actions pinned to commit SHAs across 7 workflows; stale workflow
-  added (`.github/workflows/stale.yml`); labeler workflow added
-  (`.github/workflows/labeler.yml` + `.github/labeler.yml`); CODEOWNERS file
-  added; yamllint and codespell added to CI (both non-blocking). (2026-08-07)
+- Scaffolded the repo from nz-tech-for-good: removed the NZ data, replaced
+  the NZ region and domain taxonomy with US equivalents, and repointed every
+  hardcoded repo and site URL. (2026-09-23)
+- First 30 US entries, each checked against a live homepage on the day it was
+  added, with `GUIDE.md` and the JSON and CSV exports regenerated from them.
+  (2026-09-23)
+- Rewrote the README, `docs/how-entries-are-chosen.md`,
+  `docs/known-gaps.md`, `docs/research-get-involved.md`, and the add-entry
+  issue form for the US. (2026-09-23)

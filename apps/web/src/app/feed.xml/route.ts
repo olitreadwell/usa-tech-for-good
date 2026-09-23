@@ -6,7 +6,7 @@ export async function GET() {
     .filter((e) => e.last_verified)
     .sort((a, b) => b.last_verified.localeCompare(a.last_verified))
     .slice(0, 20);
-  const base = 'https://nz-tech-for-good.vercel.app';
+  const base = 'https://usa-tech-for-good.vercel.app';
 
   const items = newest
     .map(
@@ -16,7 +16,7 @@ export async function GET() {
     .join('');
 
   return new Response(
-    `<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>NZ Tech-for-Good</title><link>${base}</link><description>Recently updated organisations</description>${items}</channel></rss>`,
+    `<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>US Tech-for-Good</title><link>${base}</link><description>Recently updated organisations</description>${items}</channel></rss>`,
     { headers: { 'Content-Type': 'application/rss+xml' } }
   );
 }

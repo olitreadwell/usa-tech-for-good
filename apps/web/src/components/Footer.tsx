@@ -6,10 +6,9 @@ export function Footer() {
       <div className="mx-auto max-w-5xl px-4 py-8">
         <div className="grid gap-6 sm:grid-cols-4">
           <div>
-            <h4 className="text-sm font-semibold">NZ Tech-for-Good</h4>
+            <h4 className="text-sm font-semibold">US Tech-for-Good</h4>
             <p className="mt-1 text-xs text-text-muted">
-              Community-maintained directory of Aotearoa organisations using technology for public
-              good.{' '}
+              Community-maintained directory of US organisations using technology for public good.{' '}
               <a
                 href="https://creativecommons.org/licenses/by-sa/4.0/"
                 target="_blank"
@@ -81,7 +80,7 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href="https://github.com/olitreadwell/nz-tech-for-good"
+                  href="https://github.com/olitreadwell/usa-tech-for-good"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-text-muted hover:text-text"
@@ -91,7 +90,7 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href="https://github.com/olitreadwell/nz-tech-for-good/blob/main/CONTRIBUTING.md"
+                  href="https://github.com/olitreadwell/usa-tech-for-good/blob/main/CONTRIBUTING.md"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-text-muted hover:text-text"
@@ -106,7 +105,7 @@ export function Footer() {
             <ul className="mt-1 space-y-1 text-xs">
               <li>
                 <a
-                  href="https://raw.githubusercontent.com/olitreadwell/nz-tech-for-good/main/data/exports/entries.json"
+                  href="https://raw.githubusercontent.com/olitreadwell/usa-tech-for-good/main/data/exports/entries.json"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-text-muted hover:text-text"
@@ -116,7 +115,7 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href="https://raw.githubusercontent.com/olitreadwell/nz-tech-for-good/main/data/exports/entries.csv"
+                  href="https://raw.githubusercontent.com/olitreadwell/usa-tech-for-good/main/data/exports/entries.csv"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-text-muted hover:text-text"
@@ -128,7 +127,7 @@ export function Footer() {
           </div>
         </div>
         <p className="mt-6 text-center text-xs text-text-muted">
-          Updated: {new Date().toISOString().slice(0, 10)} · Aotearoa New Zealand
+          Updated: {new Date().toISOString().slice(0, 10)} · United States
         </p>
       </div>
     </footer>

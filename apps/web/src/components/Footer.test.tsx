@@ -5,7 +5,7 @@ import { Footer } from '@/components/Footer';
 describe('Footer', () => {
   it('renders footer content', () => {
     render(<Footer />);
-    expect(screen.getByText('NZ Tech-for-Good')).toBeInTheDocument();
+    expect(screen.getByText('US Tech-for-Good')).toBeInTheDocument();
     expect(screen.getByText('Browse')).toBeInTheDocument();
     expect(screen.getByText('Info')).toBeInTheDocument();
   });

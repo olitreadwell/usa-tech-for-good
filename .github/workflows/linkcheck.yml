@@ -8,7 +8,7 @@ name: Weekly link check
 
 on:
   schedule:
-    # Mondays 06:00 UTC — Monday evening in New Zealand.
+    # Mondays 06:00 UTC
     - cron: "0 6 * * 1"
   workflow_dispatch:
 

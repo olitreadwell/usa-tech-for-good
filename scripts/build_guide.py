@@ -43,15 +43,12 @@ DOMAIN_LABEL_SHORT = {
     "journalism / media-tech": "Journalism & Media Tech",
     "nonprofit / NGO tech": "Nonprofit & NGO Tech",
     "govtech": "GovTech",
-    "Māori data sovereignty / indigenous data": "Māori Data Sovereignty",
     "disability & accessibility tech": "Disability & Accessibility Tech",
     "research / education tech": "Research & Education Tech",
     "legal-aid / justice tech": "Legal Aid & Justice Tech",
     "refugee / migrant support tech": "Refugee & Migrant Support Tech",
-    "iwi / Māori tech initiatives": "Iwi & Māori Tech Initiatives",
     "makerspaces / hackerspaces": "Makerspaces & Hackerspaces",
     "mental-health tech": "Mental Health Tech",
-    "health tech for good / hauora Māori": "Health Tech for Good / Hauora Māori",
     "food-rescue / food-security tech": "Food Rescue & Food Security Tech",
     "financial-inclusion / fintech-for-good": "Financial Inclusion & Fintech for Good",
     "education equity tech": "Education Equity Tech",
@@ -112,8 +109,8 @@ def build_name_index(entries):
 
 def resolve(r, names, namemap):
     """Match a related_to reference to an entry's real name, even if the
-    reference uses a shortened or differently-cased form (e.g. "LINZ Data
-    Service" -> "LINZ Data Service (Toitū Te Whenua)"). Returns None if no
+    reference uses a shortened or differently-cased form (e.g. "Code for
+    America" -> "Code for America (CfA)"). Returns None if no
     entry matches: such references are dropped rather than guessed at."""
     if r in names:
         return r
@@ -216,17 +213,17 @@ def render_guide(
     mini_domains = [d for d in domain_order if len(internal_edges[d]) >= 1]
 
     lines = []
-    lines.append("# New Zealand Tech-for-Good Guide")
+    lines.append("# US Tech-for-Good Guide")
     lines.append("")
     lines.append(
-        "This is a living directory of New Zealand organisations, projects, "
+        "This is a living directory of US organisations, projects, "
         "networks, and people who use technology for public good: open data, "
-        "civic tech, climate tech, accessibility, Māori data sovereignty, "
+        "civic tech, climate tech, accessibility, digital inclusion, "
         "humanitarian response, and more."
     )
     lines.append("")
     lines.append(
-        "**Who this is for:** people looking for NZ tech-for-good groups to "
+        "**Who this is for:** people looking for US tech-for-good groups to "
         "work with, volunteer with, learn from, or connect to each other."
     )
     lines.append("")

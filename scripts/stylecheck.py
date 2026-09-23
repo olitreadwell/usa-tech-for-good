@@ -15,8 +15,8 @@ This only checks prose surfaces, not code comments, YAML field names, or
 non-`what:` entry fields (e.g. `source`, which is a verification note, not
 voice-governed prose). docs/STYLE.md is excluded: it has to name the banned
 words to document them. An entry's own `name` can legitimately contain an
-em dash if that's how the organisation styles its real title (e.g. "NZ On
-Air — Public Interest Journalism Fund"); that's a fact, not prose, so known
+em dash if that's how the organisation styles its real title (e.g. "Code for
+America — Brigade Network"); that's a fact, not prose, so known
 entry names are stripped out of a line before it's checked.
 
 Usage:
