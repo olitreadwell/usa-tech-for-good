@@ -3,6 +3,8 @@ import path from 'node:path';
 
 import yaml from 'js-yaml';
 
+import { domainSlug } from '@/lib/domain-slug';
+
 export interface Entry {
   slug: string;
   name: string;
@@ -108,7 +110,7 @@ export function getDomains() {
     .map(([key, count]) => ({
       key,
       label: domainLabel(key),
-      slug: key.toLowerCase().replace(/[^a-z0-9]+/g, '-'),
+      slug: domainSlug(key),
       count,
     }))
     .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
