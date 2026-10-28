@@ -1,6 +1,9 @@
 name: Election.org
 domain: civic-tech
-what: Election.org is a nonpartisan civic reference for US elections, candidates, elected officials, campaign finance, and local government. Its records link to public sources, with charts, research downloads, and documented data endpoints.
+what: >-
+  Election.org is a nonpartisan civic reference for US elections, candidates, elected officials,
+  campaign finance, and local government. Its records link to public sources, with charts,
+  research downloads, and documented data endpoints.
 region: national
 website: https://election.org
 github: ''
