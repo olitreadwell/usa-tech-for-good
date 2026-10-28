@@ -23,4 +23,9 @@ describe('Footer', () => {
     expect(screen.getAllByText('JSON Export').length).toBeGreaterThanOrEqual(1);
     expect(screen.getAllByText('CSV Export').length).toBeGreaterThanOrEqual(1);
   });
+
+  it('shows the latest entry verification date instead of the build date', () => {
+    render(<Footer latestVerified="2026-10-29" />);
+    expect(screen.getByText(/Latest entry verification: 2026-10-29/)).toBeInTheDocument();
+  });
 });

@@ -8,7 +8,7 @@ const baseEntry = {
   domain: 'civic-tech',
   domainLabel: 'Civic Tech',
   what: 'Test Organisation does important civic tech work in the United States.',
-  region: 'wellington',
+  region: 'south-central',
   tags: ['civic-tech', 'open-source'],
   founding_year: 2020,
   takes_contributors: true,
@@ -41,7 +41,7 @@ describe('EntryCard', () => {
 
   it('shows region and founding year', () => {
     render(<EntryCard {...baseEntry} />);
-    expect(screen.getAllByText('wellington').length).toBeGreaterThanOrEqual(1);
+    expect(screen.getAllByText('south-central').length).toBeGreaterThanOrEqual(1);
     expect(screen.getAllByText(/Est. 2020/).length).toBeGreaterThanOrEqual(1);
   });
 
