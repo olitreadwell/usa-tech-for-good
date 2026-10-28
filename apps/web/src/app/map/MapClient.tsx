@@ -2,6 +2,8 @@
 
 import { useEffect, useRef } from 'react';
 
+import type { LeafletNamespace } from '@/lib/leaflet-types';
+
 interface Entry {
   slug: string;
   name: string;
@@ -44,7 +46,8 @@ export function MapClient({ entries }: { entries: Entry[] }) {
         document.head.appendChild(link);
       }
       // Load JS
-      if (!(window as any).L) {
+      const leafletWindow = window as Window & { L?: LeafletNamespace };
+      if (!leafletWindow.L) {
         await new Promise<void>((resolve) => {
           const script = document.createElement('script');
           script.src = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
@@ -53,7 +56,7 @@ export function MapClient({ entries }: { entries: Entry[] }) {
         });
       }
 
-      const L = (window as any).L;
+      const L = leafletWindow.L;
       if (!L || !mapRef.current) return;
 
       const map = L.map(mapRef.current).setView([-40.9, 174.0], 6);

@@ -14,7 +14,7 @@ Entries are grouped by **domain**: the area of public good the organisation work
 
 - **Tech Ethics & Responsible AI** (tech-ethics / responsible-AI): 2 entries
 - **Disability & Accessibility Tech** (disability & accessibility tech): 2 entries
-- **Civic Tech** (civic-tech): 7 entries
+- **Civic Tech** (civic-tech): 9 entries
 - **GovTech** (govtech): 2 entries
 - **Education Equity Tech** (education equity tech): 2 entries
 - **Green & Climate Tech** (green / climate-tech): 2 entries
@@ -28,7 +28,7 @@ Entries are grouped by **domain**: the area of public good the organisation work
 - **Journalism & Media Tech** (journalism / media-tech): 1 entry
 - **Worker & Platform Co-ops** (worker-coop / platform-coop tech): 1 entry
 
-**Total entries: 30, across 15 domains.**
+**Total entries: 32, across 15 domains.**
 
 ## Ecosystem overview
 
@@ -38,7 +38,7 @@ This diagram shows the domains as nodes, sized by how many entries each holds, w
 flowchart TD
     d0["Tech Ethics & Responsible AI<br/>(2 entries)"]
     d1["Disability & Accessibility Tech<br/>(2 entries)"]
-    d2["Civic Tech<br/>(7 entries)"]
+    d2["Civic Tech<br/>(9 entries)"]
     d3["GovTech<br/>(2 entries)"]
     d4["Education Equity Tech<br/>(2 entries)"]
     d5["Green & Climate Tech<br/>(2 entries)"]
@@ -101,7 +101,7 @@ _2 entries in this domain._
 
 Tools that help people take part in how their communities and government work: petitions, submissions, participatory budgeting, and ways to hold decision-makers to account.
 
-_7 entries in this domain._
+_9 entries in this domain._
 
 **Ballotpedia**
 
@@ -138,12 +138,26 @@ _7 entries in this domain._
 - Links: [Website](https://www.democracy.works)
 - Tags: voting, elections, civic tech, information
 
+**Election.org**
+
+- Election.org is a nonpartisan civic reference for US elections, candidates, elected officials, campaign finance, and local government. Its records link to public sources, with charts, research downloads, and documented data endpoints.
+- Region: national
+- Links: [Website](https://election.org)
+- Tags: civic tech, elections, public data, civic education
+
 **GovTrack**
 
 - GovTrack tracks legislation and votes in the United States Congress and actions by the White House, and publishes the record where anyone can follow it.
 - Region: national
 - Links: [Website](https://www.govtrack.us)
 - Tags: congress, legislation, transparency, open data
+
+**ImpactLine**
+
+- ImpactLine is an independent, free public-budget reader that organizes government revenue and spending figures with source links and fiscal periods. Its public coverage includes the US federal government, six states, and four cities.
+- Region: national
+- Links: [Website](https://www.impactline.org)
+- Tags: civic tech, fiscal transparency, public budgets, public records
 
 **Vote.org**
 

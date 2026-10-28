@@ -1,0 +1,3 @@
+# Generated data exports; regenerate with scripts/export.py.
+data/exports/entries.json
+data/exports/entries.csv

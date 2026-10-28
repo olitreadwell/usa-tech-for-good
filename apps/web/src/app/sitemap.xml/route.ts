@@ -1,4 +1,4 @@
-import { getAllEntries, getDomains, getRegions } from '@/lib/data';
+import { getAllEntries, getDomains } from '@/lib/data';
 
 // Resolved at build time so the route can be exported to a static file.
 export const dynamic = 'force-static';
@@ -6,7 +6,6 @@ export const dynamic = 'force-static';
 export async function GET() {
   const entries = getAllEntries();
   const domains = getDomains();
-  const regions = getRegions();
   const base = 'https://olitreadwell.github.io/usa-tech-for-good';
 
   const urls = [

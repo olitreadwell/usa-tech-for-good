@@ -384,6 +384,30 @@
     "last_verified": "2026-09-23"
   },
   {
+    "name": "Election.org",
+    "domain": "civic-tech",
+    "what": "Election.org is a nonpartisan civic reference for US elections, candidates, elected officials, campaign finance, and local government. Its records link to public sources, with charts, research downloads, and documented data endpoints.",
+    "region": "national",
+    "website": "https://election.org",
+    "github": "",
+    "linkedin_org": "",
+    "community_url": "",
+    "events_url": "",
+    "linkedin_people": [],
+    "tags": [
+      "civic tech",
+      "elections",
+      "public data",
+      "civic education"
+    ],
+    "related_to": [],
+    "source": "election.org/ai-info and election.org/data (verified 2026-10-29)",
+    "founding_year": null,
+    "takes_contributors": null,
+    "careers_url": "",
+    "last_verified": "2026-10-29"
+  },
+  {
     "name": "Electronic Frontier Foundation",
     "domain": "human-rights tech",
     "what": "The Electronic Frontier Foundation defends civil liberties in the digital world. It litigates, campaigns, and publishes tools and guides on privacy, free speech, creativity, and surveillance.",
@@ -502,6 +526,30 @@
     "takes_contributors": null,
     "careers_url": "",
     "last_verified": "2026-09-23"
+  },
+  {
+    "name": "ImpactLine",
+    "domain": "civic-tech",
+    "what": "ImpactLine is an independent, free public-budget reader that organizes government revenue and spending figures with source links and fiscal periods. Its public coverage includes the US federal government, six states, and four cities.",
+    "region": "national",
+    "website": "https://www.impactline.org",
+    "github": "",
+    "linkedin_org": "",
+    "community_url": "",
+    "events_url": "",
+    "linkedin_people": [],
+    "tags": [
+      "civic tech",
+      "fiscal transparency",
+      "public budgets",
+      "public records"
+    ],
+    "related_to": [],
+    "source": "impactline.org homepage and FAQ (verified 2026-10-29)",
+    "founding_year": null,
+    "takes_contributors": null,
+    "careers_url": "",
+    "last_verified": "2026-10-29"
   },
   {
     "name": "Kapor Center",

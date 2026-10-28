@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "echo 'lint skipped (need eslint-config-next)'",
+    "lint": "eslint src",
     "format": "prettier --write \"src/**/*.{ts,tsx,css,scss}\"",
     "format:check": "prettier --check \"src/**/*.{ts,tsx,css,scss}\"",
     "type-check": "tsc --noEmit",
@@ -24,7 +24,6 @@
   },
   "devDependencies": {
     "@axe-core/playwright": "^4.13.0",
-    "@olitreadwell/config-eslint": "*",
     "@olitreadwell/config-tailwind": "*",
     "@olitreadwell/config-typescript": "*",
     "@playwright/test": "^1.63.0",

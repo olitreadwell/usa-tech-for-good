@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { BarChart3, FolderOpen, MapPin, Link2, Clock } from 'lucide-react';
+import { BarChart3, FolderOpen, MapPin, Link2 } from 'lucide-react';
 
 import { getAllEntries, getDomains, getRegions } from '@/lib/data';
 
