@@ -1,0 +1,5 @@
+# Generated data exports; regenerate with scripts/export.py.
+data/exports/entries.json
+data/exports/entries.csv
+# Generated social preview image.
+apps/web/public/og-image.png

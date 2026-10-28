@@ -1,0 +1,24 @@
+name: Election.org
+domain: civic-tech
+what: >-
+  Election.org is a nonpartisan civic reference for US elections, candidates, elected officials,
+  campaign finance, and local government. Its records link to public sources, with charts,
+  research downloads, and documented data endpoints.
+region: national
+website: https://election.org
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- civic tech
+- elections
+- public data
+- civic education
+related_to: []
+source: election.org/ai-info and election.org/data (verified 2026-10-29)
+founding_year: null
+takes_contributors: null
+careers_url: ''
+last_verified: '2026-10-29'

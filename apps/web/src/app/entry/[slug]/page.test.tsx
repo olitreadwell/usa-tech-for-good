@@ -1,5 +1,5 @@
-import { describe, it, expect, vi } from 'vitest';
-import { render, screen } from '@testing-library/react';
+import { afterEach, describe, it, expect, vi } from 'vitest';
+import { cleanup, render, screen } from '@testing-library/react';
 
 vi.mock('@/lib/data', () => ({
   getAllEntries: () => [
@@ -9,7 +9,7 @@ vi.mock('@/lib/data', () => ({
       domain: 'civic-tech',
       domainLabel: 'Civic Tech',
       what: 'Test Organisation does civic tech work.',
-      region: 'wellington',
+      region: 'south-central',
       website: 'https://test.org',
       github: '',
       linkedin_org: '',
@@ -26,9 +26,10 @@ vi.mock('@/lib/data', () => ({
   ],
 }));
 
-import EntryPage from '@/app/entry/[slug]/page';
+import EntryPage, { generateMetadata } from '@/app/entry/[slug]/page';
 
 describe('EntryPage', () => {
+  afterEach(cleanup);
   it('renders a feedback link with entry name and slug', async () => {
     const element = await EntryPage({
       params: Promise.resolve({ slug: 'test-org' }),
@@ -44,5 +45,22 @@ describe('EntryPage', () => {
       encodeURIComponent('Entry update: Test Organisation')
     );
     expect(link.getAttribute('href')).toContain(encodeURIComponent('/entry/test-org'));
+  });
+
+  it('gives each entry unique metadata', async () => {
+    const metadata = await generateMetadata({ params: Promise.resolve({ slug: 'test-org' }) });
+    expect(metadata.title).toBe('Test Organisation');
+    expect(metadata.description).toBe('Test Organisation does civic tech work.');
+    expect(metadata.alternates?.canonical).toBe(
+      'https://olitreadwell.github.io/usa-tech-for-good/entry/test-org'
+    );
+  });
+
+  it('offers a save control on the entry page', async () => {
+    const element = await EntryPage({
+      params: Promise.resolve({ slug: 'test-org' }),
+    });
+    render(element);
+    expect(screen.getByRole('button', { name: /Save/ })).toBeInTheDocument();
   });
 });
