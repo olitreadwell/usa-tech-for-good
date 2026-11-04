@@ -1,263 +1,146 @@
-# US Tech-for-Good
+# USA Tech-for-Good [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A directory of US organisations, projects, networks, and people who use
-technology for public good.
-
-[![CI](https://github.com/olitreadwell/usa-tech-for-good/actions/workflows/ci.yml/badge.svg)](https://github.com/olitreadwell/usa-tech-for-good/actions/workflows/ci.yml)
-[![Entries](https://img.shields.io/github/directory-file-count/olitreadwell/usa-tech-for-good/data/entries?type=file&extension=yaml&label=entries&color=brightgreen)](GUIDE.md)
-[![License: MIT (code) / CC-BY-SA-4.0 (data)](https://img.shields.io/badge/license-MIT%20%2F%20CC--BY--SA--4.0-blue)](#use-the-data)
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)](#add-an-organisation-and-contribute)
+A plain-language list of 32 organisations, projects, and networks in the United States that use technology for public good.
 
 ## Contents
 
-- [What this is](#what-this-is)
-- [Status](#status)
-- [Add an organisation and contribute](#add-an-organisation-and-contribute)
-- [Use the data](#use-the-data)
-- [How it's maintained](#how-its-maintained)
-- [Get involved](#get-involved)
-- [Related directories and further reading](#related-directories-and-further-reading)
-- [For developers](#for-developers)
+- [Start here](#start-here)
+- [Data and knowledge](#data-and-knowledge)
+  - [Open data](#open-data)
+- [Civic and community](#civic-and-community)
+  - [Civic tech](#civic-tech)
+  - [Government technology](#government-technology)
+  - [Human rights technology](#human-rights-technology)
+  - [Journalism and media technology](#journalism-and-media-technology)
+- [Access and inclusion](#access-and-inclusion)
+  - [Digital inclusion](#digital-inclusion)
+  - [Disability and accessibility technology](#disability-and-accessibility-technology)
+  - [Education equity technology](#education-equity-technology)
+- [Health and wellbeing](#health-and-wellbeing)
+  - [Mental health technology](#mental-health-technology)
+- [Climate, food and housing](#climate-food-and-housing)
+  - [Climate technology](#climate-technology)
+  - [Food rescue and food security](#food-rescue-and-food-security)
+  - [Housing and homelessness technology](#housing-and-homelessness-technology)
+- [Work, money and learning](#work-money-and-learning)
+  - [Worker and platform co-ops](#worker-and-platform-co-ops)
+  - [Research and education technology](#research-and-education-technology)
+- [Tech ethics and responsible AI](#tech-ethics-and-responsible-ai)
+  - [Technology ethics and responsible AI](#technology-ethics-and-responsible-ai)
 
-## What this is
+## Start here
 
-A living, community-maintained directory of US groups working in open data,
-civic tech, climate tech, accessibility, digital inclusion, and more. Each
-entry is a short, plain-language description with links, verified against a
-live source.
+The [live directory](https://usa-tech-for-good.vercel.app/) has search, filters, and a page for each organisation.
 
-It's for people looking for US tech-for-good groups to work with, volunteer
-with, or learn from. It's also for anyone mapping out who's doing what in
-this space.
+Read [how entries are chosen](https://github.com/olitreadwell/usa-tech-for-good/blob/main/docs/how-entries-are-chosen.md). To add or correct an entry, [open an issue](https://github.com/olitreadwell/usa-tech-for-good/issues/new/choose).
 
-"Tech-for-good" here means technology used for a public benefit:
-not-for-profit, government, community, or mission-led work, rather than
-purely commercial products. US organisations only.
+Download the data as [JSON](https://github.com/olitreadwell/usa-tech-for-good/blob/main/data/exports/entries.json) or [CSV](https://github.com/olitreadwell/usa-tech-for-good/blob/main/data/exports/entries.csv).
 
-## Status
+## Data and knowledge
 
-**Early. 30 entries, added on 2026-09-23 and not yet re-checked.**
+### Open data
 
-Each of those entries was read off the organisation's own homepage on the
-day it was added, and the `source` field on each one records which page was
-read. Nothing here has been reviewed by a second person yet, and whole
-domains are still empty. [docs/known-gaps.md](docs/known-gaps.md) lists what
-is missing.
+- [Open States](https://openstates.org) - Publishes data on state legislatures across the United States. It covers who the legislators are, what they sponsor, and how they vote.
+- [USAFacts](https://usafacts.org) - Publishes a nonpartisan view of the state of the country, built from government data and free for anyone to use.
 
-The tooling and site come from
-[nz-tech-for-good](https://github.com/olitreadwell/nz-tech-for-good), with
-the New Zealand data removed and the NZ-specific parts of the taxonomy
-replaced with US ones (see [Regions](#regions)).
+## Civic and community
 
-**[Browse the live site](https://olitreadwell.github.io/usa-tech-for-good/)**:
-searchable, filter by domain, region, or tag, with a page for every entry.
+### Civic tech
 
-The site is a static export served from GitHub Pages, deployed by
-[`.github/workflows/pages.yml`](.github/workflows/pages.yml) on every push to
-`main`. See [docs/deploy.md](docs/deploy.md) for why it is Pages and not
-Vercel.
+- [Ballotpedia](https://ballotpedia.org) - A digital encyclopedia of American politics, covering elections, candidates, and ballot measures.
+- [Center for Civic Design](https://civicdesign.org) - The Center for Civic Design works on election design, so that voters can express their intent clearly. It publishes its research and field guides for election officials.
+- [Center for Tech and Civic Life](https://www.techandciviclife.org) - The Center for Tech and Civic Life works with election officials to modernise the American voting experience, through grants, research, and shared election infrastructure.
+- [Code for America](https://codeforamerica.org) - Works with governments and communities across the country to break down barriers and find real solutions, and believes government at every level can work well for everyone.
+- [Democracy Works](https://www.democracy.works) - Builds tools and delivers election information that help millions of Americans vote, with the aim of removing the gaps that keep turnout low.
+- [Election.org](https://election.org) - A nonpartisan civic reference for US elections, candidates, elected officials, campaign finance, and local government. Its records link to public sources, with charts, research downloads, and documented data endpoints.
+- [GovTrack](https://www.govtrack.us) - Tracks legislation and votes in the United States Congress and actions by the White House, and publishes the record where anyone can follow it.
+- [ImpactLine](https://www.impactline.org) - An independent, free public-budget reader that organizes government revenue and spending figures with source links and fiscal periods. Its public coverage includes the US federal government, six states, and four cities.
+- [Vote.org](https://www.vote.org) - A nonpartisan service for registering to vote, checking a registration, and requesting an absentee ballot.
 
-### Domains
+### Government technology
 
-Entries are grouped by domain, the area of public good an organisation works
-in. The list is inherited from the NZ directory and is checked by
-`scripts/validate.py`:
+- [Beeck Center for Social Impact and Innovation](https://beeckcenter.georgetown.edu) - The Beeck Center at Georgetown University works on building a people-centred, digitally enabled government for all.
+- [Coding it Forward](https://www.codingitforward.com) - A nonprofit for early-career technologists. It runs the Coding it Forward Fellowship, a civic tech internship for students and recent graduates.
 
-- Open Data
-- Civic Tech
-- Digital Inclusion
-- Green and Climate Tech
-- Disability and Accessibility Tech
-- Makerspaces and Hackerspaces
-- GovTech
-- Tech Ethics and Responsible AI
-- Education Equity Tech
-- Mental Health Tech
-- Housing and Homelessness Tech
-- Legal Aid and Justice Tech
-- Human Rights Tech
-- Crisis and Humanitarian Tech
-- Environmental Citizen Science
-- Food Rescue and Food Security Tech
-- Financial Inclusion and Fintech for Good
-- Volunteering and Giving Platforms
-- Worker and Platform Co-ops
-- Nonprofit and NGO Tech
-- Journalism and Media Tech
-- Research and Education Tech
-- Refugee and Migrant Support Tech
-- Disability Employment Tech
+### Human rights technology
 
-## Add an organisation and contribute
+- [Electronic Frontier Foundation](https://www.eff.org) - The Electronic Frontier Foundation defends civil liberties in the digital world. It litigates, campaigns, and publishes tools and guides on privacy, free speech, creativity, and surveillance.
+- [Freedom of the Press Foundation](https://freedom.press) - Builds and supports secure tools for journalists, and campaigns against threats to press freedom.
+- [Public Knowledge](https://publicknowledge.org) - Promotes freedom of expression, an open internet, and access to affordable communications tools and creative works, through policy work on behalf of the public interest.
 
-Know a group that should be listed? There are two ways to add one, and
-neither needs any coding for the first:
+### Journalism and media technology
 
-1. **[Suggest an entry](../../issues/new?template=add-entry.yml)**: fill in
-   a short issue form with what you know. Someone will verify it and add it.
-2. **Open a pull request**: copy `data/entry.template.yaml` to
-   `data/entries/<slug>.yaml`, fill it in, and submit. Full steps are in
-   [CONTRIBUTING.md](CONTRIBUTING.md).
+- [ProPublica](https://www.propublica.org) - An independent, non-profit newsroom that produces investigative journalism in the public interest.
 
-Every entry must be verified against a live source before it's added.
-**Never invent a fact**: leave a field empty rather than guess.
+## Access and inclusion
 
-## Use the data
+### Digital inclusion
 
-The raw data lives in [`data/entries/`](data/entries/): one YAML file per
-entry, shaped by [`schema/entry.schema.json`](schema/entry.schema.json).
-[`GUIDE.md`](GUIDE.md) is generated from these files, so if you want the
-structured version for your own tooling (a search index, a map, and so on),
-read the YAML directly.
+- [EveryoneOn](https://www.everyoneon.org) - Connects under-resourced communities to affordable internet and computers, trains people and organisations in digital skills, and works for fair access policies.
+- [Kapor Center](https://www.kaporcenter.org) - The Kapor Center is a family of organisations working to remove barriers for people of colour in the technology sector, through research, programmes, advocacy, and investment.
 
-- **Code** (scripts, schema, tooling) is [MIT licensed](LICENSE).
-- **Data** (the directory entries) is
-  [CC-BY-SA-4.0 licensed](LICENSE-DATA.md): reuse and share it, including
-  commercially, as long as you credit this project and share alike.
+### Disability and accessibility technology
 
-### Machine-readable data
+- [American Foundation for the Blind](https://www.afb.org) - The American Foundation for the Blind works to expand possibilities for the millions of Americans living with vision loss, and has done so since 1921.
+- [Knowbility](https://knowbility.org) - A nonprofit based in Austin, Texas working to create an inclusive digital world for people with disabilities, through training, consulting, and advocacy. It was founded in 1999.
 
-If you'd rather not parse YAML, the whole directory is also exported as
-[`data/exports/entries.json`](data/exports/entries.json) (one JSON object
-per entry) and [`data/exports/entries.csv`](data/exports/entries.csv) (the
-same data flattened to columns), both regenerated from `data/entries/` by
-`scripts/export.py` and kept in sync by CI.
+### Education equity technology
 
-### Regions
+- [Benetech](https://benetech.org) - A nonprofit that creates software for social good in education, employment, and social inclusion, and offers free training for educators supporting students with diverse learning needs.
+- [CodeAI](https://code.org) - An education nonprofit working so that every student in every school can learn about artificial intelligence and computer science as part of their core K-12 education. It was previously known as Code.org.
 
-Each entry records a US region, or `national` if it works across the
-country: `new-england`, `mid-atlantic`, `southeast`, `midwest`,
-`south-central`, `mountain-west`, `pacific-northwest`, `california`,
-`alaska`, `hawaii`. The list lives in
-[`schema/entry.schema.json`](schema/entry.schema.json); open an issue if a
-region is missing.
+## Health and wellbeing
 
-## How it's maintained
+### Mental health technology
 
-- Links are checked automatically every week
-  ([`.github/workflows/linkcheck.yml`](.github/workflows/linkcheck.yml)); a
-  tracking issue opens on genuine dead links and closes when they recover.
-- Every entry website is archived to the Wayback Machine every week
-  ([`.github/workflows/wayback.yml`](.github/workflows/wayback.yml)); the
-  snapshot URLs are recorded in `data/archives.json`.
-- `GUIDE.md` is regenerated from the YAML entries, so it stays in sync with
-  the underlying data. CI fails a PR if it's out of date.
-- Accuracy comes first: every entry is verified against a live source, and
-  nothing is invented. See [CONTRIBUTING.md](CONTRIBUTING.md) for the rules.
-- This directory lists **public professional information only**. It does not
-  list named people yet: see [docs/known-gaps.md](docs/known-gaps.md) for why,
-  and how to help close that gap.
+- [Crisis Text Line](https://www.crisistextline.org) - Provides free, 24-hour, confidential text support for people in crisis, in English and Spanish.
 
-## Get involved
+## Climate, food and housing
 
-This directory answers what exists. These routes answer what to do next,
-each one checked on 2026-09-23:
+### Climate technology
 
-- **[Chi Hack Night](https://chihacknight.org)**: a weekly civic hack night
-  in Chicago, in person and online, open to anyone who turns up.
-- **[BetaNYC](https://beta.nyc)**: a civic technology community in New York
-  running meetups, events, and public-interest data projects.
-- **[Civic Tech Field Guide](https://civictech.guide)**: projects,
-  organisations, and community channels worldwide, including a directory of
-  Slacks, Discords, and Teams with open join links.
-- **[Catchafire](https://www.catchafire.org)**: a skilled volunteering
-  marketplace where nonprofits post short projects and professionals pick
-  one up.
+- [CarbonPlan](https://carbonplan.org) - Works on the transparency and scientific integrity of climate solutions, publishing open data and tools alongside its analysis.
+- [Rewiring America](https://www.rewiringamerica.org) - Works on electrifying American households, with the aim of clean energy that every household can afford.
 
-[`docs/research-get-involved.md`](docs/research-get-involved.md) has the
-full comparison of how these sites onboard newcomers, and the backlog for
-bringing the same routes into this directory.
+### Food rescue and food security
 
-## Related directories and further reading
+- [Feeding America](https://www.feedingamerica.org) - A nonprofit network of 200 food banks working to end hunger in the United States.
 
-Other US places to find open data, civic technology, and public-interest
-tech work. Every link below was checked and resolves:
+### Housing and homelessness technology
 
-- **[data.gov](https://data.gov)** is the US government's open data
-  catalogue: datasets published across federal agencies.
-- **[US Census Bureau](https://www.census.gov)** publishes data about the
-  country's people and economy.
-- **[USA.gov](https://www.usa.gov)** is the public-facing guide to government
-  services, benefits, and agencies.
-- **[Digital.gov](https://digital.gov)** publishes guidance on building
-  better digital services in government.
-- **[GSA Technology Transformation Services](https://www.gsa.gov/technology)**
-  builds and shares technology across federal agencies.
-- **[Civic Tech Field Guide](https://civictech.guide)** is a curated
-  directory of projects, tools, and organisations working on technology for
-  democracy and the common good.
-- **[NIST](https://www.nist.gov)** sets measurement science and technology
-  standards, including the AI risk management framework.
-- **[Federal Trade Commission](https://www.ftc.gov)** enforces consumer
-  protection and competition law, and takes the lead on several technology
-  policy areas.
+- [Community Solutions](https://community.solutions) - Helps communities act with speed, coordination, and accountability to reduce homelessness, and publishes data on the progress those communities make.
 
-Know a directory, registry, or community hub that belongs here? Please
-[open an issue](../../issues/new) or a pull request.
+## Work, money and learning
 
-## For developers
+### Worker and platform co-ops
 
-Clone the repo and set up the scripts used to validate and regenerate the
-directory:
+- [U.S. Federation of Worker Cooperatives](https://usworker.coop) - The U.S. Federation of Worker Cooperatives is the national membership organisation for worker cooperatives and democratic workplaces. It represents an estimated 1,300 US worker co-ops and their 15,000 workers.
 
-```bash
-git clone https://github.com/olitreadwell/usa-tech-for-good.git
-cd usa-tech-for-good
-pip install -r requirements.txt
+### Research and education technology
 
-python3 scripts/validate.py      # check entries against the schema
-python3 scripts/build_guide.py   # regenerate GUIDE.md from data/entries/
-python3 scripts/linkcheck.py     # optional: check all links for dead ones
-python3 scripts/archive_wayback.py --dry-run  # preview Wayback archives
-```
+- [DataKind](https://www.datakind.org) - Works with social sector organisations to design data science and AI projects in areas including health, humanitarian action, climate, and education.
 
-Run both `validate.py` and `build_guide.py` after adding or editing an
-entry, and commit the regenerated `GUIDE.md`. CI fails a PR if it's out of
-date. Full contribution steps, including commit message style, are in
-[CONTRIBUTING.md](CONTRIBUTING.md).
+## Tech ethics and responsible AI
 
-The site is a Next.js app in `apps/web`, built as a static export
-(`next.config.ts` sets `output: 'export'`). A push to `main` builds and
-publishes it to GitHub Pages; you can reproduce the published files locally
-with `npm run build` and then look in `apps/web/out`. See
-[docs/deploy.md](docs/deploy.md).
+### Technology ethics and responsible AI
 
-## How it started
+- [AI Now Institute](https://ainowinstitute.org) - An independent research institute providing expert analysis on artificial intelligence in the public interest.
+- [Data & Society Research Institute](https://datasociety.net) - Data & Society is a research institute studying the social implications of data and automation. It argues that technology policy should be grounded in research about technology's real-world effects.
 
-The tooling and site were derived from
-[nz-tech-for-good](https://github.com/olitreadwell/nz-tech-for-good) by
-[Oli Treadwell](https://github.com/olitreadwell), which was itself built with
-AI-assisted research and human verification of every entry. This repo is open
-for the community to seed, correct, and maintain.
+## Footnotes
 
-Shared tooling is kept in sync from
-[olitreadwell/template](https://github.com/olitreadwell/template) by
-`.github/workflows/template-sync.yml`; see
-[docs/template-sync.md](docs/template-sync.md) for which files are managed
-that way.
+This list is maintained by the community. Every entry is checked against a live source before it is added.
 
-## People and privacy
+Read [CONTRIBUTING.md](https://github.com/olitreadwell/usa-tech-for-good/blob/main/CONTRIBUTING.md) for the review rules.
 
-If you're listed here and want your information corrected or removed, please
-[open an issue](../../issues/new) and we'll action it. This takes priority
-over completeness.
+The website is the searchable version of this list. The data is available under CC BY-SA 4.0. The code is under the MIT licence.
 
-## Contributors ✨
+If you are listed here and want your information corrected or removed, use the issue link in Start here. That request takes priority over completeness.
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+### Words used in this list
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/olitreadwell"><img src="https://github.com/olitreadwell.png?s=100" width="100px;" alt="Oli Treadwell"/><br /><sub><b>Oli Treadwell</b></sub></a><br /><a href="https://github.com/olitreadwell/usa-tech-for-good/commits?author=olitreadwell" title="Code">💻</a> <a href="https://github.com/olitreadwell/usa-tech-for-good/commits?author=olitreadwell" title="Documentation">📖</a> <a href="#data-olitreadwell" title="Data">🔣</a> <a href="#design-olitreadwell" title="Design">🎨</a> <a href="#ideas-olitreadwell" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-olitreadwell" title="Maintenance">🚧</a> <a href="#projectManagement-olitreadwell" title="Project Management">📆</a> <a href="https://github.com/olitreadwell/usa-tech-for-good/pulls?q=is%3Apr+reviewed-by%3Aolitreadwell" title="Reviewed Pull Requests">👀</a></td>
-    </tr>
-  </tbody>
-</table>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+**API**: a way for one computer program to ask another for data.
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+**GIS**: software for making and reading maps from data.
+
+**AI**: software that can do tasks that usually need human judgement.

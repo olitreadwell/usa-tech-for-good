@@ -1,7 +1,7 @@
 import { test, expect } from "@playwright/test";
 import AxeBuilder from "@axe-core/playwright";
 
-const BASE_PATH = "/usa-tech-for-good";
+const BASE_PATH = "";
 
 test.describe("homepage", () => {
   test("renders title and stats", async ({ page }) => {
@@ -46,6 +46,7 @@ test.describe("directory page", () => {
 
   test("has no serious a11y violations", async ({ page }) => {
     await page.goto(`${BASE_PATH}/directory`);
+    await expect(page.locator("h3 a").first()).toBeVisible();
     const results = await new AxeBuilder({ page })
       .withTags(["wcag2a", "wcag2aa"])
       .analyze();

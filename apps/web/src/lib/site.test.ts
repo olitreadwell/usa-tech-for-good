@@ -1,27 +1,27 @@
-import { afterEach, describe, expect, it } from 'vitest';
+import { afterEach, describe, expect, it, vi } from 'vitest';
 
-import { getBasePath, getSiteUrl, withBasePath } from '@/lib/site';
+import { getBasePath, getSiteOrigin, getSiteUrl, withBasePath } from '@/lib/site';
 
-describe('site URLs', () => {
-  const originalOrigin = process.env.NEXT_PUBLIC_SITE_URL;
-  const originalBasePath = process.env.NEXT_PUBLIC_BASE_PATH;
+afterEach(() => {
+  vi.unstubAllEnvs();
+});
 
-  afterEach(() => {
-    if (originalOrigin === undefined) delete process.env.NEXT_PUBLIC_SITE_URL;
-    else process.env.NEXT_PUBLIC_SITE_URL = originalOrigin;
-    if (originalBasePath === undefined) delete process.env.NEXT_PUBLIC_BASE_PATH;
-    else process.env.NEXT_PUBLIC_BASE_PATH = originalBasePath;
+describe('standalone deployment URLs', () => {
+  it('defaults to the Vercel origin and no base path', () => {
+    expect(getSiteOrigin()).toBe('https://usa-tech-for-good.vercel.app');
+    expect(getBasePath()).toBe('');
+    expect(withBasePath('/directory')).toBe('/directory');
+    expect(getSiteUrl('/entry/test-org')).toBe(
+      'https://usa-tech-for-good.vercel.app/entry/test-org'
+    );
   });
 
-  it('uses the USA GitHub Pages base path by default', () => {
-    delete process.env.NEXT_PUBLIC_BASE_PATH;
-    expect(getBasePath()).toBe('/usa-tech-for-good');
-    expect(withBasePath('/directory')).toBe('/usa-tech-for-good/directory');
-  });
+  it('keeps an explicit site URL override working', () => {
+    vi.stubEnv('NEXT_PUBLIC_SITE_URL', 'https://example.org/');
+    vi.stubEnv('NEXT_PUBLIC_BASE_PATH', '/');
 
-  it('builds absolute URLs without duplicate slashes', () => {
-    process.env.NEXT_PUBLIC_SITE_URL = 'https://example.org/';
-    process.env.NEXT_PUBLIC_BASE_PATH = '/usa/';
-    expect(getSiteUrl('/entry/test-org')).toBe('https://example.org/usa/entry/test-org');
+    expect(getSiteOrigin()).toBe('https://example.org');
+    expect(getBasePath()).toBe('');
+    expect(getSiteUrl('/directory')).toBe('https://example.org/directory');
   });
 });

@@ -52,7 +52,7 @@ describe('EntryPage', () => {
     expect(metadata.title).toBe('Test Organisation');
     expect(metadata.description).toBe('Test Organisation does civic tech work.');
     expect(metadata.alternates?.canonical).toBe(
-      'https://olitreadwell.github.io/usa-tech-for-good/entry/test-org'
+      'https://usa-tech-for-good.vercel.app/entry/test-org'
     );
   });
 

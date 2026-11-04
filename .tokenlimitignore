@@ -1,5 +1,9 @@
-# Generated data exports; regenerate with scripts/export.py.
+# Generated public files. Their source is data/entries/*.yaml.
+README.md
+GUIDE.md
 data/exports/entries.json
 data/exports/entries.csv
-# Generated social preview image.
+
+# Generated raster assets. Review them visually, not as source text.
 apps/web/public/og-image.png
+apps/web/public/favicon-32x32.png
