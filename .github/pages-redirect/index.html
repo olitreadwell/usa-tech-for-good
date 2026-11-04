@@ -1,16 +1,21 @@
 <!doctype html>
-<html lang="en-NZ">
+<html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>NZ Tech-for-Good has moved</title>
+    <title>This list has moved</title>
     <link rel="canonical" href="https://usa-tech-for-good.vercel.app/" />
     <meta name="robots" content="noindex" />
   </head>
   <body>
-    <p>NZ Tech-for-Good has moved to <a href="https://usa-tech-for-good.vercel.app/">nz-tech-for-good.vercel.app</a>.</p>
+    <p>The standalone site is being deployed. For now, <a href="https://github.com/olitreadwell/usa-tech-for-good#readme">read the list on GitHub</a>.</p>
     <script>
-      location.replace('https://usa-tech-for-good.vercel.app/');
+      var prefix = '/usa-tech-for-good';
+      var path = location.pathname.indexOf(prefix) === 0 ? location.pathname.slice(prefix.length) : '/';
+      function openSite() {
+        location.replace('https://usa-tech-for-good.vercel.app' + path + location.search + location.hash);
+      }
     </script>
+    <img src="https://usa-tech-for-good.vercel.app/favicon-32x32.png" alt="" width="1" height="1" onload="openSite()" onerror="this.remove()" />
   </body>
 </html>
