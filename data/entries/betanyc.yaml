@@ -1,0 +1,33 @@
+name: BetaNYC
+domain: civic-tech
+what: >-
+  BetaNYC is a New York City nonprofit that helps residents use civic
+  technology, open data and design to improve their neighborhoods. It runs
+  public programs, a data help desk and civic tools including Boundaries Map
+  and the Urban Heat Portal.
+region: mid-atlantic
+website: https://www.beta.nyc/
+github: ''
+linkedin_org: "https://www.linkedin.com/company/betanyc/"
+community_url: ''
+events_url: "https://www.beta.nyc/events/"
+linkedin_people: []
+tags:
+- civic tech
+- open data
+- new york city
+- volunteering
+related_to: []
+source: >-
+  what from https://www.beta.nyc/about/ (accessed 2026-11-10): "BetaNYC is a
+  civic organization dedicated to improving lives in New York through civic
+  design, technology, and data." founding_year from the same page: "BetaNYC
+  began in 2008 as the NYC Open Government meetup". website from
+  https://www.beta.nyc/; linkedin_org linked from the home page at
+  https://www.linkedin.com/company/betanyc/; events_url linked from the home
+  page at https://www.beta.nyc/events/; careers_url linked from the home page at
+  https://www.beta.nyc/our-work/get-involved/.
+founding_year: 2008
+takes_contributors: true
+careers_url: "https://www.beta.nyc/our-work/get-involved/"
+last_verified: "2026-11-10"

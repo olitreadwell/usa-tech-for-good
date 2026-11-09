@@ -1,0 +1,32 @@
+name: "Berkeley Institute for Data Science"
+domain: "research / education tech"
+what: >-
+  Berkeley Institute for Data Science is a research institute at UC Berkeley
+  that supports data-intensive research, open-source software and data science
+  training. It runs programs in open scholarship, AI and science, and hosts
+  events and training for researchers across disciplines.
+region: "california"
+website: "https://bids.berkeley.edu"
+github: ""
+linkedin_org: "https://www.linkedin.com/company/berkeley-institute-for-data-science-bids-/"
+community_url: ""
+events_url: "https://bids.berkeley.edu/events"
+linkedin_people: []
+tags:
+  - "data science"
+  - "open source"
+  - "research"
+  - "training"
+related_to: []
+source: >-
+  website: https://bids.berkeley.edu/ and https://bids.berkeley.edu/about
+  (accessed 2026-11-10). what: "BIDS is a home for data-intensive research,
+  open-source software, & data science training programs" and "BIDS contributes
+  to a number of open source, open science, and open data resource communities in
+  support of academic research". founding_year: "Since its launch in 2013, BIDS
+  has cultivated an environment of open inquiry and discovery". linkedin_org and
+  events_url: linked from https://bids.berkeley.edu/.
+founding_year: 2013
+takes_contributors: null
+careers_url: ""
+last_verified: "2026-11-10"

@@ -1,0 +1,31 @@
+name: "Security Force Monitor"
+domain: "human-rights tech"
+what: >-
+  Security Force Monitor is a research group that compiles public records into a
+  searchable database of security force units, commanders and areas of
+  operation. Human rights researchers, litigators and journalists use the data
+  to investigate alleged abuses and hold security forces accountable.
+region: "mid-atlantic"
+website: "https://securityforcemonitor.org/"
+github: "https://github.com/security-force-monitor/"
+linkedin_org: ""
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+  - "human rights"
+  - "open source research"
+  - "security forces"
+  - "accountability"
+related_to: []
+source: >-
+  website: https://securityforcemonitor.org/ (accessed 2026-11-10). what: "We
+  are a research group that analyzes thousands of public records to create a
+  simple searchable database of the commanders and the command structures,
+  locations, and areas of operations of security force units" and "Security
+  Force Monitor supports human rights researchers, litigators and investigative
+  journalists". github: linked from https://securityforcemonitor.org/.
+founding_year: null
+takes_contributors: null
+careers_url: ""
+last_verified: "2026-11-10"

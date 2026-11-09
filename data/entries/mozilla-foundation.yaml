@@ -1,0 +1,33 @@
+name: "Mozilla Foundation"
+domain: "tech-ethics / responsible-AI"
+what: >-
+  The Mozilla Foundation is a nonprofit that funds and supports people building
+  a more open and accountable internet. Its work includes fellowships, grants,
+  Mozilla Festival and Common Voice, a public speech dataset project.
+region: "california"
+website: "https://www.mozillafoundation.org/en/"
+github: ""
+linkedin_org: "https://www.linkedin.com/company/mozilla-corporation/"
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+  - "responsible ai"
+  - "open internet"
+  - "digital rights"
+  - "nonprofit"
+related_to: []
+source: >-
+  what from https://www.mozillafoundation.org/en/ (accessed 2026-11-10):
+  "Mozilla Foundation is backing extraordinary people at the edges of human
+  imagination, working on technology that’s too early, too unexpected, or too
+  ambitious for anyone else to fund." website from the same page; linkedin_org
+  and careers_url linked from https://www.mozillafoundation.org/en/;
+  takes_contributors from https://www.mozillafoundation.org/en/join-us/
+  ("Contribute your voice or make a donation" and "Anyone can preserve,
+  revitalize and elevate their language by sharing, creating, and curating text
+  and speech datasets.").
+founding_year: null
+takes_contributors: true
+careers_url: "https://www.mozilla.org/careers/listings/?team=Mozilla%20Foundation"
+last_verified: "2026-11-10"

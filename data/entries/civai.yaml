@@ -1,0 +1,27 @@
+name: CivAI
+domain: tech-ethics / responsible-AI
+what: >-
+  CivAI is a nonprofit that educates the public about the capabilities and dangers of AI through
+  interactive software demonstrations. It also gives briefings to government and civil society groups.
+region: california
+website: https://civai.org/
+github: ''
+linkedin_org: "https://www.linkedin.com/company/civic-ai-security-program"
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- ai safety
+- responsible ai
+- public education
+- interactive demos
+related_to: []
+source: >-
+  what and founding_year from https://civai.org/about (accessed 2026-11-10): "CivAI is a non-profit that
+  educates the public about AI's capabilities and dangers using live software demonstrations." and
+  "Since its founding in 2023". website from https://civai.org/; linkedin_org linked from
+  https://civai.org/; careers_url linked from https://civai.org/ and https://civai.org/jobs.
+founding_year: 2023
+takes_contributors: null
+careers_url: "https://civai.org/jobs"
+last_verified: "2026-11-10"

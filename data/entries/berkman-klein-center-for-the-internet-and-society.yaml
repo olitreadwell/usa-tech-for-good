@@ -1,0 +1,32 @@
+name: Berkman Klein Center for the Internet and Society
+domain: tech-ethics / responsible-AI
+what: >-
+  The Berkman Klein Center for the Internet and Society is an academic research
+  center at Harvard University that studies the internet and digital society.
+  It builds tools and platforms and runs fellowships and public programs on
+  the internet, law and digital policy.
+region: new-england
+website: https://cyber.harvard.edu/
+github: "https://github.com/berkmancenter"
+linkedin_org: "https://www.linkedin.com/company/berkman-center-for-internet-&-society-at-harvard-university"
+community_url: ''
+events_url: "https://cyber.harvard.edu/events"
+linkedin_people: []
+tags:
+- internet policy
+- research
+- responsible ai
+- fellowships
+related_to: []
+source: >-
+  what from https://cyber.harvard.edu/about (accessed 2026-11-10): "We are a
+  research center, premised on the observation that what we seek to learn is not
+  already recorded." and "We design. We code. We construct." website from
+  https://cyber.harvard.edu/; github linked from the about page at
+  https://github.com/berkmancenter; linkedin_org linked from the events page at
+  https://www.linkedin.com/company/berkman-center-for-internet-&-society-at-harvard-university;
+  events_url linked from the home page at https://cyber.harvard.edu/events.
+founding_year: null
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"

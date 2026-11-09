@@ -1,0 +1,28 @@
+name: "REAL ML"
+domain: "tech-ethics / responsible-AI"
+what: >-
+  REAL ML is a non-profit network that connects and resources people working on
+  AI and algorithmic accountability. It runs workshops, a fellowship and a
+  global community focused on the experiences of marginalized communities.
+region: "pacific-northwest"
+website: "https://realml.org/"
+github: ""
+linkedin_org: "https://www.linkedin.com/company/real-ml/"
+community_url: ""
+events_url: "https://realml.org/events/"
+linkedin_people: []
+tags:
+  - "ai accountability"
+  - "algorithmic transparency"
+  - "research"
+  - "network"
+related_to: []
+source: >-
+  website: https://realml.org/ (accessed 2026-11-10). what: "REAL ML is a
+  non-profit organization building a global movement for AI accountability."
+  founding_year: "Anna co-founded REAL ML in 2019". linkedin_org and events_url:
+  linked from https://realml.org/.
+founding_year: 2019
+takes_contributors: null
+careers_url: ""
+last_verified: "2026-11-10"

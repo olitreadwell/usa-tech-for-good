@@ -1,0 +1,32 @@
+name: California Privacy Protection Agency (CPPA)
+domain: govtech
+what: >-
+  The California Privacy Protection Agency is the state agency that implements
+  and enforces California's consumer privacy law. It operates the Delete Request
+  and Opt-out Platform and a data broker registry, and educates the public about
+  privacy rights.
+region: california
+website: https://cppa.ca.gov/
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- privacy
+- consumer protection
+- state government
+- data brokers
+related_to: []
+source: >-
+  what from https://cppa.ca.gov/about_us/jobs.html (accessed 2026-11-10):
+  "CalPrivacy is the first of its kind agency in the US created to protect the
+  consumer privacy of Californians." and "We implement the California Consumer
+  Privacy Act (CCPA), enforce its regulations, and educate the public about
+  their rights and obligations under the law." website from
+  https://cppa.ca.gov/; careers_url linked from the home page at
+  https://cppa.ca.gov/about_us/jobs.html.
+founding_year: null
+takes_contributors: null
+careers_url: "https://cppa.ca.gov/about_us/jobs.html"
+last_verified: "2026-11-10"

@@ -1,0 +1,33 @@
+name: "Metagov"
+domain: "civic-tech"
+what: >-
+  Metagov is a nonprofit research and infrastructure laboratory for online
+  governance. It cultivates tools, research and a community of practice for
+  people building self-governing digital institutions.
+region: "national"
+website: "https://metagov.org/"
+github: ""
+linkedin_org: "https://www.linkedin.com/company/meta-gov/"
+community_url: ""
+events_url: "https://metagov.org/events"
+linkedin_people: []
+tags:
+  - "digital governance"
+  - "online communities"
+  - "research"
+related_to: []
+source: >-
+  what from https://metagov.org/ (accessed 2026-11-10): "a nonprofit,
+  research-to-infrastructure laboratory advancing community sovereignty,
+  network governance, and statecraft in the age of AI" and "We cultivate tools,
+  practices, and communities that enable self-governance in the digital age."
+  founding_year from https://metagov.org/ (accessed 2026-11-10): "Metagov was
+  founded in 2019, out of a seminar at Harvard Law School". website,
+  linkedin_org, events_url and careers_url linked from https://metagov.org/.
+  takes_contributors from https://metagov.org/join: "Join our community Slack by
+  filling out this survey". region from the candidate record, which gives HQ as
+  USA.
+founding_year: 2019
+takes_contributors: true
+careers_url: "https://metagov.org/join/jobs"
+last_verified: "2026-11-10"

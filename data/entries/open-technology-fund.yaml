@@ -1,0 +1,31 @@
+name: "Open Technology Fund"
+domain: "human-rights tech"
+what: >-
+  The Open Technology Fund is an independent nonprofit that funds and supports
+  technology projects countering online censorship and surveillance. It provides
+  grants, security audits and other help to internet freedom projects.
+region: "mid-atlantic"
+website: "https://www.opentech.fund/"
+github: ""
+linkedin_org: "https://www.linkedin.com/company/open-technology-fund"
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+- internet freedom
+- censorship
+- digital security
+- human rights
+related_to: []
+source: >-
+  name, domain, what, region, website, tags, last_verified:
+  https://www.opentech.fund/about/ (accessed 2026-11-10); quote: "OTF is an
+  independent non-profit organization committed to advancing global internet
+  freedom. We support projects focused on counteracting repressive censorship
+  and surveillance, enabling citizens worldwide to exercise their fundamental
+  human rights online." linkedin_org, careers_url: linked from
+  https://www.opentech.fund/ (accessed 2026-11-10).
+founding_year: null
+takes_contributors: null
+careers_url: "https://www.opentech.fund/about/career-opportunities/"
+last_verified: "2026-11-10"

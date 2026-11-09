@@ -1,0 +1,30 @@
+name: Creative Commons
+domain: open-data
+what: >-
+  Creative Commons is an international nonprofit that provides legal and technical tools for sharing
+  knowledge and culture. Its licenses and public domain tools are used by Wikipedia, Flickr, and
+  millions of other creators and institutions.
+region: california
+website: https://creativecommons.org
+github: ''
+linkedin_org: "https://www.linkedin.com/company/creative-commons/"
+community_url: ''
+events_url: "https://creativecommons.org/events"
+linkedin_people: []
+tags:
+- open licensing
+- open knowledge
+- copyright
+- community
+related_to: []
+source: >-
+  https://creativecommons.org/ (accessed 2026-11-10). what: "Creative Commons is an international
+  nonprofit organization dedicated to defending and nurturing a commons of shared knowledge and
+  culture that powers human creativity, equity, and innovation." linkedin_org and events_url linked
+  from this page. takes_contributors from
+  https://creativecommons.org/community/ ("There are a number of ways you can contribute your time to
+  the open movement").
+founding_year: null
+takes_contributors: true
+careers_url: ''
+last_verified: "2026-11-10"

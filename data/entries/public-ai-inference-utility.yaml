@@ -1,0 +1,29 @@
+name: "Public AI Inference Utility"
+domain: "tech-ethics / responsible-AI"
+what: >-
+  Public AI Inference Utility is a nonprofit, open-source project that runs a
+  shared access point for public and sovereign AI models. It also advocates for
+  AI as public infrastructure rather than a privately controlled service.
+region: "national"
+website: "https://publicai.co/"
+github: ""
+linkedin_org: "https://www.linkedin.com/company/pubai/"
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+  - "public ai"
+  - "open source"
+  - "ai infrastructure"
+  - "digital public infrastructure"
+related_to: []
+source: >-
+  website: https://publicai.co/ (accessed 2026-11-10). what: "The Public AI
+  Inference Utility is a nonprofit, open-source project." and "We build public
+  AI". linkedin_org: linked from https://publicai.co/about. takes_contributors:
+  "Just send PRs – it's all open source. Start contributing" on
+  https://publicai.co/.
+founding_year: null
+takes_contributors: true
+careers_url: ""
+last_verified: "2026-11-10"

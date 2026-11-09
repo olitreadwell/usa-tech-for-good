@@ -1,0 +1,31 @@
+name: "Free Law Project"
+domain: "legal-aid / justice tech"
+what: >-
+  Free Law Project is a non-profit that uses software, data and advocacy to make
+  legal information more accessible. It runs CourtListener, the RECAP archive
+  and related tools for public access to court records.
+region: "national"
+website: "https://free.law/"
+github: "https://github.com/freelawproject/"
+linkedin_org: ""
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+  - "legal data"
+  - "court records"
+  - "open access"
+  - "nonprofit"
+related_to: []
+source: >-
+  what from https://free.law/ (accessed 2026-11-10): "Free Law Project is the
+  leading nonprofit using technology, data, and advocacy to make the legal
+  ecosystem more equitable and competitive." founding_year from
+  https://free.law/about/: "Started in 2010". website, github and careers_url
+  linked from https://free.law/; takes_contributors from
+  https://free.law/volunteer/, which lists software development, research and
+  other volunteer routes.
+founding_year: 2010
+takes_contributors: true
+careers_url: "https://free.law/volunteer/"
+last_verified: "2026-11-10"

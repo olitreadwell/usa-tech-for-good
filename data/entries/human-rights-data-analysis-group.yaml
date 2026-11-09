@@ -1,0 +1,23 @@
+name: "Human Rights Data Analysis Group"
+domain: "human-rights tech"
+what: >-
+  The Human Rights Data Analysis Group is a non-profit, non-partisan organization that applies statistics and data science to the analysis of human rights violations. It works with truth commissions, courts, and human rights groups to build evidence for accountability.
+region: "california"
+website: "https://hrdag.org/"
+github: ""
+linkedin_org: "https://www.linkedin.com/company/human-rights-data-analysis-group"
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+  - "human rights"
+  - "data science"
+  - "statistics"
+  - "accountability"
+related_to: []
+source: >-
+  name, domain, what and region from https://hrdag.org/ and https://hrdag.org/knowledge-base/ (accessed 2026-11-10): "The Human Rights Data Analysis Group is a non-profit, non-partisan organization that applies rigorous science to the analysis of human rights violations around the world." founding_year from https://hrdag.org/knowledge-base/ (accessed 2026-11-10): "HRDAG began in 1991 when Patrick Ball began creating databases for human rights groups in El Salvador." region mapped from the San Francisco HQ in the candidate record. website from https://hrdag.org/; linkedin_org linked from the cached home page at https://www.linkedin.com/company/human-rights-data-analysis-group.
+founding_year: 1991
+takes_contributors: null
+careers_url: ""
+last_verified: "2026-11-10"

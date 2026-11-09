@@ -1,0 +1,31 @@
+name: "Truth In Polling"
+domain: "civic-tech"
+what: >-
+  Truth In Polling is a nonpartisan 501(c)(3) nonprofit that runs a government
+  accountability platform. It tracks legislation, campaign finance, voting
+  records and government contracts for Congress and Indiana, with more states
+  planned.
+region: "midwest"
+website: "https://truthinpolling.com/"
+github: ""
+linkedin_org: ""
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+  - "government accountability"
+  - "transparency"
+  - "civic engagement"
+related_to: []
+source: >-
+  what from https://truthinpolling.com/ (accessed 2026-11-10), page metadata
+  description: "Nonpartisan government accountability platform tracking
+  legislation, campaign finance, voting records, and government contracts for
+  Congress and Indiana. More states are being added. AI-powered transparency for
+  every elected official. 501(c)(3) nonprofit." website from
+  https://truthinpolling.com/. region from the same description: "Congress and
+  Indiana".
+founding_year: null
+takes_contributors: null
+careers_url: ""
+last_verified: "2026-11-10"

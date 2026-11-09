@@ -1,0 +1,23 @@
+name: "Institute for Security and Technology"
+domain: "tech-ethics / responsible-AI"
+what: >-
+  The Institute for Security and Technology is a 501(c)(3) nonprofit that brings technologists, policymakers, and industry leaders together to develop practical responses to emerging security challenges. Its work covers cybersecurity, artificial intelligence risk, critical infrastructure, and nuclear command and control.
+region: "national"
+website: "https://securityandtechnology.org/"
+github: ""
+linkedin_org: "https://www.linkedin.com/company/technology-for-global-security/"
+community_url: ""
+events_url: "https://securityandtechnology.org/events/"
+linkedin_people: []
+tags:
+  - "AI risk"
+  - "cybersecurity"
+  - "national security"
+  - "policy"
+related_to: []
+source: >-
+  name, domain, what and region from https://securityandtechnology.org/ (accessed 2026-11-10): "The Institute for Security and Technology, a 501(c)(3) non-profit, unites technologists, policymakers, and industry leaders to create actionable solutions to emerging security challenges." region mapped from the USA location and national security focus in the candidate record. website from https://securityandtechnology.org/; linkedin_org, events_url and careers_url linked from the cached home page at https://www.linkedin.com/company/technology-for-global-security/, https://securityandtechnology.org/events/ and https://securityandtechnology.org/careers/.
+founding_year: null
+takes_contributors: null
+careers_url: "https://securityandtechnology.org/careers/"
+last_verified: "2026-11-10"

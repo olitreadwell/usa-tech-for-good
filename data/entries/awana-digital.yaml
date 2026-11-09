@@ -1,0 +1,32 @@
+name: "Awana Digital"
+domain: "human-rights tech"
+what: >-
+  Awana Digital is a non-profit that works with Indigenous and frontline
+  communities to build technology for defending land, culture and human rights.
+  Its tools include CoMapeo for territory monitoring and mapping, Terrastories
+  for place-based storytelling and the Earth Defenders Toolkit.
+region: "california"
+website: "https://awana.digital"
+github: ""
+linkedin_org: "https://www.linkedin.com/company/awanadigital/"
+community_url: "https://discord.com/channels/910147496842518539/910153227671068742"
+events_url: ""
+linkedin_people: []
+tags:
+  - "indigenous rights"
+  - "mapping"
+  - "open source"
+  - "human rights"
+related_to: []
+source: >-
+  website: https://awana.digital/ and https://awana.digital/get-involved
+  (accessed 2026-11-10). what: "Awana Digital is a non-profit building
+  decentralized technology hand-in-hand with Indigenous partners" and "We
+  partner with earth defenders to co-develop technology for social justice".
+  linkedin_org and community_url: linked from https://awana.digital/. careers_url:
+  linked from https://awana.digital/. takes_contributors: the Get Involved page
+  lists developer roles, fellowships and a public Discord channel.
+founding_year: null
+takes_contributors: true
+careers_url: "https://awana.digital/get-involved"
+last_verified: "2026-11-10"

@@ -1,0 +1,36 @@
+name: "OpenOakland"
+domain: "civic-tech"
+what: >-
+  OpenOakland is a volunteer civic technology group that builds tools and data
+  projects with Oakland public agencies and nonprofits. Its volunteers provide
+  data analysis, software and design work at no cost.
+region: "california"
+website: "https://openoakland.org/"
+github: "https://github.com/openoakland"
+linkedin_org: ""
+community_url: ""
+events_url: "https://www.meetup.com/OpenOakland/events/"
+linkedin_people: []
+tags:
+- civic tech
+- volunteers
+- open data
+- oakland
+related_to: []
+source: >-
+  name, domain, what, region, website, tags, last_verified: homepage meta at
+  https://openoakland.org/ (accessed 2026-11-10); quote: "OpenOakland is a
+  volunteer-driven civic technology organization bringing technologists, data
+  analysts, designers, and researchers together to build community-centered
+  technology with nonprofit and government partners." founding_year: homepage
+  https://openoakland.org/ (accessed 2026-11-10); quote: "Since 2012, our
+  volunteer technologists have helped deliver services to the community, at no
+  cost." github, events_url, careers_url: linked from
+  https://openoakland.org/volunteer/ (accessed 2026-11-10).
+  takes_contributors: volunteer page at https://openoakland.org/volunteer/
+  (accessed 2026-11-10); quote: "Interested in contributing to civic tech in
+  Oakland?"
+founding_year: 2012
+takes_contributors: true
+careers_url: "https://openoakland.org/volunteer/"
+last_verified: "2026-11-10"

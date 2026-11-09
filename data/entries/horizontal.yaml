@@ -1,0 +1,30 @@
+name: "Horizontal"
+domain: "human-rights tech"
+what: >-
+  Horizontal is a non-profit that supports human rights defenders, activists and
+  journalists with digital security and tool development. It builds open-source
+  technology with at-risk users rather than for them.
+region: "mid-atlantic"
+website: "https://wearehorizontal.org/index"
+github: ""
+linkedin_org: "https://www.linkedin.com/company/horizontalorg"
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+  - "human rights"
+  - "digital security"
+  - "open source"
+  - "journalists"
+related_to: []
+source: >-
+  what from https://wearehorizontal.org/index (accessed 2026-11-10): "Horizontal
+  supports frontline defenders, activists and journalists through digital
+  security and tool development." Non-profit status from
+  https://wearehorizontal.org/contact: "Horizontal is a registered 501(c)(3)
+  nonprofit". website from https://wearehorizontal.org/index; linkedin_org and
+  careers_url linked from https://wearehorizontal.org/index.
+founding_year: null
+takes_contributors: null
+careers_url: "https://wearehorizontal.org/jobs.html"
+last_verified: "2026-11-10"

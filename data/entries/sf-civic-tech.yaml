@@ -1,0 +1,32 @@
+name: "SF Civic Tech"
+domain: "civic-tech"
+what: >-
+  SF Civic Tech is a volunteer group of developers, designers, researchers and
+  civic activists who build technology for San Francisco. It runs weekly civic
+  hack nights and supports open-source projects that improve public services.
+region: "california"
+website: "https://www.sfcivictech.org/"
+github: "https://github.com/sfbrigade"
+linkedin_org: "https://www.linkedin.com/company/sfcivictech/"
+community_url: "https://c4sf.me/slack"
+events_url: "https://www.meetup.com/sfcivictech/"
+linkedin_people: []
+tags:
+  - "civic tech"
+  - "volunteer"
+  - "open source"
+  - "san francisco"
+related_to: []
+source: >-
+  website: https://www.sfcivictech.org/ (accessed 2026-11-10). what: "We are a
+  welcoming and inclusive volunteer group of developers, designers, data geeks,
+  and citizen activists who use creative technology to solve civic and social
+  problems." founding_year: "SF Civic Tech was originally founded in 2013 as
+  Code for San Francisco". github and linkedin_org: linked from
+  https://www.sfcivictech.org/. community_url and events_url: linked from
+  https://www.meetup.com/sfcivictech/. takes_contributors: "Volunteer with us"
+  and weekly hack nights listed on https://www.sfcivictech.org/.
+founding_year: 2013
+takes_contributors: true
+careers_url: ""
+last_verified: "2026-11-10"

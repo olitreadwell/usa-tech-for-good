@@ -1,0 +1,32 @@
+name: "TechTonic Justice"
+domain: "tech-ethics / responsible-AI"
+what: >-
+  TechTonic Justice is a nonprofit that works with low-income communities,
+  lawyers and organizers to resist harmful uses of artificial intelligence. It
+  provides training, legal support and research on automated decisions in areas
+  such as benefits, housing and education.
+region: "national"
+website: "https://www.techtonicjustice.org/"
+github: ""
+linkedin_org: "https://www.linkedin.com/company/techtonicjustice/"
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+  - "responsible ai"
+  - "economic justice"
+  - "civil rights"
+related_to: []
+source: >-
+  what from https://www.techtonicjustice.org/ (accessed 2026-11-10): "TechTonic
+  Justice is a team of lawyers, organizers, technologists, and advocates who
+  build collective power to fight the ground-level harms that low-income
+  communities feel when powerful people use AI to decide how we live, learn,
+  work, and survive." website and linkedin_org from
+  https://www.techtonicjustice.org/ (accessed 2026-11-10); linkedin_org is linked
+  from that page. region from https://www.techtonicjustice.org/: the report
+  covers "all 92 million low-income people in the U.S. states".
+founding_year: null
+takes_contributors: null
+careers_url: ""
+last_verified: "2026-11-10"

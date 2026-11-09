@@ -1,0 +1,23 @@
+name: "Knight Lab"
+domain: "journalism / media-tech"
+what: >-
+  Knight Lab is a community of designers, developers, students, and educators at Northwestern University that builds open-source tools for journalism and storytelling. Its tools include TimelineJS, StoryMapJS, and JuxtaposeJS, and it runs an interdisciplinary studio class.
+region: "midwest"
+website: "https://knightlab.northwestern.edu/"
+github: "https://github.com/NUKnightLab/"
+linkedin_org: ""
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+  - "journalism"
+  - "open source"
+  - "storytelling"
+  - "university"
+related_to: []
+source: >-
+  name, domain, what and region from https://knightlab.northwestern.edu/ and https://knightlab.northwestern.edu/about/ (accessed 2026-11-10): "Knight Lab is a community of designers, developers, students, and educators working on experiments designed to push journalism into new spaces." and "We build easy-to-use tools that can help you tell better stories." region mapped from the Evanston, IL location in the candidate record. website from https://knightlab.northwestern.edu/; github linked from the cached home page at https://github.com/NUKnightLab/.
+founding_year: null
+takes_contributors: null
+careers_url: ""
+last_verified: "2026-11-10"

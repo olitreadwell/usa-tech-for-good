@@ -1,0 +1,32 @@
+name: "Alliance of Civic Technologists"
+domain: "civic-tech"
+what: >-
+  Alliance of Civic Technologists is a decentralized network of volunteer civic
+  technology organizations across the United States. It connects local groups so
+  they can share learning, support each other and improve how governments use
+  technology and deliver public services.
+region: "national"
+website: "https://www.civictechnologists.org"
+github: ""
+linkedin_org: "https://www.linkedin.com/company/alliance-of-civic-technologists"
+community_url: "https://discord.gg/EM6ywtMhkP"
+events_url: ""
+linkedin_people: []
+tags:
+  - "civic tech"
+  - "volunteer"
+  - "network"
+  - "local government"
+related_to: []
+source: >-
+  website: https://www.civictechnologists.org/ and
+  https://www.civictechnologists.org/join (accessed 2026-11-10). what: "ACT is a
+  decentralized network of civic tech volunteer organizations" and "support,
+  grow, and enable a network of local volunteer civic technology organizations".
+  linkedin_org and community_url: linked from https://www.civictechnologists.org/.
+  takes_contributors: https://www.civictechnologists.org/join lists joining a
+  local organization, starting a chapter and joining Discord.
+founding_year: null
+takes_contributors: true
+careers_url: ""
+last_verified: "2026-11-10"

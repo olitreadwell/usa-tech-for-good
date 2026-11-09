@@ -1,0 +1,23 @@
+name: "Humane Intelligence"
+domain: "tech-ethics / responsible-AI"
+what: >-
+  Humane Intelligence is a 501(c)(3) nonprofit that designs and runs evaluations and red-teaming exercises to make AI systems more accountable, responsible, and fair. It also runs bias bounties, working groups, and volunteer programs.
+region: "national"
+website: "https://humane-intelligence.org/"
+github: ""
+linkedin_org: "https://www.linkedin.com/company/humaneintelligence/"
+community_url: ""
+events_url: "https://humane-intelligence.org/get-involved/events/"
+linkedin_people: []
+tags:
+  - "responsible AI"
+  - "AI evaluation"
+  - "red teaming"
+  - "nonprofit"
+related_to: []
+source: >-
+  name, domain, what and region from https://humane-intelligence.org/ (accessed 2026-11-10): "Humane Intelligence is a 501(c)(3) nonprofit dedicated to breaking down barriers to AI deployment for social good." and "We collaboratively design and run rigorous evaluations that make AI systems more accountable, responsible, and fair." region mapped from the USA location in the candidate record. website from https://humane-intelligence.org/; linkedin_org linked from the cached home page at https://www.linkedin.com/company/humaneintelligence/; events_url and careers_url linked from the cached home page at https://humane-intelligence.org/get-involved/events/ and https://humane-intelligence.org/get-involved/work-with-us/; takes_contributors from https://humane-intelligence.org/about/ (accessed 2026-11-10): "has more than 300 people in its volunteer programs."
+founding_year: null
+takes_contributors: true
+careers_url: "https://humane-intelligence.org/get-involved/work-with-us/"
+last_verified: "2026-11-10"

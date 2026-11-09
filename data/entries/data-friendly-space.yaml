@@ -1,0 +1,30 @@
+name: "Data Friendly Space"
+domain: "crisis / humanitarian-tech"
+what: >-
+  Data Friendly Space provides digital tools and data analysis for social impact
+  and humanitarian organisations. It builds generative-AI tools for crisis
+  response, including its GANNET suite.
+region: "southeast"
+website: "https://www.datafriendlyspace.org/"
+github: ""
+linkedin_org: "https://www.linkedin.com/company/data-friendly-space/"
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+  - "humanitarian"
+  - "crisis response"
+  - "data analysis"
+  - "generative ai"
+related_to: []
+source: >-
+  what from https://www.datafriendlyspace.org/ (accessed 2026-11-10): "DFS
+  provides digital tools and actionable data for social impact organisations to
+  just get things done." The same page says: "Data Friendly Space builds
+  generative-AI tools for crisis response." website from
+  https://www.datafriendlyspace.org/; linkedin_org and careers_url linked from
+  https://www.datafriendlyspace.org/.
+founding_year: null
+takes_contributors: null
+careers_url: "https://www.datafriendlyspace.org/careers"
+last_verified: "2026-11-10"

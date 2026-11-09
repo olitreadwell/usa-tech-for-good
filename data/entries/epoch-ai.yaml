@@ -1,0 +1,28 @@
+name: "Epoch AI"
+domain: "tech-ethics / responsible-AI"
+what: >-
+  Epoch AI is a non-profit research institute studying the trajectory of
+  artificial intelligence. It publishes independent data, benchmarks and
+  analysis on AI capabilities, compute and impacts.
+region: "california"
+website: "https://epoch.ai/"
+github: "https://github.com/epoch-research"
+linkedin_org: "https://www.linkedin.com/company/epochai"
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+  - "artificial intelligence"
+  - "research"
+  - "benchmarks"
+  - "open data"
+related_to: []
+source: >-
+  what from https://epoch.ai/about (accessed 2026-11-10): "Epoch AI is a
+  data-first research nonprofit investigating the future of artificial
+  intelligence." website from https://epoch.ai/; github, linkedin_org and
+  careers_url linked from https://epoch.ai/.
+founding_year: null
+takes_contributors: null
+careers_url: "https://epoch.ai/about/careers"
+last_verified: "2026-11-10"

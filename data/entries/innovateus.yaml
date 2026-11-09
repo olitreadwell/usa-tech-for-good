@@ -1,0 +1,23 @@
+name: "InnovateUS"
+domain: "govtech"
+what: >-
+  InnovateUS is a partner project of several academic and public-interest technology programs that offers free online courses, workshops, and coaching on AI and innovation skills for public-sector professionals. Its courses cover responsible AI, public engagement, and practical uses of generative AI in government.
+region: "new-england"
+website: "https://innovate-us.org/"
+github: ""
+linkedin_org: ""
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+  - "public sector"
+  - "AI training"
+  - "online courses"
+  - "govtech"
+related_to: []
+source: >-
+  name, domain, what and region from https://innovate-us.org/ (accessed 2026-11-10): "Free online courses, workshops and coaching programs on AI and innovation skills for public professionals." region mapped from the Boston, MA location in the candidate record. website from https://innovate-us.org/. The cached home page names AI for Impact, the Burnes Center for Social Change, Reboot Democracy, the GovLab, and the Observatory of Public Sector AI as partner projects.
+founding_year: null
+takes_contributors: null
+careers_url: ""
+last_verified: "2026-11-10"

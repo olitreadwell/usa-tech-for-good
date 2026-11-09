@@ -1,0 +1,36 @@
+name: "Twin Cities Innovation Alliance"
+domain: "tech-ethics / responsible-AI"
+what: >-
+  Twin Cities Innovation Alliance is a Minneapolis social venture that supports
+  entrepreneurs and community leaders from Black, Indigenous and other
+  marginalized communities. It runs initiatives on ethical AI, data transparency
+  and algorithmic justice, including the NOTICE Coalition against youth
+  surveillance in schools.
+region: "midwest"
+website: "https://www.tciamn.org/"
+github: ""
+linkedin_org: "https://www.linkedin.com/company/twin-cities-innovation-alliance"
+community_url: ""
+events_url: "https://www.tciamn.org/events"
+linkedin_people: []
+tags:
+  - "algorithmic justice"
+  - "ethical ai"
+  - "community organizing"
+related_to: []
+source: >-
+  what from https://www.tciamn.org/noticecoalition/about (accessed 2026-11-10):
+  "The Twin Cities Innovation Alliance (TCIA) is a social venture, intended to
+  spark , resource, and guide entrepreneurs as they grow and scale their
+  businesses across the Twin Cities." and "The NOTICE Coalition: No Tech
+  Criminalization in Education is a national network of advocates, researchers
+  and organizers building a movement to end youth surveillance in schools".
+  technology focus from https://www.tciamn.org/: "This includes addressing the
+  rise of artificial intelligence, the challenges to democracy, and recentering
+  humanity in the race to the future." website, linkedin_org and events_url from
+  https://www.tciamn.org/. region from the about page address, "Minneapolis, MN
+  55411".
+founding_year: null
+takes_contributors: null
+careers_url: ""
+last_verified: "2026-11-10"

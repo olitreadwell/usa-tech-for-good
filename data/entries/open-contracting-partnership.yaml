@@ -1,0 +1,29 @@
+name: "Open Contracting Partnership"
+domain: "open-data"
+what: >-
+  Open Contracting Partnership is a nonprofit that works with governments, civil
+  society and business to publish and use data about public procurement. Its Open
+  Contracting Data Standard helps make contracts more open and easier to monitor.
+region: "mid-atlantic"
+website: "https://www.open-contracting.org/"
+github: "https://github.com/open-contracting-partnership/"
+linkedin_org: "https://www.linkedin.com/company/open-contracting-partnership"
+community_url: ""
+events_url: "https://www.open-contracting.org/events/"
+linkedin_people: []
+tags:
+- public procurement
+- open data
+- anti-corruption
+- standards
+related_to: []
+source: >-
+  name, domain, what, region, website, tags, last_verified: homepage
+  https://www.open-contracting.org/ (accessed 2026-11-10); quote: "We connect
+  governments, civil society and business to open up and monitor public
+  procurement." github, linkedin_org, events_url: linked from
+  https://www.open-contracting.org/ (accessed 2026-11-10).
+founding_year: null
+takes_contributors: null
+careers_url: ""
+last_verified: "2026-11-10"

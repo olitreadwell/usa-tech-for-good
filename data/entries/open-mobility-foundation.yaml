@@ -1,0 +1,35 @@
+name: "Open Mobility Foundation"
+domain: "govtech"
+what: >-
+  The Open Mobility Foundation is a nonprofit that stewards open-source data
+  standards such as the Mobility Data Specification and Curb Data Specification.
+  Cities and technology partners use the standards to manage shared mobility and
+  digitize public space.
+region: "california"
+website: "https://www.openmobilityfoundation.org/"
+github: "https://github.com/openmobilityfoundation"
+linkedin_org: "https://www.linkedin.com/company/openmobility/"
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+- mobility
+- open standards
+- cities
+- open source
+related_to: []
+source: >-
+  name, domain, what, region, website, tags, last_verified:
+  https://www.openmobilityfoundation.org/ (accessed 2026-11-10); quote: "The
+  Open Mobility Foundation supports the development of open source standards and
+  tools that provide scalable mobility solutions for cities around the world."
+  github, linkedin_org, careers_url: linked from
+  https://www.openmobilityfoundation.org/ (accessed 2026-11-10).
+  takes_contributors: participate page meta at
+  https://www.openmobilityfoundation.org/participate/ (accessed 2026-11-10),
+  quote: "As an open-source software foundation, the Open Mobility Foundation
+  welcomes a variety of methods of participation and contribution."
+founding_year: null
+takes_contributors: true
+careers_url: "https://www.openmobilityfoundation.org/careers/"
+last_verified: "2026-11-10"

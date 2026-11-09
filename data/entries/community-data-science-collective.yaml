@@ -1,0 +1,35 @@
+name: "Community Data Science Collective"
+domain: "research / education tech"
+what: >-
+  The Community Data Science Collective is an interdisciplinary research group
+  of faculty and students at several US universities who study online
+  communities and collaborative production. Its members use quantitative and
+  qualitative methods to examine how communication and information technologies
+  shape participation and public goods.
+region: "pacific-northwest"
+website: "https://wiki.communitydata.science/Main_Page"
+github: ""
+linkedin_org: ""
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+  - "research"
+  - "online communities"
+  - "data science"
+  - "open scholarship"
+related_to: []
+source: >-
+  website: https://wiki.communitydata.science/Main_Page and
+  https://wiki.communitydata.science/About (accessed 2026-11-10). what: "The
+  Community Data Science Collective (CDSC) is an interdisciplinary research
+  group made up of faculty and students" and "We are social scientists and
+  computer scientists applying a range of quantitative and qualitative methods
+  to the study of online communities". region from the candidate HQ Seattle in
+  the batch file. takes_contributors: the About page says "we welcome anyone to
+  join and participate in our group" and the Join CDSC page says "We are always
+  looking for people who want to join the Community Data Science Collective".
+founding_year: null
+takes_contributors: true
+careers_url: ""
+last_verified: "2026-11-10"

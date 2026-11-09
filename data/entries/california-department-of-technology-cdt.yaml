@@ -1,0 +1,31 @@
+name: California Department of Technology (CDT)
+domain: govtech
+what: >-
+  The California Department of Technology is the state's central information
+  technology agency. It oversees statewide IT policy, project delivery and
+  security, and provides shared infrastructure and digital services to state
+  government.
+region: california
+website: https://www.cdt.ca.gov/
+github: ''
+linkedin_org: "https://www.linkedin.com/company/california-department-of-technology"
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- state government
+- it infrastructure
+- digital services
+- cybersecurity
+related_to: []
+source: >-
+  what from https://www.cdt.ca.gov/about/ (accessed 2026-11-10): "The California
+  Department of Technology leads the state’s drive to deliver clear, fast,
+  dependable, and equitable public services." website from
+  https://www.cdt.ca.gov/; linkedin_org and careers_url linked from the home
+  page at https://www.linkedin.com/company/california-department-of-technology
+  and https://www.cdt.ca.gov/career-opportunities/.
+founding_year: null
+takes_contributors: null
+careers_url: "https://www.cdt.ca.gov/career-opportunities/"
+last_verified: "2026-11-10"
