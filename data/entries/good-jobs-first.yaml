@@ -1,0 +1,31 @@
+name: "Good Jobs First"
+domain: "open-data"
+what: >-
+  Good Jobs First is a national policy resource center that promotes corporate
+  and government accountability in economic development. It maintains public
+  databases on subsidies, tax breaks and corporate misconduct.
+region: "national"
+website: "https://goodjobsfirst.org/"
+github: ""
+linkedin_org: ""
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+  - "subsidies"
+  - "transparency"
+  - "corporate accountability"
+  - "databases"
+related_to: []
+source: >-
+  what from https://goodjobsfirst.org/about/ (accessed 2026-11-10): "Good Jobs
+  First is a national policy resource center that promotes corporate and
+  government accountability in economic development." founding_year from the
+  same page: "Since 1998, it has fought for reforms to increase transparency
+  around the use of public money used in the name of economic development".
+  website from https://goodjobsfirst.org/; careers_url linked from
+  https://goodjobsfirst.org/.
+founding_year: 1998
+takes_contributors: null
+careers_url: "https://goodjobsfirst.org/jobs-and-internships/"
+last_verified: "2026-11-10"

@@ -1,0 +1,29 @@
+name: "Public Interest Registry"
+domain: "nonprofit / NGO tech"
+what: >-
+  Public Interest Registry is a non-profit that operates the .ORG domain and
+  related domain names for mission-led organizations. It provides those
+  groups with a trusted online identity and works on internet policy and
+  anti-abuse efforts.
+region: "mid-atlantic"
+website: "https://pir.org/"
+github: ""
+linkedin_org: "https://www.linkedin.com/company/public-interest-registry/"
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+  - "internet governance"
+  - "domains"
+  - "nonprofit infrastructure"
+related_to: []
+source: >-
+  website: https://pir.org/ (cached redirect from https://thenew.org/org-people/, accessed 2026-11-10). what: "Public Interest
+  Registry is a nonprofit organization created by the Internet Society to manage
+  the .ORG domain". founding_year: "The Internet Society creates the Public
+  Interest Registry as a 501(c)3 non-profit to manage .ORG." linkedin_org and
+  careers_url: linked from https://pir.org/who-we-are/.
+founding_year: 2002
+takes_contributors: null
+careers_url: "https://pir.org/who-we-are/careers/"
+last_verified: "2026-11-10"

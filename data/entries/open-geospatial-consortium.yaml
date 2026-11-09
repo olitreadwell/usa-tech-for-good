@@ -1,0 +1,36 @@
+name: "Open Geospatial Consortium"
+domain: "open-data"
+what: >-
+  The Open Geospatial Consortium develops open geospatial standards, including
+  OGC APIs, that let governments, companies and researchers share location data
+  across systems. It brings member organizations together to keep that data
+  interoperable.
+region: "mid-atlantic"
+website: "https://www.ogc.org/"
+github: "https://github.com/opengeospatial"
+linkedin_org: ""
+community_url: "http://discord.gg/VsfzaU5qgs"
+events_url: "https://www.ogc.org/connect/events/"
+linkedin_people: []
+tags:
+- geospatial
+- open standards
+- interoperability
+- open data
+related_to: []
+source: >-
+  name, domain, what, region, website, tags, last_verified: https://www.ogc.org/
+  (accessed 2026-11-10); quote: "OGC develops 80+ open geospatial standards —
+  WMS, WFS, GeoPackage, and OGC APIs — enabling interoperable location data for
+  500+ member organizations worldwide." founding_year: about page meta at
+  https://www.ogc.org/about/overview/ (accessed 2026-11-10), quote:
+  "Founded in 1994, OGC unites 400+ member organizations across government,
+  industry, and academia to develop open geospatial standards." github,
+  community_url, events_url: linked from https://www.ogc.org/ (accessed
+  2026-11-10). takes_contributors: https://www.ogc.org/standards/contribute/
+  (accessed 2026-11-10), quote: "Join the OGC community and contribute to
+  standards."
+founding_year: 1994
+takes_contributors: true
+careers_url: ""
+last_verified: "2026-11-10"

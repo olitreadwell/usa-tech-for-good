@@ -1,0 +1,23 @@
+name: "Humanitarian OpenStreetMap Team (HOT)"
+domain: "crisis / humanitarian-tech"
+what: >-
+  The Humanitarian OpenStreetMap Team is a global community that uses open map data and mapping tools to support disaster response, public health, displacement, and other humanitarian work. It works with local communities, governments, and organizations in 94 countries.
+region: "mid-atlantic"
+website: "https://www.hotosm.org/en/"
+github: "https://www.github.com/hotosm"
+linkedin_org: "https://www.linkedin.com/company/humanitarian-openstreetmap-team"
+community_url: ""
+events_url: "https://www.hotosm.org/en/events/"
+linkedin_people: []
+tags:
+  - "open mapping"
+  - "humanitarian"
+  - "open data"
+  - "disaster response"
+related_to: []
+source: >-
+  name, domain, what and region from https://www.hotosm.org/en/ (accessed 2026-11-10): "HOT is a global community of mappers transforming lives using the power of open map data." and "Working in 94 countries, we collaborate with local communities, governments, and organizations to create and maintain detailed, accessible maps". region mapped from the Washington, D.C. HQ in the candidate record. website from https://www.hotosm.org/en/; github and linkedin_org linked from the cached home page at https://www.github.com/hotosm and https://www.linkedin.com/company/humanitarian-openstreetmap-team; events_url and careers_url linked from the cached home page at https://www.hotosm.org/en/events/ and https://www.hotosm.org/en/volunteer-opportunities/; takes_contributors from the cached volunteer page at https://www.hotosm.org/en/volunteer-opportunities/.
+founding_year: null
+takes_contributors: true
+careers_url: "https://www.hotosm.org/en/volunteer-opportunities/"
+last_verified: "2026-11-10"

@@ -1,11 +1,12 @@
 name: Electronic Frontier Foundation
 domain: human-rights tech
-what: The Electronic Frontier Foundation defends civil liberties in the digital world. It litigates, campaigns, and
-  publishes tools and guides on privacy, free speech, creativity, and surveillance.
+what: >-
+  Electronic Frontier Foundation (EFF) is a nonprofit defending civil liberties in the digital world
+  through litigation, policy analysis, grassroots activism and technology development.
 region: national
 website: https://www.eff.org
-github: ''
-linkedin_org: ''
+github: "https://github.com/EFForg"
+linkedin_org: "https://www.linkedin.com/company/EFF"
 community_url: ''
 events_url: ''
 linkedin_people: []
@@ -15,8 +16,10 @@ tags:
 - free speech
 - surveillance
 related_to: []
-source: eff.org/about (verified 2026-09-23)
-founding_year: null
+source: >-
+  Homepage and recent update at https://www.eff.org/deeplinks/2026/11/google-forcing-ai-students-bs
+  (verified 2026-11-10).
+founding_year: 1990
 takes_contributors: null
-careers_url: ''
-last_verified: '2026-09-23'
+careers_url: "https://www.eff.org/jobs"
+last_verified: "2026-11-10"

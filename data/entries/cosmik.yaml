@@ -1,0 +1,28 @@
+name: Cosmik
+domain: research / education tech
+what: >-
+  Cosmik builds open tools and networks for collective sensemaking, including a social knowledge
+  network for researchers. It uses AI and decentralized publishing protocols such as ATProto to make
+  research contributions discoverable and reusable.
+region: new-england
+website: https://cosmik.network
+github: "https://github.com/cosmik-network"
+linkedin_org: ''
+community_url: "https://discord.gg/vq7KzPkhCs"
+events_url: ''
+linkedin_people: []
+tags:
+- open science
+- research
+- collective intelligence
+- atproto
+related_to: []
+source: >-
+  https://cosmik.network/ (accessed 2026-11-10). what: "Cosmik is helping create the research
+  networks to support this future: open, collaborative, and built for rapid feedback and iteration."
+  github and community_url linked from this page ("Github", "Cosmik Discord"); takes_contributors
+  from the get-involved form linked on this page.
+founding_year: null
+takes_contributors: true
+careers_url: ''
+last_verified: "2026-11-10"

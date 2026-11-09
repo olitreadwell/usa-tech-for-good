@@ -1,0 +1,30 @@
+name: Center for AI and Digital Policy (CAIDP)
+domain: tech-ethics / responsible-AI
+what: >-
+  The Center for AI and Digital Policy is a global nonprofit based in
+  Washington, DC that works on AI governance grounded in democratic values,
+  human rights and the rule of law. It publishes an annual AI policy index and
+  runs a policy clinic, fellows program and public events.
+region: mid-atlantic
+website: https://www.caidp.org/
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: "https://www.caidp.org/events/"
+linkedin_people: []
+tags:
+- ai governance
+- policy
+- digital rights
+- research
+related_to: []
+source: >-
+  what from https://www.caidp.org/about-2/ (accessed 2026-11-10): "Founded in
+  Washington, DC, CAIDP is a global nonprofit dedicated to AI governance
+  grounded in democratic values, human rights, and the rule of law." website
+  from https://www.caidp.org/; events_url linked from the home page at
+  https://www.caidp.org/events/.
+founding_year: null
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"

@@ -1,0 +1,30 @@
+name: "Open Cleveland"
+domain: "civic-tech"
+what: >-
+  Open Cleveland is an all-volunteer civic technology group that works with
+  local government and community organizations in Northeast Ohio. It runs hack
+  nights and builds open data and web projects for the city.
+region: "midwest"
+website: "https://opencleveland.org/"
+github: "https://github.com/opencleveland"
+linkedin_org: ""
+community_url: ""
+events_url: "https://opencleveland.org/events/"
+linkedin_people: []
+tags:
+  - "civic tech"
+  - "open data"
+  - "volunteering"
+  - "cleveland"
+related_to: []
+source: >-
+  what from https://opencleveland.org/ (accessed 2026-11-10): "We are an
+  all-volunteer group that contribute our talents by working with our community
+  to improve local government and through relationships and civic technology
+  projects." website from the same page; github and events_url linked from
+  https://opencleveland.org/; takes_contributors from the same page ("Come join
+  developers, designers, data geeks, leaders, and idea-makers who volunteer").
+founding_year: null
+takes_contributors: true
+careers_url: ""
+last_verified: "2026-11-10"

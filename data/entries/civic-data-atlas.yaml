@@ -1,0 +1,28 @@
+name: Civic Data Atlas
+domain: open-data
+what: >-
+  Civic Data Atlas publishes Census demographic profiles for city council districts and neighborhoods in
+  Chicago, New York City and Los Angeles. It is intended to help local officials, advocacy groups,
+  journalists and residents understand who lives in each area.
+region: midwest
+website: https://civicdataatlas.org/
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- open data
+- census
+- local government
+- neighborhoods
+related_to: []
+source: >-
+  what from https://civicdataatlas.org/about (accessed 2026-11-10): "Civic Data Atlas brings comprehensive
+  demographic data to the two geographies that structure city life" and "It can help elected officials
+  better understand their constituents and advocate for their interests." Cities are listed on
+  https://civicdataatlas.org/. website from https://civicdataatlas.org/.
+founding_year: null
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"

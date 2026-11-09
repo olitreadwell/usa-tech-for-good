@@ -1,0 +1,31 @@
+name: "Nonprofit Technology Network"
+domain: "nonprofit / NGO tech"
+what: >-
+  NTEN is a nonprofit membership network that helps nonprofit staff use
+  technology effectively and equitably. It offers training, professional
+  certificates, community groups and an equity guide for nonprofit technology.
+region: "pacific-northwest"
+website: "https://www.nten.org/"
+github: ""
+linkedin_org: "https://www.linkedin.com/company/nten/"
+community_url: ""
+events_url: "https://www.nten.org/connect/community-events"
+linkedin_people: []
+tags:
+  - "nonprofit technology"
+  - "training"
+  - "community"
+  - "nonprofit"
+related_to: []
+source: >-
+  what from https://www.nten.org/contact (accessed 2026-11-10): "NTEN is
+  creating a world where missions and movements are successful through the
+  skillful and equitable use of technology." website from https://www.nten.org/;
+  linkedin_org linked from the same page; events_url and careers_url linked from
+  https://www.nten.org/connect/community-groups; takes_contributors from the
+  same page ("Nearly all of them are looking for both new members and
+  organizers").
+founding_year: null
+takes_contributors: true
+careers_url: "https://www.nten.org/connect/volunteer-organizers"
+last_verified: "2026-11-10"

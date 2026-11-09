@@ -1,0 +1,31 @@
+name: "National Democratic Institute"
+domain: "civic-tech"
+what: >-
+  The National Democratic Institute is a nonprofit, nonpartisan organization
+  that works with local partners in more than 150 countries to strengthen
+  democratic institutions and citizen participation. It runs a Democracy
+  Innovation Lab and a democracy and technology program.
+region: "mid-atlantic"
+website: "https://www.ndi.org/"
+github: ""
+linkedin_org: "http://www.linkedin.com/company/national-democratic-institute-ndi"
+community_url: ""
+events_url: "https://www.ndi.org/events"
+linkedin_people: []
+tags:
+  - "democracy"
+  - "elections"
+  - "technology"
+  - "nonprofit"
+related_to: []
+source: >-
+  what from https://www.ndi.org/about (accessed 2026-11-10): "For over four
+  decades, NDI has worked with local partners in over 150 countries to help
+  people unleash their power to make democracy work for them." Technology work
+  from the same page: "Democracy Innovation Lab". website from
+  https://www.ndi.org/; linkedin_org, events_url and careers_url linked from
+  https://www.ndi.org/.
+founding_year: null
+takes_contributors: null
+careers_url: "https://www.ndi.org/careers"
+last_verified: "2026-11-10"

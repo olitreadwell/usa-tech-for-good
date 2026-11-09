@@ -1,0 +1,30 @@
+name: "Project Geospatial"
+domain: "journalism / media-tech"
+what: >-
+  Project Geospatial is a non-profit media organization that publishes articles,
+  podcasts and event coverage about geospatial technology. It works to make
+  geospatial knowledge and career information more accessible to students,
+  professionals and the public.
+region: "southeast"
+website: "https://projectgeospatial.org/"
+github: ""
+linkedin_org: ""
+community_url: ""
+events_url: "https://projectgeospatial.org/geospatial-frontiers/north-america-geospatial-events"
+linkedin_people: []
+tags:
+  - "geospatial"
+  - "media"
+  - "education"
+  - "open data"
+related_to: []
+source: >-
+  website: https://projectgeospatial.org/ (accessed 2026-11-10). what: "A
+  non-profit, volunteer-driven organization dedicated to advancing geospatial
+  education for a better world." founding_year: "Formed in 2012 by Adam
+  Simmons, Project Geospatial evolved from a podcast into a 501(c)(3) non-profit
+  in 2020." events_url: linked from https://projectgeospatial.org/.
+founding_year: 2012
+takes_contributors: null
+careers_url: ""
+last_verified: "2026-11-10"

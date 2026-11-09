@@ -1,0 +1,29 @@
+name: "Airbnb.org"
+domain: "housing / homelessness tech"
+what: >-
+  Airbnb.org is a non-profit that provides free emergency housing to people
+  affected by disasters, illness or other crises. It works with partner
+  organizations and uses Airbnb's platform and host network to arrange
+  short-term stays.
+region: "california"
+website: "https://www.airbnb.org"
+github: ""
+linkedin_org: ""
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+  - "emergency housing"
+  - "disaster relief"
+  - "housing"
+  - "nonprofit"
+related_to: []
+source: >-
+  website: https://www.airbnb.org/ (accessed 2026-11-10). what: "Free emergency
+  housing for neighbours in need" and "Airbnb.org is a non-profit founded by
+  Airbnb" and "powered by Airbnb’s technology". takes_contributors: the homepage
+  offers host support through its "Support as a host" link.
+founding_year: null
+takes_contributors: true
+careers_url: ""
+last_verified: "2026-11-10"

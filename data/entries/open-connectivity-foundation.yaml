@@ -1,0 +1,32 @@
+name: "Open Connectivity Foundation"
+domain: "open-data"
+what: >-
+  The Open Connectivity Foundation is a nonprofit standards organization that
+  develops open specifications for secure interoperability between Internet of
+  Things devices. It also maintains an open-source reference implementation and
+  runs a certification program.
+region: "pacific-northwest"
+website: "https://openconnectivity.org/"
+github: "https://github.com/iotivity"
+linkedin_org: "https://www.linkedin.com/company/open-connectivity-foundation"
+community_url: ""
+events_url: "https://openconnectivity.org/events/"
+linkedin_people: []
+tags:
+  - "internet of things"
+  - "open standards"
+  - "interoperability"
+  - "security"
+related_to: []
+source: >-
+  what from https://openconnectivity.org/ (accessed 2026-11-10): "The Open
+  Connectivity Foundation (OCF) is a global, member-driven technical standards
+  development organization." website from the same page; linkedin_org and
+  events_url linked from https://openconnectivity.org/; github linked from
+  https://openconnectivity.org/technology/iotivity/; takes_contributors from
+  https://openconnectivity.org/foundation/join/ ("Individual Member Benefits -
+  Contribute as an Individual").
+founding_year: null
+takes_contributors: true
+careers_url: ""
+last_verified: "2026-11-10"

@@ -1,11 +1,13 @@
 name: CodeAI
 domain: education equity tech
-what: CodeAI is an education nonprofit working so that every student in every school can learn about artificial
-  intelligence and computer science as part of their core K-12 education. It was previously known as Code.org.
+what: >-
+  CodeAI is an education nonprofit, formerly Code.org, working so every K-12 student can learn AI and
+  computer science. It provides free curriculum, teacher training and policy work, and says it has
+  reached 155 million students and 3 million teachers in 190 countries.
 region: national
 website: https://code.org
-github: ''
-linkedin_org: ''
+github: "https://github.com/code-dot-org"
+linkedin_org: "https://www.linkedin.com/company/code-org/"
 community_url: ''
 events_url: ''
 linkedin_people: []
@@ -15,8 +17,11 @@ tags:
 - K-12
 - AI
 related_to: []
-source: code.org/about (verified 2026-09-23)
-founding_year: null
+source: >-
+  Homepage and recent update at
+  https://www.transformmagazine.net/articles/2026/codeorg-rebrand-encourages-critical-thinking-about-ai-technology/
+  (verified 2026-11-10).
+founding_year: 2013
 takes_contributors: null
-careers_url: ''
-last_verified: '2026-09-23'
+careers_url: "https://code.org/about/careers"
+last_verified: "2026-11-10"

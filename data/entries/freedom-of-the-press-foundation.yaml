@@ -1,7 +1,9 @@
 name: Freedom of the Press Foundation
 domain: human-rights tech
-what: Freedom of the Press Foundation builds and supports secure tools for journalists, and campaigns against threats
-  to press freedom.
+what: >-
+  Freedom of the Press Foundation is a nonprofit that builds and supports secure journalism tools
+  including SecureDrop and Dangerzone, runs the U.S. Press Freedom Tracker, and campaigns on press
+  freedom.
 region: national
 website: https://freedom.press
 github: ''
@@ -15,8 +17,11 @@ tags:
 - security tools
 - encryption
 related_to: []
-source: freedom.press homepage (verified 2026-09-23)
-founding_year: null
+source: >-
+  Homepage and recent update at
+  https://freedom.press/tech/news/security-audit-of-new-securedrop-inbox-completed/ (verified
+  2026-11-10).
+founding_year: 2012
 takes_contributors: null
-careers_url: ''
-last_verified: '2026-09-23'
+careers_url: "https://freedom.press/careers/"
+last_verified: "2026-11-10"

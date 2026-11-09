@@ -1,0 +1,30 @@
+name: "The Movement Cooperative"
+domain: "civic-tech"
+what: >-
+  The Movement Cooperative is a cooperative of independent organizations that
+  shares data and technology infrastructure for progressive organizing. It helps
+  members contact voters, mobilize supporters and coordinate their work.
+region: "mid-atlantic"
+website: "https://movementcooperative.org/"
+github: ""
+linkedin_org: ""
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+  - "cooperative"
+  - "progressive organizing"
+  - "shared infrastructure"
+related_to: []
+source: >-
+  what from https://movementcooperative.org/ (accessed 2026-11-10): "We are a
+  cooperative of independent organizations working together to advance the
+  progressive movement through common infrastructure." founding_year from the
+  same page (accessed 2026-11-10): "Since the beginning of 2018, we have been
+  working to build a world-class data and technology infrastructure". website from
+  https://movementcooperative.org/. region from the footer address on that page:
+  "1025 Connecticut Avenue Northwest Suite 1000, Washington, DC, 20036".
+founding_year: 2018
+takes_contributors: null
+careers_url: ""
+last_verified: "2026-11-10"

@@ -1,11 +1,13 @@
 name: American Foundation for the Blind
 domain: disability & accessibility tech
-what: The American Foundation for the Blind works to expand possibilities for the millions of Americans living with
-  vision loss, and has done so since 1921.
+what: >-
+  The American Foundation for the Blind is a US nonprofit expanding opportunities for people who are
+  blind or have low vision through advocacy, research, accessible technology and professional
+  services. It was founded in 1921.
 region: national
 website: https://www.afb.org
 github: ''
-linkedin_org: ''
+linkedin_org: "https://www.linkedin.com/company/american-foundation-for-the-blind/"
 community_url: ''
 events_url: ''
 linkedin_people: []
@@ -15,8 +17,10 @@ tags:
 - vision loss
 - nonprofit
 related_to: []
-source: afb.org homepage (verified 2026-09-23)
+source: >-
+  Homepage and recent update at https://www.afb.org/research-and-initiatives/ai-series/ai-quagmire
+  (verified 2026-11-10).
 founding_year: 1921
 takes_contributors: null
-careers_url: ''
-last_verified: '2026-09-23'
+careers_url: "https://www.afb.org/about-afb/leadership/careers-afb"
+last_verified: "2026-11-10"

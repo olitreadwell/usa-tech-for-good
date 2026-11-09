@@ -1,0 +1,32 @@
+name: Boston Area Research Initiative (BARI)
+domain: civic-tech
+what: >-
+  The Boston Area Research Initiative is a research center at Northeastern
+  University that uses civic data and community research partnerships to study
+  social, economic and environmental issues in Greater Boston. It runs the
+  Boston Data Portal and convenes researchers, public agencies and community
+  groups.
+region: new-england
+website: https://cssh.northeastern.edu/bari/
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: "https://cssh.northeastern.edu/events/"
+linkedin_people: []
+tags:
+- civic research
+- data
+- boston
+- university
+related_to: []
+source: >-
+  what from https://cssh.northeastern.edu/bari/about/ (accessed 2026-11-10):
+  "BARI pursues civically engaged research that leverages data to advance
+  social, economic, and environmental justice in collaboration with the
+  communities of greater Boston." website from
+  https://cssh.northeastern.edu/bari/; events_url linked from the home page at
+  https://cssh.northeastern.edu/events/.
+founding_year: null
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"

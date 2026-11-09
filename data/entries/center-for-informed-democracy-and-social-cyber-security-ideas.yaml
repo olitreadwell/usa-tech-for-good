@@ -1,0 +1,31 @@
+name: "Center for Informed Democracy and Social Cyber-Security (IDeaS)"
+domain: "tech-ethics / responsible-AI"
+what: >-
+  The Center for Informed Democracy and Social Cyber-Security is a Carnegie
+  Mellon University research center that studies disinformation, hate speech and
+  extremism online. It runs research, education and community programs intended
+  to help people understand and resist online manipulation.
+region: "mid-atlantic"
+website: "https://www.cmu.edu/ideas-social-cybersecurity/"
+github: ""
+linkedin_org: "https://www.linkedin.com/company/center-for-ideas/"
+community_url: ""
+events_url: "https://www.cmu.edu/ideas-social-cybersecurity/events/index.html"
+linkedin_people: []
+tags:
+  - "disinformation"
+  - "social cybersecurity"
+  - "academic research"
+related_to: []
+source: >-
+  what from https://www.cmu.edu/ideas-social-cybersecurity/ (accessed
+  2026-11-10): "CMU's center for the study of disinformation, hate speech and
+  extremism online". founding_year from the same page (accessed 2026-11-10):
+  "Read the NEXT Pittsburgh article on the launch of the IDeaS Center in 2019".
+  website from https://www.cmu.edu/ideas-social-cybersecurity/; linkedin_org and
+  events_url linked from the same page; region from the page footer address,
+  "Pittsburgh, PA 15213".
+founding_year: 2019
+takes_contributors: null
+careers_url: ""
+last_verified: "2026-11-10"

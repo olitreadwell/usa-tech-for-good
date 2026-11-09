@@ -1,0 +1,34 @@
+name: "NYC Open Data Lab"
+domain: "open-data"
+what: >-
+  The NYC Open Data Lab is a public-facing research initiative that builds
+  open-source tools and reproducible analyses from public data. It publishes
+  student and collaborator work as civic data research and open educational
+  resources.
+region: "mid-atlantic"
+website: "https://martinezc1-nyc-open-data-lab.share.connect.posit.cloud/"
+github: "https://github.com/nyc-open-data-lab"
+linkedin_org: "https://www.linkedin.com/company/open-data-lab/"
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+  - "open data"
+  - "civic data"
+  - "research"
+  - "open source"
+related_to: []
+source: >-
+  what from
+  https://martinezc1-nyc-open-data-lab.share.connect.posit.cloud/about.html
+  (accessed 2026-11-10): "The Open Data Lab is a public-facing initiative
+  dedicated to transforming open data into reproducible research, civic
+  insights, and accessible public scholarship." website from
+  https://martinezc1-nyc-open-data-lab.share.connect.posit.cloud/; github and
+  linkedin_org linked from the same page;
+  takes_contributors from the same page ("providing pathways to contribute to
+  software, research, analytics, and other meaningful Lab projects").
+founding_year: null
+takes_contributors: true
+careers_url: ""
+last_verified: "2026-11-10"

@@ -1,11 +1,12 @@
 name: Data & Society Research Institute
 domain: tech-ethics / responsible-AI
-what: Data & Society is a research institute studying the social implications of data and automation. It argues that
-  technology policy should be grounded in research about technology's real-world effects.
+what: >-
+  Data & Society is an independent nonprofit research institute studying the social implications of
+  data, automation and AI, producing research to ground public debate and technology policy.
 region: national
 website: https://datasociety.net
 github: ''
-linkedin_org: ''
+linkedin_org: "https://www.linkedin.com/company/data-society-research-institute"
 community_url: ''
 events_url: ''
 linkedin_people: []
@@ -15,8 +16,11 @@ tags:
 - data
 - society
 related_to: []
-source: datasociety.net homepage (verified 2026-09-23)
+source: >-
+  Homepage and recent update at
+  https://datasociety.net/news-events/new-project-from-data-society-will-turn-a-worker-lens-on-the-ai-economy/
+  (verified 2026-11-10).
 founding_year: null
 takes_contributors: null
-careers_url: ''
-last_verified: '2026-09-23'
+careers_url: "https://datasociety.net/careers-at-data-society/"
+last_verified: "2026-11-10"

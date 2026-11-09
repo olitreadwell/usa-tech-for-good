@@ -1,0 +1,23 @@
+name: "Mobile Pathways"
+domain: "refugee / migrant support tech"
+what: >-
+  Mobile Pathways is a technology nonprofit that uses mobile phone technology, data, and AI to help immigrants navigate the legal immigration process. It builds tools for immigration nonprofits and attorneys so they can reach more people and improve outcomes.
+region: "california"
+website: "https://www.mobilepathways.org/"
+github: ""
+linkedin_org: "https://www.linkedin.com/company/mobilepathways/about/"
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+  - "immigration"
+  - "legal access"
+  - "mobile"
+  - "AI"
+related_to: []
+source: >-
+  name, domain, what and region from https://www.mobilepathways.org/ and https://www.mobilepathways.org/about (accessed 2026-11-10): "Mobile Pathways uses mobile phone technology, data, and AI to help immigrants in court navigate the legal immigration process." and "We are a technology nonprofit that partners with immigration nonprofits and attorneys". region mapped from the Berkeley, CA address in the cached home page. website from https://www.mobilepathways.org/; linkedin_org linked from the cached home page at https://www.linkedin.com/company/mobilepathways/about/; takes_contributors from https://www.mobilepathways.org/contact (accessed 2026-11-10): "Donate Time If you have specific skills or can travel to help on the border".
+founding_year: null
+takes_contributors: true
+careers_url: ""
+last_verified: "2026-11-10"

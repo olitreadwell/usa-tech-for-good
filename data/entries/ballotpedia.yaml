@@ -1,10 +1,13 @@
 name: Ballotpedia
 domain: civic-tech
-what: Ballotpedia is a digital encyclopedia of American politics, covering elections, candidates, and ballot measures.
+what: >-
+  Ballotpedia is a non-profit digital encyclopedia of American politics covering elections,
+  candidates, offices and ballot measures. It has 758,643 encyclopedic articles and says it has had
+  more than 1.2 billion page views since 2007.
 region: national
 website: https://ballotpedia.org
 github: ''
-linkedin_org: ''
+linkedin_org: "https://www.linkedin.com/company/ballotpedia/"
 community_url: ''
 events_url: ''
 linkedin_people: []
@@ -14,8 +17,11 @@ tags:
 - reference
 - voting
 related_to: []
-source: ballotpedia.org/Ballotpedia:About (verified 2026-09-23)
-founding_year: null
+source: >-
+  Homepage and recent update at
+  https://news.ballotpedia.org/2026/10/30/elections-ballotpedia-is-covering-in-november-2026/
+  (verified 2026-11-10).
+founding_year: 2007
 takes_contributors: null
 careers_url: ''
-last_verified: '2026-09-23'
+last_verified: "2026-11-10"

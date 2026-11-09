@@ -1,0 +1,32 @@
+name: "Code for Nashville"
+domain: "civic-tech"
+what: >-
+  Code for Nashville is a volunteer Code for America brigade that works with
+  community groups and Metro Nashville government to promote open data and
+  build civic apps. Its projects include criminal record expungement tools,
+  jail population reports and an online power of attorney form for immigrants.
+region: "southeast"
+website: "https://www.codefornashville.org/"
+github: "https://github.com/code-for-nashville"
+linkedin_org: ""
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+  - "civic tech"
+  - "open data"
+  - "volunteers"
+  - "nashville"
+related_to: []
+source: >-
+  website: https://www.codefornashville.org/ (accessed 2026-11-10). what: "Code
+  for Nashville is Nashville, Tennessee's Code for America Brigade" and "We are
+  volunteers who collaborate with community groups (including activists,
+  nonprofits, and government) to promote open data and build civic apps".
+  github: linked from https://www.codefornashville.org/. takes_contributors: the
+  page says "We are a growing organization and need members" and "The best way
+  to become involved is to attend our next hack night".
+founding_year: null
+takes_contributors: true
+careers_url: ""
+last_verified: "2026-11-10"

@@ -1,10 +1,13 @@
 name: Feeding America
 domain: food-rescue / food-security tech
-what: Feeding America is a nonprofit network of 200 food banks working to end hunger in the United States.
+what: >-
+  Feeding America is the largest hunger-relief organisation in the United States, a national network
+  of 250+ food banks, 20+ state associations and 60,000+ agency partners. It distributes food and
+  advocates on hunger policy.
 region: national
 website: https://www.feedingamerica.org
 github: ''
-linkedin_org: ''
+linkedin_org: "https://www.linkedin.com/company/feeding-america/"
 community_url: ''
 events_url: ''
 linkedin_people: []
@@ -14,8 +17,11 @@ tags:
 - hunger
 - nonprofit
 related_to: []
-source: feedingamerica.org homepage (verified 2026-09-23)
+source: >-
+  Homepage and recent update at
+  https://www.feedingamerica.org/about-us/press-room/elevating-voices-insights-report-2026 (verified
+  2026-11-10).
 founding_year: null
 takes_contributors: null
-careers_url: ''
-last_verified: '2026-09-23'
+careers_url: "https://www.feedingamerica.org/about-us/careers"
+last_verified: "2026-11-10"

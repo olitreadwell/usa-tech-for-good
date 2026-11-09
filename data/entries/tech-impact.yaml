@@ -1,0 +1,35 @@
+name: "Tech Impact"
+domain: "nonprofit / NGO tech"
+what: >-
+  Tech Impact is a nonprofit that provides technology services and training to
+  other nonprofits. It also runs workforce development programs that prepare
+  people for information technology careers.
+region: "national"
+website: "https://techimpact.org/"
+github: ""
+linkedin_org: "https://www.linkedin.com/company/tech-impact/"
+community_url: ""
+events_url: "https://techimpact.org/about-us/tech-impact-annual-events"
+linkedin_people: []
+tags:
+  - "nonprofit technology"
+  - "workforce development"
+  - "digital inclusion"
+related_to: []
+source: >-
+  name from https://techimpact.org/ (accessed 2026-11-10). what from
+  https://techimpact.org/ (accessed 2026-11-10): "Tech Impact is a nonprofit and
+  national leader in technology services and training". founding_year from
+  https://techimpact.org/about-us (accessed 2026-11-10): "Since 2003, Tech Impact
+  has kept the spirit of the initial network alive." website from
+  https://techimpact.org/; linkedin_org and careers_url linked from
+  https://techimpact.org/; events_url from
+  https://techimpact.org/about-us/tech-impact-annual-events; takes_contributors
+  from https://techimpact.org/get-involved: "Join our army of volunteers and
+  mentors that share their expertise, motivation, and support." region from
+  https://techimpact.org/about-us/tech-impact-annual-events: "join us in cities
+  across the country".
+founding_year: 2003
+takes_contributors: true
+careers_url: "https://techimpact.org/careers"
+last_verified: "2026-11-10"

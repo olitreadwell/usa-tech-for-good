@@ -1,10 +1,12 @@
 name: Center for Tech and Civic Life
 domain: civic-tech
-what: The Center for Tech and Civic Life works with election officials to modernise the American voting experience,
-  through grants, research, and shared election infrastructure.
+what: >-
+  Center for Tech and Civic Life (CTCL) is a nonpartisan nonprofit modernising US election
+  administration through grants, research, training and data tools. Its projects include the Ballot
+  Information Project and Governance Project.
 region: national
 website: https://www.techandciviclife.org
-github: ''
+github: "https://github.com/CTCL"
 linkedin_org: ''
 community_url: ''
 events_url: ''
@@ -15,8 +17,11 @@ tags:
 - grants
 - research
 related_to: []
-source: techandciviclife.org homepage (verified 2026-09-23)
-founding_year: null
+source: >-
+  Homepage and recent update at
+  https://www.techandciviclife.org/advancing-research-on-mid-level-election-office-staff/ (verified
+  2026-11-10).
+founding_year: 2015
 takes_contributors: null
-careers_url: ''
-last_verified: '2026-09-23'
+careers_url: "https://www.techandciviclife.org/careers/"
+last_verified: "2026-11-10"

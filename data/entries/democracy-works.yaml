@@ -1,11 +1,12 @@
 name: Democracy Works
 domain: civic-tech
-what: Democracy Works builds tools and delivers election information that help millions of Americans vote, with the
-  aim of removing the gaps that keep turnout low.
+what: >-
+  Democracy Works is a non-partisan nonprofit that builds voter engagement and election data tools,
+  including TurboVote, the Elections API, and the Voting Information Project.
 region: national
 website: https://www.democracy.works
 github: ''
-linkedin_org: ''
+linkedin_org: "https://www.linkedin.com/company/democracyworks/"
 community_url: ''
 events_url: ''
 linkedin_people: []
@@ -15,8 +16,11 @@ tags:
 - civic tech
 - information
 related_to: []
-source: democracy.works/about (verified 2026-09-23)
-founding_year: null
+source: >-
+  Homepage and recent update at
+  https://www.democracy.works/news/democracy-works-expands-partnership-with-anthropic-ahead-of-2026-midterm-elections
+  (verified 2026-11-10).
+founding_year: 2010
 takes_contributors: null
-careers_url: ''
-last_verified: '2026-09-23'
+careers_url: "https://www.democracy.works/careers"
+last_verified: "2026-11-10"

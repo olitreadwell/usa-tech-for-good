@@ -1,0 +1,30 @@
+name: "Data Foundation"
+domain: "open-data"
+what: >-
+  The Data Foundation is a non-profit policy research organisation that promotes
+  open data and evidence-informed public policy. It conducts research, publishes
+  analysis and convenes a coalition of data leaders.
+region: "national"
+website: "https://datafoundation.org/"
+github: ""
+linkedin_org: "https://www.linkedin.com/company/datafoundation"
+community_url: ""
+events_url: "https://datafoundation.org/events"
+linkedin_people: []
+tags:
+  - "open data"
+  - "public policy"
+  - "evidence"
+  - "nonprofit"
+related_to: []
+source: >-
+  what from https://datafoundation.org/about (accessed 2026-11-10): "The Data
+  Foundation champions the use of open data and evidence-informed public policy
+  to make democratic society better for everyone." Non-profit status from the
+  same page: "The Data Foundation is a Washington, DC-based, non-profit,
+  non-partisan organization." website from https://datafoundation.org/;
+  linkedin_org and events_url linked from https://datafoundation.org/.
+founding_year: null
+takes_contributors: null
+careers_url: ""
+last_verified: "2026-11-10"

@@ -1,0 +1,32 @@
+name: "Code for BTV"
+domain: "civic-tech"
+what: >-
+  Code for BTV is a civic technology organization in Burlington, Vermont, that
+  works with government and community partners on civic software and open data
+  projects. It organizes volunteers to design, build and deliver tools for
+  social and civic justice organizations across Vermont.
+region: "new-england"
+website: "https://codeforbtv.org/"
+github: "https://github.com/codeforbtv"
+linkedin_org: ""
+community_url: ""
+events_url: "https://www.meetup.com/codeforbtv/events/"
+linkedin_people: []
+tags:
+  - "civic tech"
+  - "open data"
+  - "volunteers"
+  - "vermont"
+related_to: []
+source: >-
+  website: https://codeforbtv.org/ (accessed 2026-11-10). what: "Code for BTV is
+  a local civic technology organization based in Burlington, VT (USA)" and "We
+  pull together teams of volunteers that build new tools for social and civic
+  justice organizations". github: linked from https://codeforbtv.org/ and
+  https://codeforbtv.org/contact/. events_url: linked from
+  https://codeforbtv.org/. takes_contributors: the homepage says "Get involved!"
+  and the contact page says "everyone is encouraged to join".
+founding_year: null
+takes_contributors: true
+careers_url: ""
+last_verified: "2026-11-10"
