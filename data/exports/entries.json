@@ -2,11 +2,11 @@
   {
     "name": "AI Now Institute",
     "domain": "tech-ethics / responsible-AI",
-    "what": "AI Now Institute is an independent research institute providing expert analysis on artificial intelligence in the public interest.",
+    "what": "AI Now Institute is an independent research institute producing policy research on AI's social consequences, corporate power, surveillance and public accountability.",
     "region": "national",
     "website": "https://ainowinstitute.org",
     "github": "",
-    "linkedin_org": "",
+    "linkedin_org": "https://www.linkedin.com/company/ai-now-institute/",
     "community_url": "",
     "events_url": "",
     "linkedin_people": [],
@@ -17,20 +17,20 @@
       "public interest"
     ],
     "related_to": [],
-    "source": "ainowinstitute.org homepage (verified 2026-09-23)",
-    "founding_year": null,
+    "source": "Homepage and recent update at https://ainowinstitute.org/publications/double-agents; activity also at https://ainowinstitute.org/news/palantir-hires-a-former-democratic-senator-as-it-faces-scrutiny-in-new-congress (verified 2026-11-10).",
+    "founding_year": 2017,
     "takes_contributors": null,
-    "careers_url": "",
-    "last_verified": "2026-09-23"
+    "careers_url": "https://ainowinstitute.org/careers",
+    "last_verified": "2026-11-10"
   },
   {
     "name": "American Foundation for the Blind",
     "domain": "disability & accessibility tech",
-    "what": "The American Foundation for the Blind works to expand possibilities for the millions of Americans living with vision loss, and has done so since 1921.",
+    "what": "The American Foundation for the Blind is a US nonprofit expanding opportunities for people who are blind or have low vision through advocacy, research, accessible technology and professional services. It was founded in 1921.",
     "region": "national",
     "website": "https://www.afb.org",
     "github": "",
-    "linkedin_org": "",
+    "linkedin_org": "https://www.linkedin.com/company/american-foundation-for-the-blind/",
     "community_url": "",
     "events_url": "",
     "linkedin_people": [],
@@ -41,20 +41,20 @@
       "nonprofit"
     ],
     "related_to": [],
-    "source": "afb.org homepage (verified 2026-09-23)",
+    "source": "Homepage and recent update at https://www.afb.org/research-and-initiatives/ai-series/ai-quagmire (verified 2026-11-10).",
     "founding_year": 1921,
     "takes_contributors": null,
-    "careers_url": "",
-    "last_verified": "2026-09-23"
+    "careers_url": "https://www.afb.org/about-afb/leadership/careers-afb",
+    "last_verified": "2026-11-10"
   },
   {
     "name": "Ballotpedia",
     "domain": "civic-tech",
-    "what": "Ballotpedia is a digital encyclopedia of American politics, covering elections, candidates, and ballot measures.",
+    "what": "Ballotpedia is a non-profit digital encyclopedia of American politics covering elections, candidates, offices and ballot measures. It has 758,643 encyclopedic articles and says it has had more than 1.2 billion page views since 2007.",
     "region": "national",
     "website": "https://ballotpedia.org",
     "github": "",
-    "linkedin_org": "",
+    "linkedin_org": "https://www.linkedin.com/company/ballotpedia/",
     "community_url": "",
     "events_url": "",
     "linkedin_people": [],
@@ -65,20 +65,20 @@
       "voting"
     ],
     "related_to": [],
-    "source": "ballotpedia.org/Ballotpedia:About (verified 2026-09-23)",
-    "founding_year": null,
+    "source": "Homepage and recent update at https://news.ballotpedia.org/2026/10/30/elections-ballotpedia-is-covering-in-november-2026/ (verified 2026-11-10).",
+    "founding_year": 2007,
     "takes_contributors": null,
     "careers_url": "",
-    "last_verified": "2026-09-23"
+    "last_verified": "2026-11-10"
   },
   {
     "name": "Beeck Center for Social Impact and Innovation",
     "domain": "govtech",
-    "what": "The Beeck Center at Georgetown University works on building a people-centred, digitally enabled government for all.",
+    "what": "Beeck Center for Social Impact and Innovation is the Beeck Center for Social Impact and Innovation at Georgetown University works to build a people-centred, digitally enabled government, connecting government and the civic tech ecosystem through research, networks and practical tools. It was founded in 2014.",
     "region": "national",
     "website": "https://beeckcenter.georgetown.edu",
     "github": "",
-    "linkedin_org": "",
+    "linkedin_org": "https://www.linkedin.com/company/beeckcenter/",
     "community_url": "",
     "events_url": "",
     "linkedin_people": [],
@@ -89,20 +89,20 @@
       "university"
     ],
     "related_to": [],
-    "source": "beeckcenter.georgetown.edu homepage (verified 2026-09-23)",
-    "founding_year": null,
+    "source": "Homepage and recent update at https://beeckcenter.georgetown.edu/governments-are-counting-ai-tools-they-should-be-measuring-public-value/ (verified 2026-11-10).",
+    "founding_year": 2014,
     "takes_contributors": null,
-    "careers_url": "",
-    "last_verified": "2026-09-23"
+    "careers_url": "https://beeckcenter.georgetown.edu/join-the-team/",
+    "last_verified": "2026-11-10"
   },
   {
     "name": "Benetech",
     "domain": "education equity tech",
-    "what": "Benetech is a nonprofit that creates software for social good in education, employment, and social inclusion, and offers free training for educators supporting students with diverse learning needs.",
+    "what": "Benetech is a nonprofit building accessible education technology, including Bookshare and its Global Certified Accessible programme. It campaigns to make accessibility the norm in schools and institutions.",
     "region": "national",
     "website": "https://benetech.org",
-    "github": "",
-    "linkedin_org": "",
+    "github": "https://github.com/benetech",
+    "linkedin_org": "https://www.linkedin.com/company/benetech",
     "community_url": "",
     "events_url": "",
     "linkedin_people": [],
@@ -113,19 +113,19 @@
       "nonprofit"
     ],
     "related_to": [],
-    "source": "benetech.org/about (verified 2026-09-23)",
+    "source": "Homepage and recent update at https://benetech.org/csun-2026-accessibility-ai-title-ii-benetech/; activity also at https://benetech.org/blog/ (verified 2026-11-10).",
     "founding_year": null,
     "takes_contributors": null,
-    "careers_url": "",
-    "last_verified": "2026-09-23"
+    "careers_url": "https://benetech.org/careers/",
+    "last_verified": "2026-11-10"
   },
   {
     "name": "CarbonPlan",
     "domain": "green / climate-tech",
-    "what": "CarbonPlan works on the transparency and scientific integrity of climate solutions, publishing open data and tools alongside its analysis.",
+    "what": "CarbonPlan is a non-profit that analyses climate solutions, focusing on carbon offsets, carbon removal, and climate risk. It publishes open data and tools including OffsetsDB and Open Climate Risk.",
     "region": "national",
     "website": "https://carbonplan.org",
-    "github": "",
+    "github": "https://github.com/carbonplan",
     "linkedin_org": "",
     "community_url": "",
     "events_url": "",
@@ -137,19 +137,19 @@
       "tools"
     ],
     "related_to": [],
-    "source": "carbonplan.org homepage (verified 2026-09-23)",
+    "source": "Homepage and recent update at https://carbonplan.org/blog/pnw-wildfires-2026 (verified 2026-11-10).",
     "founding_year": null,
     "takes_contributors": null,
-    "careers_url": "",
-    "last_verified": "2026-09-23"
+    "careers_url": "https://carbonplan.org/jobs",
+    "last_verified": "2026-11-10"
   },
   {
     "name": "Center for Civic Design",
     "domain": "civic-tech",
-    "what": "The Center for Civic Design works on election design, so that voters can express their intent clearly. It publishes its research and field guides for election officials.",
+    "what": "Center for Civic Design is an US non-profit that applies plain language, accessibility, information design and research to election materials and voter journeys. It publishes free tools, field guides and research for election officials.",
     "region": "national",
     "website": "https://civicdesign.org",
-    "github": "",
+    "github": "https://github.com/civicdesign",
     "linkedin_org": "",
     "community_url": "",
     "events_url": "",
@@ -161,19 +161,19 @@
       "research"
     ],
     "related_to": [],
-    "source": "civicdesign.org homepage (verified 2026-09-23)",
+    "source": "Homepage and recent update at https://civicdesign.org/tools/election-home-stretch/ (verified 2026-11-10).",
     "founding_year": null,
     "takes_contributors": null,
     "careers_url": "",
-    "last_verified": "2026-09-23"
+    "last_verified": "2026-11-10"
   },
   {
     "name": "Center for Tech and Civic Life",
     "domain": "civic-tech",
-    "what": "The Center for Tech and Civic Life works with election officials to modernise the American voting experience, through grants, research, and shared election infrastructure.",
+    "what": "Center for Tech and Civic Life (CTCL) is a nonpartisan nonprofit modernising US election administration through grants, research, training and data tools. Its projects include the Ballot Information Project and Governance Project.",
     "region": "national",
     "website": "https://www.techandciviclife.org",
-    "github": "",
+    "github": "https://github.com/CTCL",
     "linkedin_org": "",
     "community_url": "",
     "events_url": "",
@@ -185,20 +185,20 @@
       "research"
     ],
     "related_to": [],
-    "source": "techandciviclife.org homepage (verified 2026-09-23)",
-    "founding_year": null,
+    "source": "Homepage and recent update at https://www.techandciviclife.org/advancing-research-on-mid-level-election-office-staff/ (verified 2026-11-10).",
+    "founding_year": 2015,
     "takes_contributors": null,
-    "careers_url": "",
-    "last_verified": "2026-09-23"
+    "careers_url": "https://www.techandciviclife.org/careers/",
+    "last_verified": "2026-11-10"
   },
   {
     "name": "Code for America",
     "domain": "civic-tech",
-    "what": "Code for America works with governments and communities across the country to break down barriers and find real solutions, and believes government at every level can work well for everyone.",
+    "what": "Code for America is a US civic-tech nonprofit that works with governments to make public benefits and services easier to access, including SNAP, tax credits and criminal record relief.",
     "region": "national",
     "website": "https://codeforamerica.org",
     "github": "",
-    "linkedin_org": "",
+    "linkedin_org": "https://www.linkedin.com/company/code-for-america/",
     "community_url": "",
     "events_url": "",
     "linkedin_people": [],
@@ -209,20 +209,20 @@
       "nonprofit"
     ],
     "related_to": [],
-    "source": "codeforamerica.org/about-us (verified 2026-09-23)",
+    "source": "Homepage and recent update at https://codeforamerica.org/news/anthropic-partnership/ (verified 2026-11-10).",
     "founding_year": null,
     "takes_contributors": null,
-    "careers_url": "",
-    "last_verified": "2026-09-23"
+    "careers_url": "https://codeforamerica.org/jobs/",
+    "last_verified": "2026-11-10"
   },
   {
     "name": "CodeAI",
     "domain": "education equity tech",
-    "what": "CodeAI is an education nonprofit working so that every student in every school can learn about artificial intelligence and computer science as part of their core K-12 education. It was previously known as Code.org.",
+    "what": "CodeAI is an education nonprofit, formerly Code.org, working so every K-12 student can learn AI and computer science. It provides free curriculum, teacher training and policy work, and says it has reached 155 million students and 3 million teachers in 190 countries.",
     "region": "national",
     "website": "https://code.org",
-    "github": "",
-    "linkedin_org": "",
+    "github": "https://github.com/code-dot-org",
+    "linkedin_org": "https://www.linkedin.com/company/code-org/",
     "community_url": "",
     "events_url": "",
     "linkedin_people": [],
@@ -233,20 +233,20 @@
       "AI"
     ],
     "related_to": [],
-    "source": "code.org/about (verified 2026-09-23)",
-    "founding_year": null,
+    "source": "Homepage and recent update at https://www.transformmagazine.net/articles/2026/codeorg-rebrand-encourages-critical-thinking-about-ai-technology/ (verified 2026-11-10).",
+    "founding_year": 2013,
     "takes_contributors": null,
-    "careers_url": "",
-    "last_verified": "2026-09-23"
+    "careers_url": "https://code.org/about/careers",
+    "last_verified": "2026-11-10"
   },
   {
     "name": "Coding it Forward",
     "domain": "govtech",
-    "what": "Coding it Forward is a nonprofit for early-career technologists. It runs the Coding it Forward Fellowship, a civic tech internship for students and recent graduates.",
+    "what": "Coding it Forward is a nonprofit that builds civic tech career paths for early-career technologists and places them in government agencies and nonprofits through its Fellowship.",
     "region": "national",
     "website": "https://www.codingitforward.com",
-    "github": "",
-    "linkedin_org": "",
+    "github": "https://github.com/codingitforward",
+    "linkedin_org": "https://www.linkedin.com/company/coding-it-forward",
     "community_url": "",
     "events_url": "",
     "linkedin_people": [],
@@ -257,16 +257,16 @@
       "civic tech"
     ],
     "related_to": [],
-    "source": "codingitforward.com homepage (verified 2026-09-23)",
-    "founding_year": null,
+    "source": "Homepage and recent update at https://www.codingitforward.com/s/DC-Department-of-Human-Services-Fellow-Report.pdf; activity also at https://www.codingitforward.com/ (verified 2026-11-10).",
+    "founding_year": 2017,
     "takes_contributors": null,
     "careers_url": "",
-    "last_verified": "2026-09-23"
+    "last_verified": "2026-11-10"
   },
   {
     "name": "Community Solutions",
     "domain": "housing / homelessness tech",
-    "what": "Community Solutions helps communities act with speed, coordination, and accountability to reduce homelessness, and publishes data on the progress those communities make.",
+    "what": "Community Solutions is a nonprofit working with more than 150 cities and counties through Built for Zero to reduce homelessness using real-time data and coordinated action.",
     "region": "national",
     "website": "https://community.solutions",
     "github": "",
@@ -281,20 +281,20 @@
       "nonprofit"
     ],
     "related_to": [],
-    "source": "community.solutions homepage (verified 2026-09-23)",
-    "founding_year": null,
+    "source": "Homepage and recent update at https://community.solutions/research-posts/2026-overall-homelessness-estimates/ (verified 2026-11-10).",
+    "founding_year": 2011,
     "takes_contributors": null,
-    "careers_url": "",
-    "last_verified": "2026-09-23"
+    "careers_url": "https://community-solutions.breezy.hr/",
+    "last_verified": "2026-11-10"
   },
   {
     "name": "Crisis Text Line",
     "domain": "mental-health tech",
-    "what": "Crisis Text Line provides free, 24-hour, confidential text support for people in crisis, in English and Spanish.",
+    "what": "Crisis Text Line provides free, 24-hour, confidential text support for people in crisis. It says it has supported over 11 million conversations in the US since 2013.",
     "region": "national",
     "website": "https://www.crisistextline.org",
     "github": "",
-    "linkedin_org": "",
+    "linkedin_org": "https://www.linkedin.com/company/crisistextline/",
     "community_url": "",
     "events_url": "",
     "linkedin_people": [],
@@ -305,20 +305,20 @@
       "nonprofit"
     ],
     "related_to": [],
-    "source": "crisistextline.org homepage (verified 2026-09-23)",
-    "founding_year": null,
+    "source": "Homepage and recent update at https://www.crisistextline.org/blog/2026/10/28/when-a-young-person-is-in-crisis-what-do-they-reach-for/ (verified 2026-11-10).",
+    "founding_year": 2013,
     "takes_contributors": null,
-    "careers_url": "",
-    "last_verified": "2026-09-23"
+    "careers_url": "https://www.crisistextline.org/join-our-staff/",
+    "last_verified": "2026-11-10"
   },
   {
     "name": "Data & Society Research Institute",
     "domain": "tech-ethics / responsible-AI",
-    "what": "Data & Society is a research institute studying the social implications of data and automation. It argues that technology policy should be grounded in research about technology's real-world effects.",
+    "what": "Data & Society is an independent nonprofit research institute studying the social implications of data, automation and AI, producing research to ground public debate and technology policy.",
     "region": "national",
     "website": "https://datasociety.net",
     "github": "",
-    "linkedin_org": "",
+    "linkedin_org": "https://www.linkedin.com/company/data-society-research-institute",
     "community_url": "",
     "events_url": "",
     "linkedin_people": [],
@@ -329,20 +329,20 @@
       "society"
     ],
     "related_to": [],
-    "source": "datasociety.net homepage (verified 2026-09-23)",
+    "source": "Homepage and recent update at https://datasociety.net/news-events/new-project-from-data-society-will-turn-a-worker-lens-on-the-ai-economy/ (verified 2026-11-10).",
     "founding_year": null,
     "takes_contributors": null,
-    "careers_url": "",
-    "last_verified": "2026-09-23"
+    "careers_url": "https://datasociety.net/careers-at-data-society/",
+    "last_verified": "2026-11-10"
   },
   {
     "name": "DataKind",
     "domain": "research / education tech",
-    "what": "DataKind works with social sector organisations to design data science and AI projects in areas including health, humanitarian action, climate, and education.",
+    "what": "DataKind works with social impact organisations to design data science and AI projects, and builds shared products such as its Beacon community data platform. It also runs the Data for Good movement and education initiatives.",
     "region": "national",
     "website": "https://www.datakind.org",
-    "github": "",
-    "linkedin_org": "",
+    "github": "https://github.com/datakind",
+    "linkedin_org": "https://www.linkedin.com/company/datakind",
     "community_url": "",
     "events_url": "",
     "linkedin_people": [],
@@ -353,20 +353,20 @@
       "AI"
     ],
     "related_to": [],
-    "source": "datakind.org/about (verified 2026-09-23)",
+    "source": "Homepage and recent update at https://www.datakind.org/2026/06/17/introducing-beacon-a-new-platform-for-community-data-coordinated-action/; activity also at https://www.datakind.org/blog/ (verified 2026-11-10).",
     "founding_year": 2012,
     "takes_contributors": null,
-    "careers_url": "",
-    "last_verified": "2026-09-23"
+    "careers_url": "https://www.datakind.org/careers/",
+    "last_verified": "2026-11-10"
   },
   {
     "name": "Democracy Works",
     "domain": "civic-tech",
-    "what": "Democracy Works builds tools and delivers election information that help millions of Americans vote, with the aim of removing the gaps that keep turnout low.",
+    "what": "Democracy Works is a non-partisan nonprofit that builds voter engagement and election data tools, including TurboVote, the Elections API, and the Voting Information Project.",
     "region": "national",
     "website": "https://www.democracy.works",
     "github": "",
-    "linkedin_org": "",
+    "linkedin_org": "https://www.linkedin.com/company/democracyworks/",
     "community_url": "",
     "events_url": "",
     "linkedin_people": [],
@@ -377,16 +377,16 @@
       "information"
     ],
     "related_to": [],
-    "source": "democracy.works/about (verified 2026-09-23)",
-    "founding_year": null,
+    "source": "Homepage and recent update at https://www.democracy.works/news/democracy-works-expands-partnership-with-anthropic-ahead-of-2026-midterm-elections (verified 2026-11-10).",
+    "founding_year": 2010,
     "takes_contributors": null,
-    "careers_url": "",
-    "last_verified": "2026-09-23"
+    "careers_url": "https://www.democracy.works/careers",
+    "last_verified": "2026-11-10"
   },
   {
     "name": "Election.org",
     "domain": "civic-tech",
-    "what": "Election.org is a nonpartisan civic reference for US elections, candidates, elected officials, campaign finance, and local government. Its records link to public sources, with charts, research downloads, and documented data endpoints.",
+    "what": "Election.org is a nonpartisan civic reference publishing source-linked records on US elections, candidates, elected officials, campaign finance and local government. It provides charts, downloads and documented data endpoints.",
     "region": "national",
     "website": "https://election.org",
     "github": "",
@@ -401,20 +401,20 @@
       "civic education"
     ],
     "related_to": [],
-    "source": "election.org/ai-info and election.org/data (verified 2026-10-29)",
+    "source": "Homepage and recent update at https://election.org/data (verified 2026-11-10).",
     "founding_year": null,
     "takes_contributors": null,
     "careers_url": "",
-    "last_verified": "2026-10-29"
+    "last_verified": "2026-11-10"
   },
   {
     "name": "Electronic Frontier Foundation",
     "domain": "human-rights tech",
-    "what": "The Electronic Frontier Foundation defends civil liberties in the digital world. It litigates, campaigns, and publishes tools and guides on privacy, free speech, creativity, and surveillance.",
+    "what": "Electronic Frontier Foundation (EFF) is a nonprofit defending civil liberties in the digital world through litigation, policy analysis, grassroots activism and technology development.",
     "region": "national",
     "website": "https://www.eff.org",
-    "github": "",
-    "linkedin_org": "",
+    "github": "https://github.com/EFForg",
+    "linkedin_org": "https://www.linkedin.com/company/EFF",
     "community_url": "",
     "events_url": "",
     "linkedin_people": [],
@@ -425,20 +425,20 @@
       "surveillance"
     ],
     "related_to": [],
-    "source": "eff.org/about (verified 2026-09-23)",
-    "founding_year": null,
+    "source": "Homepage and recent update at https://www.eff.org/deeplinks/2026/11/google-forcing-ai-students-bs (verified 2026-11-10).",
+    "founding_year": 1990,
     "takes_contributors": null,
-    "careers_url": "",
-    "last_verified": "2026-09-23"
+    "careers_url": "https://www.eff.org/jobs",
+    "last_verified": "2026-11-10"
   },
   {
     "name": "EveryoneOn",
     "domain": "digital-inclusion",
-    "what": "EveryoneOn connects under-resourced communities to affordable internet and computers, trains people and organisations in digital skills, and works for fair access policies.",
+    "what": "EveryoneOn is a US digital inclusion nonprofit connecting under-resourced communities to affordable internet, computers and digital skills training, with place-based work in California and Milwaukee.",
     "region": "national",
     "website": "https://www.everyoneon.org",
     "github": "",
-    "linkedin_org": "",
+    "linkedin_org": "https://www.linkedin.com/company/everyoneon",
     "community_url": "",
     "events_url": "",
     "linkedin_people": [],
@@ -449,20 +449,20 @@
       "digital skills"
     ],
     "related_to": [],
-    "source": "everyoneon.org/about (verified 2026-09-23)",
-    "founding_year": null,
+    "source": "Homepage and recent update at https://www.everyoneon.org/s/Everyone-On-2025-Impact-Report.pdf; activity also at https://www.everyoneon.org/blog-posts/q3update (verified 2026-11-10).",
+    "founding_year": 2012,
     "takes_contributors": null,
-    "careers_url": "",
-    "last_verified": "2026-09-23"
+    "careers_url": "https://www.everyoneon.org/about-us#careers",
+    "last_verified": "2026-11-10"
   },
   {
     "name": "Feeding America",
     "domain": "food-rescue / food-security tech",
-    "what": "Feeding America is a nonprofit network of 200 food banks working to end hunger in the United States.",
+    "what": "Feeding America is the largest hunger-relief organisation in the United States, a national network of 250+ food banks, 20+ state associations and 60,000+ agency partners. It distributes food and advocates on hunger policy.",
     "region": "national",
     "website": "https://www.feedingamerica.org",
     "github": "",
-    "linkedin_org": "",
+    "linkedin_org": "https://www.linkedin.com/company/feeding-america/",
     "community_url": "",
     "events_url": "",
     "linkedin_people": [],
@@ -473,16 +473,16 @@
       "nonprofit"
     ],
     "related_to": [],
-    "source": "feedingamerica.org homepage (verified 2026-09-23)",
+    "source": "Homepage and recent update at https://www.feedingamerica.org/about-us/press-room/elevating-voices-insights-report-2026 (verified 2026-11-10).",
     "founding_year": null,
     "takes_contributors": null,
-    "careers_url": "",
-    "last_verified": "2026-09-23"
+    "careers_url": "https://www.feedingamerica.org/about-us/careers",
+    "last_verified": "2026-11-10"
   },
   {
     "name": "Freedom of the Press Foundation",
     "domain": "human-rights tech",
-    "what": "Freedom of the Press Foundation builds and supports secure tools for journalists, and campaigns against threats to press freedom.",
+    "what": "Freedom of the Press Foundation is a nonprofit that builds and supports secure journalism tools including SecureDrop and Dangerzone, runs the U.S. Press Freedom Tracker, and campaigns on press freedom.",
     "region": "national",
     "website": "https://freedom.press",
     "github": "",
@@ -497,19 +497,19 @@
       "encryption"
     ],
     "related_to": [],
-    "source": "freedom.press homepage (verified 2026-09-23)",
-    "founding_year": null,
+    "source": "Homepage and recent update at https://freedom.press/tech/news/security-audit-of-new-securedrop-inbox-completed/ (verified 2026-11-10).",
+    "founding_year": 2012,
     "takes_contributors": null,
-    "careers_url": "",
-    "last_verified": "2026-09-23"
+    "careers_url": "https://freedom.press/careers/",
+    "last_verified": "2026-11-10"
   },
   {
     "name": "GovTrack",
     "domain": "civic-tech",
-    "what": "GovTrack tracks legislation and votes in the United States Congress and actions by the White House, and publishes the record where anyone can follow it.",
+    "what": "GovTrack is an independent project tracking US Congress legislation and votes plus White House actions. It publishes bill status, voting records, statistics and analysis.",
     "region": "national",
     "website": "https://www.govtrack.us",
-    "github": "",
+    "github": "https://github.com/govtrack",
     "linkedin_org": "",
     "community_url": "",
     "events_url": "",
@@ -521,16 +521,16 @@
       "open data"
     ],
     "related_to": [],
-    "source": "govtrack.us homepage (verified 2026-09-23)",
-    "founding_year": null,
+    "source": "Homepage and recent update at https://www.govtrack.us/posts/533/2025-08-29_why-do-filibusters-succeed-in-blocking-legislation (verified 2026-11-10).",
+    "founding_year": 2004,
     "takes_contributors": null,
     "careers_url": "",
-    "last_verified": "2026-09-23"
+    "last_verified": "2026-11-10"
   },
   {
     "name": "ImpactLine",
     "domain": "civic-tech",
-    "what": "ImpactLine is an independent, free public-budget reader that organizes government revenue and spending figures with source links and fiscal periods. Its public coverage includes the US federal government, six states, and four cities.",
+    "what": "ImpactLine is a free public-budget reader that organises government revenue and spending with source links and fiscal periods. Its site covers the federal government, all 50 states and 35,395 local governments.",
     "region": "national",
     "website": "https://www.impactline.org",
     "github": "",
@@ -545,20 +545,20 @@
       "public records"
     ],
     "related_to": [],
-    "source": "impactline.org homepage and FAQ (verified 2026-10-29)",
+    "source": "Homepage and recent update at https://www.impactline.org/articles/state-government-spending-fy2024-all-50-states (verified 2026-11-10).",
     "founding_year": null,
     "takes_contributors": null,
     "careers_url": "",
-    "last_verified": "2026-10-29"
+    "last_verified": "2026-11-10"
   },
   {
     "name": "Kapor Center",
     "domain": "digital-inclusion",
-    "what": "The Kapor Center is a family of organisations working to remove barriers for people of colour in the technology sector, through research, programmes, advocacy, and investment.",
+    "what": "Kapor Center is a family of organisations, including Kapor Foundation, SMASH, Kapor Capital, Kapor Advocacy and the P.R.I.M.E. Alliance, working to remove barriers for people of colour in tech through research, programmes, advocacy and investment.",
     "region": "national",
     "website": "https://www.kaporcenter.org",
     "github": "",
-    "linkedin_org": "",
+    "linkedin_org": "https://www.linkedin.com/company/kapor-center",
     "community_url": "",
     "events_url": "",
     "linkedin_people": [],
@@ -569,20 +569,20 @@
       "investment"
     ],
     "related_to": [],
-    "source": "kaporcenter.org homepage (verified 2026-09-23)",
+    "source": "Homepage and recent update at https://www.prnewswire.com/news-releases/kapor-center-launches-prime-alliance-to-transform-how-cities-work-with-startups-302887608.html (verified 2026-11-10).",
     "founding_year": null,
     "takes_contributors": null,
-    "careers_url": "",
-    "last_verified": "2026-09-23"
+    "careers_url": "https://www.kaporcenter.org/jobs/",
+    "last_verified": "2026-11-10"
   },
   {
     "name": "Knowbility",
     "domain": "disability & accessibility tech",
-    "what": "Knowbility is a nonprofit based in Austin, Texas working to create an inclusive digital world for people with disabilities, through training, consulting, and advocacy. It was founded in 1999.",
+    "what": "Knowbility is an Austin-based nonprofit that runs accessibility training, consulting and usability testing, including the Accessibility Internet Rally and the John Slatin AccessU conference. It was founded in 1999.",
     "region": "south-central",
     "website": "https://knowbility.org",
-    "github": "",
-    "linkedin_org": "",
+    "github": "https://github.com/knowbility",
+    "linkedin_org": "https://www.linkedin.com/company/knowbility",
     "community_url": "",
     "events_url": "",
     "linkedin_people": [],
@@ -593,19 +593,19 @@
       "consulting"
     ],
     "related_to": [],
-    "source": "knowbility.org/about (verified 2026-09-23)",
+    "source": "Homepage and recent update at https://knowbility.org/programs/air (verified 2026-11-10).",
     "founding_year": 1999,
     "takes_contributors": null,
     "careers_url": "",
-    "last_verified": "2026-09-23"
+    "last_verified": "2026-11-10"
   },
   {
     "name": "Open States",
     "domain": "open-data",
-    "what": "Open States publishes data on state legislatures across the United States. It covers who the legislators are, what they sponsor, and how they vote.",
+    "what": "Open States publishes standardised legislative data for all 50 US states, Washington DC, Puerto Rico, and Congress through a website, API, and bulk downloads. It has been run by Plural since 2021.",
     "region": "national",
     "website": "https://openstates.org",
-    "github": "",
+    "github": "https://github.com/openstates",
     "linkedin_org": "",
     "community_url": "",
     "events_url": "",
@@ -617,19 +617,19 @@
       "api"
     ],
     "related_to": [],
-    "source": "openstates.org homepage (verified 2026-09-23)",
-    "founding_year": null,
+    "source": "Homepage and recent update at https://github.com/openstates/openstates-scrapers/commit/b5357f90ab708ead437926bd44cb99aea09945e2 (verified 2026-11-10).",
+    "founding_year": 2009,
     "takes_contributors": null,
     "careers_url": "",
-    "last_verified": "2026-09-23"
+    "last_verified": "2026-11-10"
   },
   {
     "name": "ProPublica",
     "domain": "journalism / media-tech",
-    "what": "ProPublica is an independent, non-profit newsroom that produces investigative journalism in the public interest.",
+    "what": "ProPublica is an independent, non-profit investigative newsroom producing public-interest journalism. Its investigations are published free online and often include datasets, tools and legal action to obtain records.",
     "region": "national",
     "website": "https://www.propublica.org",
-    "github": "",
+    "github": "https://github.com/propublica",
     "linkedin_org": "",
     "community_url": "",
     "events_url": "",
@@ -640,16 +640,16 @@
       "public interest"
     ],
     "related_to": [],
-    "source": "propublica.org homepage (verified 2026-09-23)",
-    "founding_year": null,
+    "source": "Homepage and recent update at https://www.propublica.org/article/generic-prescription-drug-supply-fda-explained (verified 2026-11-10).",
+    "founding_year": 2007,
     "takes_contributors": null,
     "careers_url": "",
-    "last_verified": "2026-09-23"
+    "last_verified": "2026-11-10"
   },
   {
     "name": "Public Knowledge",
     "domain": "human-rights tech",
-    "what": "Public Knowledge promotes freedom of expression, an open internet, and access to affordable communications tools and creative works, through policy work on behalf of the public interest.",
+    "what": "Public Knowledge is a policy nonprofit working on freedom of expression, an open internet, affordable communications and creative works. Its current issues include broadband access, copyright reform and trustworthy AI.",
     "region": "national",
     "website": "https://publicknowledge.org",
     "github": "",
@@ -664,20 +664,20 @@
       "advocacy"
     ],
     "related_to": [],
-    "source": "publicknowledge.org homepage (verified 2026-09-23)",
-    "founding_year": null,
+    "source": "Homepage and recent update at https://publicknowledge.org/public-knowledge-supports-cpuc-in-rejecting-ntia-effort-to-undermine-consumer-protections-with-bead-funds/ (verified 2026-11-10).",
+    "founding_year": 2001,
     "takes_contributors": null,
-    "careers_url": "",
-    "last_verified": "2026-09-23"
+    "careers_url": "https://publicknowledge.org/about-us/employment/",
+    "last_verified": "2026-11-10"
   },
   {
     "name": "Rewiring America",
     "domain": "green / climate-tech",
-    "what": "Rewiring America works on electrifying American households, with the aim of clean energy that every household can afford.",
+    "what": "Rewiring America is a US nonprofit working to electrify households and make clean energy affordable, through policy, data tools and community programmes.",
     "region": "national",
     "website": "https://www.rewiringamerica.org",
     "github": "",
-    "linkedin_org": "",
+    "linkedin_org": "https://linkedin.com/company/rewiring-america",
     "community_url": "",
     "events_url": "",
     "linkedin_people": [],
@@ -688,20 +688,20 @@
       "climate"
     ],
     "related_to": [],
-    "source": "rewiringamerica.org homepage (verified 2026-09-23)",
+    "source": "Homepage and recent update at https://www.rewiringamerica.org/newsroom/press-releases/rewiring-america-releases-homegrown-energy-blueprint-to-lower-costs-for-96-percent-of-eligible-us-households (verified 2026-11-10).",
     "founding_year": null,
     "takes_contributors": null,
-    "careers_url": "",
-    "last_verified": "2026-09-23"
+    "careers_url": "https://www.rewiringamerica.org/careers",
+    "last_verified": "2026-11-10"
   },
   {
     "name": "U.S. Federation of Worker Cooperatives",
     "domain": "worker-coop / platform-coop tech",
-    "what": "The U.S. Federation of Worker Cooperatives is the national membership organisation for worker cooperatives and democratic workplaces. It represents an estimated 1,300 US worker co-ops and their 15,000 workers.",
+    "what": "The U.S. Federation of Worker Cooperatives is the national grassroots membership organisation for worker cooperatives and democratic workplaces. It says its members represent an estimated 1,300 US worker co-ops and their 15,000 workers.",
     "region": "national",
     "website": "https://usworker.coop",
     "github": "",
-    "linkedin_org": "",
+    "linkedin_org": "https://www.linkedin.com/company/11063135",
     "community_url": "",
     "events_url": "",
     "linkedin_people": [],
@@ -712,20 +712,20 @@
       "advocacy"
     ],
     "related_to": [],
-    "source": "usworker.coop/about (verified 2026-09-23)",
-    "founding_year": null,
+    "source": "Homepage and recent update at https://www.usworker.coop/blog/we-did-it-highlights-from-the-2026-worker-co-op-conference/ (verified 2026-11-10).",
+    "founding_year": 2004,
     "takes_contributors": null,
-    "careers_url": "",
-    "last_verified": "2026-09-23"
+    "careers_url": "https://www.usworker.coop/jobs/",
+    "last_verified": "2026-11-10"
   },
   {
     "name": "USAFacts",
     "domain": "open-data",
-    "what": "USAFacts publishes a nonpartisan view of the state of the country, built from government data and free for anyone to use.",
+    "what": "USAFacts is a nonpartisan civic initiative founded by Steve Ballmer that turns government data into free articles, reports and tools; it is privately funded and takes no advertising or external donations.",
     "region": "national",
     "website": "https://usafacts.org",
     "github": "",
-    "linkedin_org": "",
+    "linkedin_org": "https://www.linkedin.com/company/usafacts",
     "community_url": "",
     "events_url": "",
     "linkedin_people": [],
@@ -736,20 +736,20 @@
       "nonpartisan"
     ],
     "related_to": [],
-    "source": "usafacts.org homepage (verified 2026-09-23)",
-    "founding_year": null,
+    "source": "Homepage and recent update at https://usafacts.org/reports/government-10-k/; activity also at https://usafacts.org/ (verified 2026-11-10).",
+    "founding_year": 2017,
     "takes_contributors": null,
     "careers_url": "",
-    "last_verified": "2026-09-23"
+    "last_verified": "2026-11-10"
   },
   {
     "name": "Vote.org",
     "domain": "civic-tech",
-    "what": "Vote.org is a nonpartisan service for registering to vote, checking a registration, and requesting an absentee ballot.",
+    "what": "Vote.org is a nonpartisan nonprofit using technology and outreach to help Americans register, check registration, request mail ballots and find voting information. It says it has helped more than 40 million people get election-ready.",
     "region": "national",
     "website": "https://www.vote.org",
     "github": "",
-    "linkedin_org": "",
+    "linkedin_org": "https://www.linkedin.com/company/votedotorg",
     "community_url": "",
     "events_url": "",
     "linkedin_people": [],
@@ -760,10 +760,10 @@
       "nonpartisan"
     ],
     "related_to": [],
-    "source": "vote.org homepage (verified 2026-09-23)",
+    "source": "Homepage and recent update at https://www.vote.org/press-releases/ten-million/ (verified 2026-11-10).",
     "founding_year": null,
     "takes_contributors": null,
     "careers_url": "",
-    "last_verified": "2026-09-23"
+    "last_verified": "2026-11-10"
   }
 ]

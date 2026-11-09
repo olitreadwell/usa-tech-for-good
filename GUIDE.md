@@ -65,16 +65,16 @@ _2 entries in this domain._
 
 **AI Now Institute**
 
-- AI Now Institute is an independent research institute providing expert analysis on artificial intelligence in the public interest.
+- AI Now Institute is an independent research institute producing policy research on AI's social consequences, corporate power, surveillance and public accountability.
 - Region: national
-- Links: [Website](https://ainowinstitute.org)
+- Links: [Website](https://ainowinstitute.org) · [LinkedIn](https://www.linkedin.com/company/ai-now-institute/)
 - Tags: AI, research, policy, public interest
 
 **Data & Society Research Institute**
 
-- Data & Society is a research institute studying the social implications of data and automation. It argues that technology policy should be grounded in research about technology's real-world effects.
+- Data & Society is an independent nonprofit research institute studying the social implications of data, automation and AI, producing research to ground public debate and technology policy.
 - Region: national
-- Links: [Website](https://datasociety.net)
+- Links: [Website](https://datasociety.net) · [LinkedIn](https://www.linkedin.com/company/data-society-research-institute)
 - Tags: research, technology policy, data, society
 
 ## Disability & Accessibility Tech
@@ -85,16 +85,16 @@ _2 entries in this domain._
 
 **American Foundation for the Blind**
 
-- The American Foundation for the Blind works to expand possibilities for the millions of Americans living with vision loss, and has done so since 1921.
+- The American Foundation for the Blind is a US nonprofit expanding opportunities for people who are blind or have low vision through advocacy, research, accessible technology and professional services. It was founded in 1921.
 - Region: national
-- Links: [Website](https://www.afb.org)
+- Links: [Website](https://www.afb.org) · [LinkedIn](https://www.linkedin.com/company/american-foundation-for-the-blind/)
 - Tags: accessibility, blindness, vision loss, nonprofit
 
 **Knowbility**
 
-- Knowbility is a nonprofit based in Austin, Texas working to create an inclusive digital world for people with disabilities, through training, consulting, and advocacy. It was founded in 1999.
+- Knowbility is an Austin-based nonprofit that runs accessibility training, consulting and usability testing, including the Accessibility Internet Rally and the John Slatin AccessU conference. It was founded in 1999.
 - Region: south-central
-- Links: [Website](https://knowbility.org)
+- Links: [Website](https://knowbility.org) · [GitHub](https://github.com/knowbility) · [LinkedIn](https://www.linkedin.com/company/knowbility)
 - Tags: accessibility, disability, training, consulting
 
 ## Civic Tech
@@ -105,65 +105,65 @@ _9 entries in this domain._
 
 **Ballotpedia**
 
-- Ballotpedia is a digital encyclopedia of American politics, covering elections, candidates, and ballot measures.
+- Ballotpedia is a non-profit digital encyclopedia of American politics covering elections, candidates, offices and ballot measures. It has 758,643 encyclopedic articles and says it has had more than 1.2 billion page views since 2007.
 - Region: national
-- Links: [Website](https://ballotpedia.org)
+- Links: [Website](https://ballotpedia.org) · [LinkedIn](https://www.linkedin.com/company/ballotpedia/)
 - Tags: elections, politics, reference, voting
 
 **Center for Civic Design**
 
-- The Center for Civic Design works on election design, so that voters can express their intent clearly. It publishes its research and field guides for election officials.
+- Center for Civic Design is an US non-profit that applies plain language, accessibility, information design and research to election materials and voter journeys. It publishes free tools, field guides and research for election officials.
 - Region: national
-- Links: [Website](https://civicdesign.org)
+- Links: [Website](https://civicdesign.org) · [GitHub](https://github.com/civicdesign)
 - Tags: elections, design, accessibility, research
 
 **Center for Tech and Civic Life**
 
-- The Center for Tech and Civic Life works with election officials to modernise the American voting experience, through grants, research, and shared election infrastructure.
+- Center for Tech and Civic Life (CTCL) is a nonpartisan nonprofit modernising US election administration through grants, research, training and data tools. Its projects include the Ballot Information Project and Governance Project.
 - Region: national
-- Links: [Website](https://www.techandciviclife.org)
+- Links: [Website](https://www.techandciviclife.org) · [GitHub](https://github.com/CTCL)
 - Tags: elections, civic tech, grants, research
 
 **Code for America**
 
-- Code for America works with governments and communities across the country to break down barriers and find real solutions, and believes government at every level can work well for everyone.
+- Code for America is a US civic-tech nonprofit that works with governments to make public benefits and services easier to access, including SNAP, tax credits and criminal record relief.
 - Region: national
-- Links: [Website](https://codeforamerica.org)
+- Links: [Website](https://codeforamerica.org) · [LinkedIn](https://www.linkedin.com/company/code-for-america/)
 - Tags: civic tech, government, digital services, nonprofit
 
 **Democracy Works**
 
-- Democracy Works builds tools and delivers election information that help millions of Americans vote, with the aim of removing the gaps that keep turnout low.
+- Democracy Works is a non-partisan nonprofit that builds voter engagement and election data tools, including TurboVote, the Elections API, and the Voting Information Project.
 - Region: national
-- Links: [Website](https://www.democracy.works)
+- Links: [Website](https://www.democracy.works) · [LinkedIn](https://www.linkedin.com/company/democracyworks/)
 - Tags: voting, elections, civic tech, information
 
 **Election.org**
 
-- Election.org is a nonpartisan civic reference for US elections, candidates, elected officials, campaign finance, and local government. Its records link to public sources, with charts, research downloads, and documented data endpoints.
+- Election.org is a nonpartisan civic reference publishing source-linked records on US elections, candidates, elected officials, campaign finance and local government. It provides charts, downloads and documented data endpoints.
 - Region: national
 - Links: [Website](https://election.org)
 - Tags: civic tech, elections, public data, civic education
 
 **GovTrack**
 
-- GovTrack tracks legislation and votes in the United States Congress and actions by the White House, and publishes the record where anyone can follow it.
+- GovTrack is an independent project tracking US Congress legislation and votes plus White House actions. It publishes bill status, voting records, statistics and analysis.
 - Region: national
-- Links: [Website](https://www.govtrack.us)
+- Links: [Website](https://www.govtrack.us) · [GitHub](https://github.com/govtrack)
 - Tags: congress, legislation, transparency, open data
 
 **ImpactLine**
 
-- ImpactLine is an independent, free public-budget reader that organizes government revenue and spending figures with source links and fiscal periods. Its public coverage includes the US federal government, six states, and four cities.
+- ImpactLine is a free public-budget reader that organises government revenue and spending with source links and fiscal periods. Its site covers the federal government, all 50 states and 35,395 local governments.
 - Region: national
 - Links: [Website](https://www.impactline.org)
 - Tags: civic tech, fiscal transparency, public budgets, public records
 
 **Vote.org**
 
-- Vote.org is a nonpartisan service for registering to vote, checking a registration, and requesting an absentee ballot.
+- Vote.org is a nonpartisan nonprofit using technology and outreach to help Americans register, check registration, request mail ballots and find voting information. It says it has helped more than 40 million people get election-ready.
 - Region: national
-- Links: [Website](https://www.vote.org)
+- Links: [Website](https://www.vote.org) · [LinkedIn](https://www.linkedin.com/company/votedotorg)
 - Tags: voting, registration, elections, nonpartisan
 
 ## GovTech
@@ -174,16 +174,16 @@ _2 entries in this domain._
 
 **Beeck Center for Social Impact and Innovation**
 
-- The Beeck Center at Georgetown University works on building a people-centred, digitally enabled government for all.
+- Beeck Center for Social Impact and Innovation is the Beeck Center for Social Impact and Innovation at Georgetown University works to build a people-centred, digitally enabled government, connecting government and the civic tech ecosystem through research, networks and practical tools. It was founded in 2014.
 - Region: national
-- Links: [Website](https://beeckcenter.georgetown.edu)
+- Links: [Website](https://beeckcenter.georgetown.edu) · [LinkedIn](https://www.linkedin.com/company/beeckcenter/)
 - Tags: govtech, research, public interest technology, university
 
 **Coding it Forward**
 
-- Coding it Forward is a nonprofit for early-career technologists. It runs the Coding it Forward Fellowship, a civic tech internship for students and recent graduates.
+- Coding it Forward is a nonprofit that builds civic tech career paths for early-career technologists and places them in government agencies and nonprofits through its Fellowship.
 - Region: national
-- Links: [Website](https://www.codingitforward.com)
+- Links: [Website](https://www.codingitforward.com) · [GitHub](https://github.com/codingitforward) · [LinkedIn](https://www.linkedin.com/company/coding-it-forward)
 - Tags: public interest technology, fellowship, students, civic tech
 
 ## Education Equity Tech
@@ -194,16 +194,16 @@ _2 entries in this domain._
 
 **Benetech**
 
-- Benetech is a nonprofit that creates software for social good in education, employment, and social inclusion, and offers free training for educators supporting students with diverse learning needs.
+- Benetech is a nonprofit building accessible education technology, including Bookshare and its Global Certified Accessible programme. It campaigns to make accessibility the norm in schools and institutions.
 - Region: national
-- Links: [Website](https://benetech.org)
+- Links: [Website](https://benetech.org) · [GitHub](https://github.com/benetech) · [LinkedIn](https://www.linkedin.com/company/benetech)
 - Tags: accessibility, education, software for good, nonprofit
 
 **CodeAI**
 
-- CodeAI is an education nonprofit working so that every student in every school can learn about artificial intelligence and computer science as part of their core K-12 education. It was previously known as Code.org.
+- CodeAI is an education nonprofit, formerly Code.org, working so every K-12 student can learn AI and computer science. It provides free curriculum, teacher training and policy work, and says it has reached 155 million students and 3 million teachers in 190 countries.
 - Region: national
-- Links: [Website](https://code.org)
+- Links: [Website](https://code.org) · [GitHub](https://github.com/code-dot-org) · [LinkedIn](https://www.linkedin.com/company/code-org/)
 - Tags: computer science, education, K-12, AI
 
 ## Green & Climate Tech
@@ -214,16 +214,16 @@ _2 entries in this domain._
 
 **CarbonPlan**
 
-- CarbonPlan works on the transparency and scientific integrity of climate solutions, publishing open data and tools alongside its analysis.
+- CarbonPlan is a non-profit that analyses climate solutions, focusing on carbon offsets, carbon removal, and climate risk. It publishes open data and tools including OffsetsDB and Open Climate Risk.
 - Region: national
-- Links: [Website](https://carbonplan.org)
+- Links: [Website](https://carbonplan.org) · [GitHub](https://github.com/carbonplan)
 - Tags: climate, open data, research, tools
 
 **Rewiring America**
 
-- Rewiring America works on electrifying American households, with the aim of clean energy that every household can afford.
+- Rewiring America is a US nonprofit working to electrify households and make clean energy affordable, through policy, data tools and community programmes.
 - Region: national
-- Links: [Website](https://www.rewiringamerica.org)
+- Links: [Website](https://www.rewiringamerica.org) · [LinkedIn](https://linkedin.com/company/rewiring-america)
 - Tags: electrification, clean energy, households, climate
 
 ## Housing & Homelessness Tech
@@ -234,7 +234,7 @@ _1 entry in this domain._
 
 **Community Solutions**
 
-- Community Solutions helps communities act with speed, coordination, and accountability to reduce homelessness, and publishes data on the progress those communities make.
+- Community Solutions is a nonprofit working with more than 150 cities and counties through Built for Zero to reduce homelessness using real-time data and coordinated action.
 - Region: national
 - Links: [Website](https://community.solutions)
 - Tags: homelessness, housing, data, nonprofit
@@ -247,9 +247,9 @@ _1 entry in this domain._
 
 **Crisis Text Line**
 
-- Crisis Text Line provides free, 24-hour, confidential text support for people in crisis, in English and Spanish.
+- Crisis Text Line provides free, 24-hour, confidential text support for people in crisis. It says it has supported over 11 million conversations in the US since 2013.
 - Region: national
-- Links: [Website](https://www.crisistextline.org)
+- Links: [Website](https://www.crisistextline.org) · [LinkedIn](https://www.linkedin.com/company/crisistextline/)
 - Tags: mental health, crisis support, text messaging, nonprofit
 
 ## Research & Education Tech
@@ -260,9 +260,9 @@ _1 entry in this domain._
 
 **DataKind**
 
-- DataKind works with social sector organisations to design data science and AI projects in areas including health, humanitarian action, climate, and education.
+- DataKind works with social impact organisations to design data science and AI projects, and builds shared products such as its Beacon community data platform. It also runs the Data for Good movement and education initiatives.
 - Region: national
-- Links: [Website](https://www.datakind.org)
+- Links: [Website](https://www.datakind.org) · [GitHub](https://github.com/datakind) · [LinkedIn](https://www.linkedin.com/company/datakind)
 - Tags: data science, nonprofit, volunteers, AI
 
 ## Human Rights Tech
@@ -273,21 +273,21 @@ _3 entries in this domain._
 
 **Electronic Frontier Foundation**
 
-- The Electronic Frontier Foundation defends civil liberties in the digital world. It litigates, campaigns, and publishes tools and guides on privacy, free speech, creativity, and surveillance.
+- Electronic Frontier Foundation (EFF) is a nonprofit defending civil liberties in the digital world through litigation, policy analysis, grassroots activism and technology development.
 - Region: national
-- Links: [Website](https://www.eff.org)
+- Links: [Website](https://www.eff.org) · [GitHub](https://github.com/EFForg) · [LinkedIn](https://www.linkedin.com/company/EFF)
 - Tags: digital rights, privacy, free speech, surveillance
 
 **Freedom of the Press Foundation**
 
-- Freedom of the Press Foundation builds and supports secure tools for journalists, and campaigns against threats to press freedom.
+- Freedom of the Press Foundation is a nonprofit that builds and supports secure journalism tools including SecureDrop and Dangerzone, runs the U.S. Press Freedom Tracker, and campaigns on press freedom.
 - Region: national
 - Links: [Website](https://freedom.press)
 - Tags: press freedom, journalism, security tools, encryption
 
 **Public Knowledge**
 
-- Public Knowledge promotes freedom of expression, an open internet, and access to affordable communications tools and creative works, through policy work on behalf of the public interest.
+- Public Knowledge is a policy nonprofit working on freedom of expression, an open internet, affordable communications and creative works. Its current issues include broadband access, copyright reform and trustworthy AI.
 - Region: national
 - Links: [Website](https://publicknowledge.org)
 - Tags: internet policy, open internet, free expression, advocacy
@@ -300,16 +300,16 @@ _2 entries in this domain._
 
 **EveryoneOn**
 
-- EveryoneOn connects under-resourced communities to affordable internet and computers, trains people and organisations in digital skills, and works for fair access policies.
+- EveryoneOn is a US digital inclusion nonprofit connecting under-resourced communities to affordable internet, computers and digital skills training, with place-based work in California and Milwaukee.
 - Region: national
-- Links: [Website](https://www.everyoneon.org)
+- Links: [Website](https://www.everyoneon.org) · [LinkedIn](https://www.linkedin.com/company/everyoneon)
 - Tags: digital inclusion, affordable internet, devices, digital skills
 
 **Kapor Center**
 
-- The Kapor Center is a family of organisations working to remove barriers for people of colour in the technology sector, through research, programmes, advocacy, and investment.
+- Kapor Center is a family of organisations, including Kapor Foundation, SMASH, Kapor Capital, Kapor Advocacy and the P.R.I.M.E. Alliance, working to remove barriers for people of colour in tech through research, programmes, advocacy and investment.
 - Region: national
-- Links: [Website](https://www.kaporcenter.org)
+- Links: [Website](https://www.kaporcenter.org) · [LinkedIn](https://www.linkedin.com/company/kapor-center)
 - Tags: racial equity, tech sector, research, investment
 
 ## Food Rescue & Food Security Tech
@@ -320,9 +320,9 @@ _1 entry in this domain._
 
 **Feeding America**
 
-- Feeding America is a nonprofit network of 200 food banks working to end hunger in the United States.
+- Feeding America is the largest hunger-relief organisation in the United States, a national network of 250+ food banks, 20+ state associations and 60,000+ agency partners. It distributes food and advocates on hunger policy.
 - Region: national
-- Links: [Website](https://www.feedingamerica.org)
+- Links: [Website](https://www.feedingamerica.org) · [LinkedIn](https://www.linkedin.com/company/feeding-america/)
 - Tags: food security, food banks, hunger, nonprofit
 
 ## Open Data
@@ -333,16 +333,16 @@ _2 entries in this domain._
 
 **Open States**
 
-- Open States publishes data on state legislatures across the United States. It covers who the legislators are, what they sponsor, and how they vote.
+- Open States publishes standardised legislative data for all 50 US states, Washington DC, Puerto Rico, and Congress through a website, API, and bulk downloads. It has been run by Plural since 2021.
 - Region: national
-- Links: [Website](https://openstates.org)
+- Links: [Website](https://openstates.org) · [GitHub](https://github.com/openstates)
 - Tags: state legislatures, open data, legislation, api
 
 **USAFacts**
 
-- USAFacts publishes a nonpartisan view of the state of the country, built from government data and free for anyone to use.
+- USAFacts is a nonpartisan civic initiative founded by Steve Ballmer that turns government data into free articles, reports and tools; it is privately funded and takes no advertising or external donations.
 - Region: national
-- Links: [Website](https://usafacts.org)
+- Links: [Website](https://usafacts.org) · [LinkedIn](https://www.linkedin.com/company/usafacts)
 - Tags: open data, government data, statistics, nonpartisan
 
 ## Journalism & Media Tech
@@ -353,9 +353,9 @@ _1 entry in this domain._
 
 **ProPublica**
 
-- ProPublica is an independent, non-profit newsroom that produces investigative journalism in the public interest.
+- ProPublica is an independent, non-profit investigative newsroom producing public-interest journalism. Its investigations are published free online and often include datasets, tools and legal action to obtain records.
 - Region: national
-- Links: [Website](https://www.propublica.org)
+- Links: [Website](https://www.propublica.org) · [GitHub](https://github.com/propublica)
 - Tags: investigative journalism, nonprofit news, public interest
 
 ## Worker & Platform Co-ops
@@ -366,9 +366,9 @@ _1 entry in this domain._
 
 **U.S. Federation of Worker Cooperatives**
 
-- The U.S. Federation of Worker Cooperatives is the national membership organisation for worker cooperatives and democratic workplaces. It represents an estimated 1,300 US worker co-ops and their 15,000 workers.
+- The U.S. Federation of Worker Cooperatives is the national grassroots membership organisation for worker cooperatives and democratic workplaces. It says its members represent an estimated 1,300 US worker co-ops and their 15,000 workers.
 - Region: national
-- Links: [Website](https://usworker.coop)
+- Links: [Website](https://usworker.coop) · [LinkedIn](https://www.linkedin.com/company/11063135)
 - Tags: worker cooperatives, economic democracy, membership, advocacy
 
 ## How this is maintained / how to add an entry

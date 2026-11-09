@@ -1,11 +1,14 @@
 name: Beeck Center for Social Impact and Innovation
 domain: govtech
-what: The Beeck Center at Georgetown University works on building a people-centred, digitally enabled government for
-  all.
+what: >-
+  Beeck Center for Social Impact and Innovation is the Beeck Center for Social Impact and Innovation
+  at Georgetown University works to build a people-centred, digitally enabled government, connecting
+  government and the civic tech ecosystem through research, networks and practical tools. It was
+  founded in 2014.
 region: national
 website: https://beeckcenter.georgetown.edu
 github: ''
-linkedin_org: ''
+linkedin_org: "https://www.linkedin.com/company/beeckcenter/"
 community_url: ''
 events_url: ''
 linkedin_people: []
@@ -15,8 +18,11 @@ tags:
 - public interest technology
 - university
 related_to: []
-source: beeckcenter.georgetown.edu homepage (verified 2026-09-23)
-founding_year: null
+source: >-
+  Homepage and recent update at
+  https://beeckcenter.georgetown.edu/governments-are-counting-ai-tools-they-should-be-measuring-public-value/
+  (verified 2026-11-10).
+founding_year: 2014
 takes_contributors: null
-careers_url: ''
-last_verified: '2026-09-23'
+careers_url: "https://beeckcenter.georgetown.edu/join-the-team/"
+last_verified: "2026-11-10"

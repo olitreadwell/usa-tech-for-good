@@ -1,10 +1,11 @@
 name: Open States
 domain: open-data
-what: Open States publishes data on state legislatures across the United States. It covers who the legislators are, what
-  they sponsor, and how they vote.
+what: >-
+  Open States publishes standardised legislative data for all 50 US states, Washington DC, Puerto
+  Rico, and Congress through a website, API, and bulk downloads. It has been run by Plural since 2021.
 region: national
 website: https://openstates.org
-github: ''
+github: "https://github.com/openstates"
 linkedin_org: ''
 community_url: ''
 events_url: ''
@@ -15,8 +16,11 @@ tags:
 - legislation
 - api
 related_to: []
-source: openstates.org homepage (verified 2026-09-23)
-founding_year: null
+source: >-
+  Homepage and recent update at
+  https://github.com/openstates/openstates-scrapers/commit/b5357f90ab708ead437926bd44cb99aea09945e2
+  (verified 2026-11-10).
+founding_year: 2009
 takes_contributors: null
 careers_url: ''
-last_verified: '2026-09-23'
+last_verified: "2026-11-10"

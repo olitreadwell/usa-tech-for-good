@@ -1,11 +1,13 @@
 name: Kapor Center
 domain: digital-inclusion
-what: The Kapor Center is a family of organisations working to remove barriers for people of colour in the technology
-  sector, through research, programmes, advocacy, and investment.
+what: >-
+  Kapor Center is a family of organisations, including Kapor Foundation, SMASH, Kapor Capital, Kapor
+  Advocacy and the P.R.I.M.E. Alliance, working to remove barriers for people of colour in tech
+  through research, programmes, advocacy and investment.
 region: national
 website: https://www.kaporcenter.org
 github: ''
-linkedin_org: ''
+linkedin_org: "https://www.linkedin.com/company/kapor-center"
 community_url: ''
 events_url: ''
 linkedin_people: []
@@ -15,8 +17,11 @@ tags:
 - research
 - investment
 related_to: []
-source: kaporcenter.org homepage (verified 2026-09-23)
+source: >-
+  Homepage and recent update at
+  https://www.prnewswire.com/news-releases/kapor-center-launches-prime-alliance-to-transform-how-cities-work-with-startups-302887608.html
+  (verified 2026-11-10).
 founding_year: null
 takes_contributors: null
-careers_url: ''
-last_verified: '2026-09-23'
+careers_url: "https://www.kaporcenter.org/jobs/"
+last_verified: "2026-11-10"

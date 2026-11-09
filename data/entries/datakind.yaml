@@ -1,11 +1,13 @@
 name: DataKind
 domain: research / education tech
-what: DataKind works with social sector organisations to design data science and AI projects in areas including
-  health, humanitarian action, climate, and education.
+what: >-
+  DataKind works with social impact organisations to design data science and AI projects, and builds
+  shared products such as its Beacon community data platform. It also runs the Data for Good movement
+  and education initiatives.
 region: national
 website: https://www.datakind.org
-github: ''
-linkedin_org: ''
+github: "https://github.com/datakind"
+linkedin_org: "https://www.linkedin.com/company/datakind"
 community_url: ''
 events_url: ''
 linkedin_people: []
@@ -15,8 +17,11 @@ tags:
 - volunteers
 - AI
 related_to: []
-source: datakind.org/about (verified 2026-09-23)
+source: >-
+  Homepage and recent update at
+  https://www.datakind.org/2026/06/17/introducing-beacon-a-new-platform-for-community-data-coordinated-action/;
+  activity also at https://www.datakind.org/blog/ (verified 2026-11-10).
 founding_year: 2012
 takes_contributors: null
-careers_url: ''
-last_verified: '2026-09-23'
+careers_url: "https://www.datakind.org/careers/"
+last_verified: "2026-11-10"

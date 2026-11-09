@@ -1,11 +1,13 @@
 name: USAFacts
 domain: open-data
-what: USAFacts publishes a nonpartisan view of the state of the country, built from government data and free for
-  anyone to use.
+what: >-
+  USAFacts is a nonpartisan civic initiative founded by Steve Ballmer that turns government data into
+  free articles, reports and tools; it is privately funded and takes no advertising or external
+  donations.
 region: national
 website: https://usafacts.org
 github: ''
-linkedin_org: ''
+linkedin_org: "https://www.linkedin.com/company/usafacts"
 community_url: ''
 events_url: ''
 linkedin_people: []
@@ -15,8 +17,10 @@ tags:
 - statistics
 - nonpartisan
 related_to: []
-source: usafacts.org homepage (verified 2026-09-23)
-founding_year: null
+source: >-
+  Homepage and recent update at https://usafacts.org/reports/government-10-k/; activity also at
+  https://usafacts.org/ (verified 2026-11-10).
+founding_year: 2017
 takes_contributors: null
 careers_url: ''
-last_verified: '2026-09-23'
+last_verified: "2026-11-10"

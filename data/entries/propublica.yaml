@@ -1,9 +1,12 @@
 name: ProPublica
 domain: journalism / media-tech
-what: ProPublica is an independent, non-profit newsroom that produces investigative journalism in the public interest.
+what: >-
+  ProPublica is an independent, non-profit investigative newsroom producing public-interest
+  journalism. Its investigations are published free online and often include datasets, tools and legal
+  action to obtain records.
 region: national
 website: https://www.propublica.org
-github: ''
+github: "https://github.com/propublica"
 linkedin_org: ''
 community_url: ''
 events_url: ''
@@ -13,8 +16,11 @@ tags:
 - nonprofit news
 - public interest
 related_to: []
-source: propublica.org homepage (verified 2026-09-23)
-founding_year: null
+source: >-
+  Homepage and recent update at
+  https://www.propublica.org/article/generic-prescription-drug-supply-fda-explained (verified
+  2026-11-10).
+founding_year: 2007
 takes_contributors: null
 careers_url: ''
-last_verified: '2026-09-23'
+last_verified: "2026-11-10"

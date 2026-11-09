@@ -1,9 +1,9 @@
 name: ImpactLine
 domain: civic-tech
 what: >-
-  ImpactLine is an independent, free public-budget reader that organizes government revenue and
-  spending figures with source links and fiscal periods. Its public coverage includes the US
-  federal government, six states, and four cities.
+  ImpactLine is a free public-budget reader that organises government revenue and spending with source
+  links and fiscal periods. Its site covers the federal government, all 50 states and 35,395 local
+  governments.
 region: national
 website: https://www.impactline.org
 github: ''
@@ -17,8 +17,11 @@ tags:
 - public budgets
 - public records
 related_to: []
-source: impactline.org homepage and FAQ (verified 2026-10-29)
+source: >-
+  Homepage and recent update at
+  https://www.impactline.org/articles/state-government-spending-fy2024-all-50-states (verified
+  2026-11-10).
 founding_year: null
 takes_contributors: null
 careers_url: ''
-last_verified: '2026-10-29'
+last_verified: "2026-11-10"

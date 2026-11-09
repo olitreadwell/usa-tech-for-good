@@ -1,11 +1,13 @@
 name: U.S. Federation of Worker Cooperatives
 domain: worker-coop / platform-coop tech
-what: The U.S. Federation of Worker Cooperatives is the national membership organisation for worker cooperatives and
-  democratic workplaces. It represents an estimated 1,300 US worker co-ops and their 15,000 workers.
+what: >-
+  The U.S. Federation of Worker Cooperatives is the national grassroots membership organisation for
+  worker cooperatives and democratic workplaces. It says its members represent an estimated 1,300 US
+  worker co-ops and their 15,000 workers.
 region: national
 website: https://usworker.coop
 github: ''
-linkedin_org: ''
+linkedin_org: "https://www.linkedin.com/company/11063135"
 community_url: ''
 events_url: ''
 linkedin_people: []
@@ -15,8 +17,11 @@ tags:
 - membership
 - advocacy
 related_to: []
-source: usworker.coop/about (verified 2026-09-23)
-founding_year: null
+source: >-
+  Homepage and recent update at
+  https://www.usworker.coop/blog/we-did-it-highlights-from-the-2026-worker-co-op-conference/ (verified
+  2026-11-10).
+founding_year: 2004
 takes_contributors: null
-careers_url: ''
-last_verified: '2026-09-23'
+careers_url: "https://www.usworker.coop/jobs/"
+last_verified: "2026-11-10"

@@ -1,10 +1,12 @@
 name: CarbonPlan
 domain: green / climate-tech
-what: CarbonPlan works on the transparency and scientific integrity of climate solutions, publishing open data and
-  tools alongside its analysis.
+what: >-
+  CarbonPlan is a non-profit that analyses climate solutions, focusing on carbon offsets, carbon
+  removal, and climate risk. It publishes open data and tools including OffsetsDB and Open Climate
+  Risk.
 region: national
 website: https://carbonplan.org
-github: ''
+github: "https://github.com/carbonplan"
 linkedin_org: ''
 community_url: ''
 events_url: ''
@@ -15,8 +17,9 @@ tags:
 - research
 - tools
 related_to: []
-source: carbonplan.org homepage (verified 2026-09-23)
+source: >-
+  Homepage and recent update at https://carbonplan.org/blog/pnw-wildfires-2026 (verified 2026-11-10).
 founding_year: null
 takes_contributors: null
-careers_url: ''
-last_verified: '2026-09-23'
+careers_url: "https://carbonplan.org/jobs"
+last_verified: "2026-11-10"

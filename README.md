@@ -40,92 +40,92 @@ Download the data as [JSON](https://github.com/olitreadwell/usa-tech-for-good/bl
 
 ### Open data
 
-- [Open States](https://openstates.org) - Publishes data on state legislatures across the United States. It covers who the legislators are, what they sponsor, and how they vote.
-- [USAFacts](https://usafacts.org) - Publishes a nonpartisan view of the state of the country, built from government data and free for anyone to use.
+- [Open States](https://openstates.org) - Publishes standardised legislative data for all 50 US states, Washington DC, Puerto Rico, and Congress through a website, API, and bulk downloads. It has been run by Plural since 2021.
+- [USAFacts](https://usafacts.org) - A nonpartisan civic initiative founded by Steve Ballmer that turns government data into free articles, reports and tools. It is privately funded and takes no advertising or external donations.
 
 ## Civic and community
 
 ### Civic tech
 
-- [Ballotpedia](https://ballotpedia.org) - A digital encyclopedia of American politics, covering elections, candidates, and ballot measures.
-- [Center for Civic Design](https://civicdesign.org) - The Center for Civic Design works on election design, so that voters can express their intent clearly. It publishes its research and field guides for election officials.
-- [Center for Tech and Civic Life](https://www.techandciviclife.org) - The Center for Tech and Civic Life works with election officials to modernise the American voting experience, through grants, research, and shared election infrastructure.
-- [Code for America](https://codeforamerica.org) - Works with governments and communities across the country to break down barriers and find real solutions, and believes government at every level can work well for everyone.
-- [Democracy Works](https://www.democracy.works) - Builds tools and delivers election information that help millions of Americans vote, with the aim of removing the gaps that keep turnout low.
-- [Election.org](https://election.org) - A nonpartisan civic reference for US elections, candidates, elected officials, campaign finance, and local government. Its records link to public sources, with charts, research downloads, and documented data endpoints.
-- [GovTrack](https://www.govtrack.us) - Tracks legislation and votes in the United States Congress and actions by the White House, and publishes the record where anyone can follow it.
-- [ImpactLine](https://www.impactline.org) - An independent, free public-budget reader that organizes government revenue and spending figures with source links and fiscal periods. Its public coverage includes the US federal government, six states, and four cities.
-- [Vote.org](https://www.vote.org) - A nonpartisan service for registering to vote, checking a registration, and requesting an absentee ballot.
+- [Ballotpedia](https://ballotpedia.org) - A non-profit digital encyclopedia of American politics covering elections, candidates, offices and ballot measures. It has 758,643 encyclopedic articles and says it has had more than 1.2 billion page views since 2007.
+- [Center for Civic Design](https://civicdesign.org) - An US non-profit that applies plain language, accessibility, information design and research to election materials and voter journeys. It publishes free tools, field guides and research for election officials.
+- [Center for Tech and Civic Life](https://www.techandciviclife.org) - A nonpartisan nonprofit modernising US election administration through grants, research, training and data tools. Its projects include the Ballot Information Project and Governance Project.
+- [Code for America](https://codeforamerica.org) - A US civic-tech nonprofit that works with governments to make public benefits and services easier to access, including SNAP, tax credits and criminal record relief.
+- [Democracy Works](https://www.democracy.works) - A non-partisan nonprofit that builds voter engagement and election data tools, including TurboVote, the Elections API, and the Voting Information Project.
+- [Election.org](https://election.org) - A nonpartisan civic reference publishing source-linked records on US elections, candidates, elected officials, campaign finance and local government. It provides charts, downloads and documented data endpoints.
+- [GovTrack](https://www.govtrack.us) - An independent project tracking US Congress legislation and votes plus White House actions. It publishes bill status, voting records, statistics and analysis.
+- [ImpactLine](https://www.impactline.org) - A free public-budget reader that organises government revenue and spending with source links and fiscal periods. Its site covers the federal government, all 50 states and 35,395 local governments.
+- [Vote.org](https://www.vote.org) - A nonpartisan nonprofit using technology and outreach to help Americans register, check registration, request mail ballots and find voting information. It says it has helped more than 40 million people get election-ready.
 
 ### Government technology
 
-- [Beeck Center for Social Impact and Innovation](https://beeckcenter.georgetown.edu) - The Beeck Center at Georgetown University works on building a people-centred, digitally enabled government for all.
-- [Coding it Forward](https://www.codingitforward.com) - A nonprofit for early-career technologists. It runs the Coding it Forward Fellowship, a civic tech internship for students and recent graduates.
+- [Beeck Center for Social Impact and Innovation](https://beeckcenter.georgetown.edu) - The Beeck Center for Social Impact and Innovation at Georgetown University works to build a people-centred, digitally enabled government, connecting government and the civic tech ecosystem through research, networks and practical tools. It was founded in 2014.
+- [Coding it Forward](https://www.codingitforward.com) - A nonprofit that builds civic tech career paths for early-career technologists and places them in government agencies and nonprofits through its Fellowship.
 
 ### Human rights technology
 
-- [Electronic Frontier Foundation](https://www.eff.org) - The Electronic Frontier Foundation defends civil liberties in the digital world. It litigates, campaigns, and publishes tools and guides on privacy, free speech, creativity, and surveillance.
-- [Freedom of the Press Foundation](https://freedom.press) - Builds and supports secure tools for journalists, and campaigns against threats to press freedom.
-- [Public Knowledge](https://publicknowledge.org) - Promotes freedom of expression, an open internet, and access to affordable communications tools and creative works, through policy work on behalf of the public interest.
+- [Electronic Frontier Foundation](https://www.eff.org) - A nonprofit defending civil liberties in the digital world through litigation, policy analysis, grassroots activism and technology development.
+- [Freedom of the Press Foundation](https://freedom.press) - A nonprofit that builds and supports secure journalism tools including SecureDrop and Dangerzone, runs the U.S. Press Freedom Tracker, and campaigns on press freedom.
+- [Public Knowledge](https://publicknowledge.org) - A policy nonprofit working on freedom of expression, an open internet, affordable communications and creative works. Its current issues include broadband access, copyright reform and trustworthy AI.
 
 ### Journalism and media technology
 
-- [ProPublica](https://www.propublica.org) - An independent, non-profit newsroom that produces investigative journalism in the public interest.
+- [ProPublica](https://www.propublica.org) - An independent, non-profit investigative newsroom producing public-interest journalism. Its investigations are published free online and often include datasets, tools and legal action to obtain records.
 
 ## Access and inclusion
 
 ### Digital inclusion
 
-- [EveryoneOn](https://www.everyoneon.org) - Connects under-resourced communities to affordable internet and computers, trains people and organisations in digital skills, and works for fair access policies.
-- [Kapor Center](https://www.kaporcenter.org) - The Kapor Center is a family of organisations working to remove barriers for people of colour in the technology sector, through research, programmes, advocacy, and investment.
+- [EveryoneOn](https://www.everyoneon.org) - A US digital inclusion nonprofit connecting under-resourced communities to affordable internet, computers and digital skills training, with place-based work in California and Milwaukee.
+- [Kapor Center](https://www.kaporcenter.org) - A family of organisations, including Kapor Foundation, SMASH, Kapor Capital, Kapor Advocacy and the P.R.I.M.E. Alliance, working to remove barriers for people of colour in tech through research, programmes, advocacy and investment.
 
 ### Disability and accessibility technology
 
-- [American Foundation for the Blind](https://www.afb.org) - The American Foundation for the Blind works to expand possibilities for the millions of Americans living with vision loss, and has done so since 1921.
-- [Knowbility](https://knowbility.org) - A nonprofit based in Austin, Texas working to create an inclusive digital world for people with disabilities, through training, consulting, and advocacy. It was founded in 1999.
+- [American Foundation for the Blind](https://www.afb.org) - The American Foundation for the Blind is a US nonprofit expanding opportunities for people who are blind or have low vision through advocacy, research, accessible technology and professional services. It was founded in 1921.
+- [Knowbility](https://knowbility.org) - An Austin-based nonprofit that runs accessibility training, consulting and usability testing, including the Accessibility Internet Rally and the John Slatin AccessU conference. It was founded in 1999.
 
 ### Education equity technology
 
-- [Benetech](https://benetech.org) - A nonprofit that creates software for social good in education, employment, and social inclusion, and offers free training for educators supporting students with diverse learning needs.
-- [CodeAI](https://code.org) - An education nonprofit working so that every student in every school can learn about artificial intelligence and computer science as part of their core K-12 education. It was previously known as Code.org.
+- [Benetech](https://benetech.org) - A nonprofit building accessible education technology, including Bookshare and its Global Certified Accessible programme. It campaigns to make accessibility the norm in schools and institutions.
+- [CodeAI](https://code.org) - An education nonprofit, formerly Code.org, working so every K-12 student can learn AI and computer science. It provides free curriculum, teacher training and policy work, and says it has reached 155 million students and 3 million teachers in 190 countries.
 
 ## Health and wellbeing
 
 ### Mental health technology
 
-- [Crisis Text Line](https://www.crisistextline.org) - Provides free, 24-hour, confidential text support for people in crisis, in English and Spanish.
+- [Crisis Text Line](https://www.crisistextline.org) - Provides free, 24-hour, confidential text support for people in crisis. It says it has supported over 11 million conversations in the US since 2013.
 
 ## Climate, food and housing
 
 ### Climate technology
 
-- [CarbonPlan](https://carbonplan.org) - Works on the transparency and scientific integrity of climate solutions, publishing open data and tools alongside its analysis.
-- [Rewiring America](https://www.rewiringamerica.org) - Works on electrifying American households, with the aim of clean energy that every household can afford.
+- [CarbonPlan](https://carbonplan.org) - A non-profit that analyses climate solutions, focusing on carbon offsets, carbon removal, and climate risk. It publishes open data and tools including OffsetsDB and Open Climate Risk.
+- [Rewiring America](https://www.rewiringamerica.org) - A US nonprofit working to electrify households and make clean energy affordable, through policy, data tools and community programmes.
 
 ### Food rescue and food security
 
-- [Feeding America](https://www.feedingamerica.org) - A nonprofit network of 200 food banks working to end hunger in the United States.
+- [Feeding America](https://www.feedingamerica.org) - The largest hunger-relief organisation in the United States, a national network of 250+ food banks, 20+ state associations and 60,000+ agency partners. It distributes food and advocates on hunger policy.
 
 ### Housing and homelessness technology
 
-- [Community Solutions](https://community.solutions) - Helps communities act with speed, coordination, and accountability to reduce homelessness, and publishes data on the progress those communities make.
+- [Community Solutions](https://community.solutions) - A nonprofit working with more than 150 cities and counties through Built for Zero to reduce homelessness using real-time data and coordinated action.
 
 ## Work, money and learning
 
 ### Worker and platform co-ops
 
-- [U.S. Federation of Worker Cooperatives](https://usworker.coop) - The U.S. Federation of Worker Cooperatives is the national membership organisation for worker cooperatives and democratic workplaces. It represents an estimated 1,300 US worker co-ops and their 15,000 workers.
+- [U.S. Federation of Worker Cooperatives](https://usworker.coop) - The U.S. Federation of Worker Cooperatives is the national grassroots membership organisation for worker cooperatives and democratic workplaces. It says its members represent an estimated 1,300 US worker co-ops and their 15,000 workers.
 
 ### Research and education technology
 
-- [DataKind](https://www.datakind.org) - Works with social sector organisations to design data science and AI projects in areas including health, humanitarian action, climate, and education.
+- [DataKind](https://www.datakind.org) - Works with social impact organisations to design data science and AI projects, and builds shared products such as its Beacon community data platform. It also runs the Data for Good movement and education initiatives.
 
 ## Tech ethics and responsible AI
 
 ### Technology ethics and responsible AI
 
-- [AI Now Institute](https://ainowinstitute.org) - An independent research institute providing expert analysis on artificial intelligence in the public interest.
-- [Data & Society Research Institute](https://datasociety.net) - Data & Society is a research institute studying the social implications of data and automation. It argues that technology policy should be grounded in research about technology's real-world effects.
+- [AI Now Institute](https://ainowinstitute.org) - An independent research institute producing policy research on AI's social consequences, corporate power, surveillance and public accountability.
+- [Data & Society Research Institute](https://datasociety.net) - Data & Society is an independent nonprofit research institute studying the social implications of data, automation and AI, producing research to ground public debate and technology policy.
 
 ## Footnotes
 
