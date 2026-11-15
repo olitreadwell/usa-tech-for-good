@@ -1,8 +1,8 @@
 name: Pages redirect
 
 # The site now lives at https://usa-tech-for-good.vercel.app/.
-# This workflow keeps old GitHub Pages links working by publishing a small
-# redirect page instead of the old nested build.
+# This workflow keeps old GitHub Pages links working.
+# It publishes a small redirect page instead of the old nested build.
 
 on:
   push:

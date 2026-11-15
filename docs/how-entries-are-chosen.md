@@ -6,7 +6,7 @@ explains the boundary.
 
 ## In scope
 
-An entry belongs here if ALL of the following are true:
+An entry belongs here if all of the following are true:
 
 1. **US-based.** The organisation operates primarily in the United States.
    International orgs with a small US presence are generally out, unless
@@ -16,10 +16,10 @@ An entry belongs here if ALL of the following are true:
    "Technology" here includes software, data, digital platforms, hardware,
    and applied research. "For good" means the primary mission is public
    benefit: not-for-profit, government, community-led, or mission-led.
-   Purely commercial products don't qualify, even if they're useful.
+   Purely commercial products do not qualify, even if they are useful.
 
 3. **Verifiable.** Every field in the entry must be confirmed against a
-   live, public source. If a fact can't be verified, it's left empty.
+   live, public source. If a fact cannot be verified, it is left empty.
    Never invent or guess.
 
 4. **Active.** The organisation is currently operating, and its website
@@ -54,17 +54,17 @@ An entry belongs here if ALL of the following are true:
 
 If you know a group that fits the scope:
 
-1. **Check it's not already listed**: search [GUIDE.md](../GUIDE.md) or the
+1. **Check that it is not already listed**: search <a href="../GUIDE.md">the guide</a> or the
    exports in [`data/exports/`](../data/exports/). The website is not
    deployed yet, so there is no live search box to use.
-2. **Verify it's active**: check the website resolves and the org is
+2. **Verify that it is active**: check the website resolves and the org is
    still operating.
 3. **Open an issue** using the [add-entry template](../../issues/new?template=add-entry.yml)
    or open a pull request following [CONTRIBUTING.md](../CONTRIBUTING.md).
 
 ## Edge cases
 
-If you're unsure whether something belongs, open an issue and ask. The
+If you are unsure whether something belongs, open an issue and ask. The
 directory is community-maintained, and the scope evolves with consensus.
-When in doubt, err on the side of inclusion: it's easier to remove an
+When in doubt, err on the side of inclusion: it is easier to remove an
 entry later than to recover one that was never added.

@@ -15,7 +15,7 @@ Earlier history belongs to the NZ repository this one was derived from:
 - Seeded the directory with 30 US entries, each verified against its own
   homepage on the day it was added. Regenerated `GUIDE.md` and the JSON and
   CSV exports from them.
-- Rewrote the README for the US, including a status section that says plainly
+- Rewrote the readme file for the US, including a status section that says plainly
   that the directory has just been seeded.
 - Rewrote `docs/how-entries-are-chosen.md`, `docs/known-gaps.md`,
   `docs/research-get-involved.md`, and `docs/roadmap.md` for the US.
@@ -30,7 +30,7 @@ Earlier history belongs to the NZ repository this one was derived from:
   Māori tech initiatives, health tech for good and hauora Māori) from the
   schema, `data/domain-descriptions.yaml`, `scripts/build_guide.py`, and the
   add-entry issue form. Every remaining domain has an explainer. No US
-  replacement was invented for them; see `docs/known-gaps.md`.
+  replacement was invented for them. See `docs/known-gaps.md`.
 - Renamed the root package from `@olitreadwell/nz-tech-for-good` to
   `@olitreadwell/usa-tech-for-good`.
 - Cleared `data/archives.json`, which held Wayback snapshots of NZ entries.

@@ -4,7 +4,7 @@ This is the repeatable way to add organisations and fill fields without inventin
 
 ## Inputs
 
-- Discovery: Civic Tech Field Guide API at `https://civictech.guide/api/v1/projects/search`. Filter by `country`, `projectType=Organization`, `status=Active`, and paginate with `limit` and `offset`. The data is CC BY 4.0.
+- Discovery: Civic Tech Field Guide data interface at `https://civictech.guide/api/v1/projects/search`. Filter by `country`, `projectType=Organization`, `status=Active`, and paginate with `limit` and `offset`. The data is available under the Creative Commons Attribution 4.0 licence.
 - Identity check: the relevant official register, such as the Charity Commission for England and Wales or Companies House. A register confirms legal status, not current operations.
 - Facts: the organisation's own live pages. The homepage supports name and mission. The about page usually supports founding year. The careers, volunteer, events and contact pages support links and participation fields.
 

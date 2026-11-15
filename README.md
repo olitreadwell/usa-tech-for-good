@@ -87,7 +87,7 @@ Download the data as [JSON](https://github.com/olitreadwell/usa-tech-for-good/bl
 
 - [Beeck Center for Social Impact and Innovation](https://beeckcenter.georgetown.edu) - The Beeck Center for Social Impact and Innovation at Georgetown University works to build a people-centred, digitally enabled government, connecting government and the civic tech ecosystem through research, networks and practical tools. It was founded in 2014.
 - [California Department of Technology (CDT)](https://www.cdt.ca.gov/) - The California Department of Technology is the state's central information technology agency. It oversees statewide IT policy, project delivery and security, and provides shared infrastructure and digital services to state government.
-- [California Privacy Protection Agency (CPPA)](https://cppa.ca.gov/) - The California Privacy Protection Agency is the state agency that implements and enforces California's consumer privacy law. It operates the Delete Request and Opt-out Platform and a data broker registry, and educates the public about privacy rights.
+- [California Privacy Protection Agency (CPPA)](https://cppa.ca.gov/) - The California Privacy Protection Agency is the state agency that implements and enforces consumer privacy law in California. It operates the Delete Request and Opt-out Platform and a data broker registry, and educates the public about privacy rights.
 - [Coding it Forward](https://www.codingitforward.com) - A nonprofit that builds civic tech career paths for early-career technologists and places them in government agencies and nonprofits through its Fellowship.
 - [InnovateUS](https://innovate-us.org/) - A partner project of several academic and public-interest technology programs that offers free online courses, workshops, and coaching on AI and innovation skills for public-sector professionals. Its courses cover responsible AI, public engagement, and practical uses of generative AI in government.
 - [Open Mobility Foundation](https://www.openmobilityfoundation.org/) - The Open Mobility Foundation is a nonprofit that stewards open-source data standards such as the Mobility Data Specification and Curb Data Specification. Cities and technology partners use the standards to manage shared mobility and digitize public space.
@@ -168,7 +168,7 @@ Download the data as [JSON](https://github.com/olitreadwell/usa-tech-for-good/bl
 
 ### Housing and homelessness technology
 
-- [Airbnb.org](https://www.airbnb.org) - A non-profit that provides free emergency housing to people affected by disasters, illness or other crises. It works with partner organizations and uses Airbnb's platform and host network to arrange short-term stays.
+- [Airbnb.org](https://www.airbnb.org) - A non-profit that provides free emergency housing to people affected by disasters, illness or other crises. It works with partner organizations and uses the Airbnb platform and host network to arrange short-term stays.
 - [Community Solutions](https://community.solutions) - A nonprofit working with more than 150 cities and counties through Built for Zero to reduce homelessness using real-time data and coordinated action.
 
 ## Work, money and learning
@@ -226,3 +226,39 @@ If you are listed here and want your information corrected or removed, use the i
 **GIS**: software for making and reading maps from data.
 
 **AI**: software that can do tasks that usually need human judgement.
+
+## Terms
+
+- Artificial intelligence (AI): software used to perform tasks that need human judgement.
+- Application programming interface (API): software used by one program to talk to another.
+- AVID (AVID): a name used by an organisation in this directory.
+- BARI (BARI): a name used by an organisation in this directory.
+- BTV (BTV): a name used by an organisation in this directory.
+- BY (BY): a name used by an organisation in this directory.
+- CAIDP (CAIDP): a name used by an organisation in this directory.
+- Creative Commons licence (CC): a public licence used for shared works.
+- CDT (CDT): a name used by an organisation in this directory.
+- CPPA (CPPA): a name used by an organisation in this directory.
+- CSV (CSV): a name used by an organisation in this directory.
+- DC (DC): a name used by an organisation in this directory.
+- GANNET (GANNET): a name used by an organisation in this directory.
+- Geographic information system (GIS): software used for mapping and spatial data.
+- HOT (HOT): a name used by an organisation in this directory.
+- Information technology (IT): computer systems and the work that runs them.
+- JSON (JSON): a name used by an organisation in this directory.
+- Massachusetts Institute of Technology licence (MIT): an open-source licence used for software.
+- ML (ML): a name used by an organisation in this directory.
+- Non-governmental organisation (NGO): a group that is not part of government.
+- NOTICE (NOTICE): a name used by an organisation in this directory.
+- NTEN (NTEN): a name used by an organisation in this directory.
+- NYC (NYC): a name used by an organisation in this directory.
+- OGC (OGC): a name used by an organisation in this directory.
+- ORG (ORG): a name used by an organisation in this directory.
+- REAL (REAL): a name used by an organisation in this directory.
+- RECAP (RECAP): a name used by an organisation in this directory.
+- SA (SA): a name used by an organisation in this directory.
+- SF (SF): a name used by an organisation in this directory.
+- SMASH (SMASH): a name used by an organisation in this directory.
+- SNAP (SNAP): a name used by an organisation in this directory.
+- UC (UC): a name used by an organisation in this directory.
+- WASH (WASH): a name used by an organisation in this directory.

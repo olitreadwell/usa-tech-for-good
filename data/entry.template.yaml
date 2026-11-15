@@ -1,16 +1,16 @@
 # Template for a new directory entry.
 #
-# Copy this file to data/entries/<slug>.yaml, where <slug> is the
-# organisation's name in lowercase with hyphens instead of spaces.
+# Copy this file to data/entries/<slug>.yaml. The <slug> is the name of the
+# organisation in lowercase, with hyphens instead of spaces.
 # Example: "Code for America" -> data/entries/code-for-america.yaml
-#
-# Fill in every field marked required. Leave optional fields as null,
-# empty string, or empty list if you don't have a verified value.
-# never guess or invent a value.
-#
+
+# Fill in every field marked required. Leave optional fields as null, an
+# empty string, or an empty list if you do not have a verified value.
+# Never guess or invent a value.
+
 # Once filled in, run `python3 scripts/validate.py` to check it against
-# schema/entry.schema.json, then `python3 scripts/build_guide.py` to
-# regenerate GUIDE.md. See CONTRIBUTING.md for the full walkthrough.
+# schema/entry.schema.json. Then run `python3 scripts/build_guide.py` to
+# regenerate the guide. See `CONTRIBUTING.md` for the full walkthrough.
 
 # Required. The organisation, project, or network's name.
 name: ""
@@ -23,13 +23,11 @@ domain: ""
 # matters. Write for someone who has never heard of it.
 what: ""
 
-# Required. The US region it's based in (one of the values in
-# schema/entry.schema.json: new-england, mid-atlantic, southeast, midwest,
-# south-central, mountain-west, pacific-northwest, california, alaska,
-# hawaii), or "national" if it operates across the country.
+# Required. The USA region it is based in. Use one of the region values in
+# schema/entry.schema.json. Use "national" if it operates across the country.
 region: ""
 
-# Its main website URL. Leave as an empty string if it doesn't have one.
+# Its main website URL. Leave as an empty string if it does not have one.
 website: ""
 
 # Its GitHub org/repo URL. Leave as an empty string if none.
