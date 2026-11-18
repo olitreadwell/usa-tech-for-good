@@ -2,6 +2,12 @@
 
 A plain-language list of 103 organisations, projects, and networks in the United States that use technology for public good.
 
+## Mission
+
+USA Tech-for-Good exists to make the work of organisations in the United States using technology for public good easier to find, check, and support. It is volunteer-run and built in the open, so anyone can find prior art before starting something new.
+
+Volunteer-run. No ads or tracking. Not monetised.
+
 ## Contents
 
 - [Start here](#start-here)

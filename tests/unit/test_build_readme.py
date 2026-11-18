@@ -87,6 +87,13 @@ class TestRenderReadme:
 
         assert f"{build_readme.SITE_URL}/entry/example-org" in text
 
+    def test_states_the_mission_and_the_no_ads_pledge(self):
+        text = build_readme.render_readme([entry()])
+
+        assert "## Mission" in text
+        assert f"{build_readme.TITLE} exists" in text
+        assert "No ads or tracking. Not monetised." in text
+
 
 class TestCheckReadme:
     def test_reports_stale_content(self, tmp_path):
